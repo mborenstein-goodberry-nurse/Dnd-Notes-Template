@@ -1,5 +1,7 @@
 # Controls 
 Create New Session Journal
+Create New Person 
+Create New Place 
 
 # Journals
 ```dataview

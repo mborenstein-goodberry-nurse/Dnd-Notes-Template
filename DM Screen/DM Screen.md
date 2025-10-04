@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Campaign Controls
 
-- [ ] [[Sands of Desolation]]
+- [ ] [[Sample Campaign]]
 - [ ] ```calendarium
 	```
 
