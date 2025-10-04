@@ -1,0 +1,1 @@
+Slashing damage is the third physical damage type, and it refers to cutting attacks of the kind delivered by a sword or an axe, or by a monster's claws. While few creatures have vulnerabilities, there are many that have resistances to multiple damage types, and then one damage type missing.

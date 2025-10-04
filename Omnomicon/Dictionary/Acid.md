@@ -1,0 +1,1 @@
+Now we're getting to the good stuff. Unlike poison, which generally has to be ingested or injected to cause harm, acid damage comes from corrosive, dissolving substances that are harmful to the touch.

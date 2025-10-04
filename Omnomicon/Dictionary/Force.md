@@ -1,0 +1,1 @@
+Force is a somewhat indescribable damage type that's given to magical projectiles and weapons. [[Spiritual Weapon]] and [[Eldritch Blast]] are common examples.

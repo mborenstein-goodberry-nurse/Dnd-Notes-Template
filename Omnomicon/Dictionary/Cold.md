@@ -1,0 +1,1 @@
+Cold damage is a little less intuitive to imagine than fire, but it's still pretty straightforward. It refers to the pain and damage caused by sudden exposure to immensely cold temperatures. You'll probably need a spellcasting class or a 5e magic item to make use of it.

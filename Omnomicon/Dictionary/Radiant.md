@@ -1,0 +1,1 @@
+Radiant damage refers to the burning power of holy light. While some might expect it to be effective against all unholy, Undead monsters, it's only the darkness-dwelling shadows that actually fear the light.

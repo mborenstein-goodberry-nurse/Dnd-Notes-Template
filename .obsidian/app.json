@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "z_Scratch Notes",
+  "attachmentFolderPath": "z_Assets",
+  "defaultViewMode": "source",
+  "vimMode": false,
+  "userIgnoreFilters": [
+    "z_Templates/"
+  ]
+}

@@ -1,0 +1,1 @@
+Not to be confused with the previous entry, thunder refers to damage caused by an intense shockwave of sound. In fact, it was known as 'sonic damage' in fourth edition.

@@ -1,0 +1,3 @@
+Fire damage is self-explanatory: we all know what fire is and how it damages stuff. In terms of dishing it out, there are plenty of spells to draw from, and if you want to be throwing Fireballs nonstop, we suggest the [[School of Evocation|Evocation Wizard]] subclass could be right for you.
+
+However, unlike cold or lightning, you can also harness fire using mundane equipment. If you're out of spell slots, oil flasks and a tinderbox may come in clutch to turn up the heat on a burnable monster. 

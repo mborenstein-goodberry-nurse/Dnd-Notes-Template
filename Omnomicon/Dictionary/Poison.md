@@ -1,0 +1,1 @@
+Poison damage comes from contact with or ingestion of harmful substances. There aren't that many spells that inflict it, and in fact, this is a damage type that seems more likely to come from a monster, whether a serpent, Green Dragon, or countless other stinging or fanged monsters. 

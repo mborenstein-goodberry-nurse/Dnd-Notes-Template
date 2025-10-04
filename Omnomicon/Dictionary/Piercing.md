@@ -1,0 +1,1 @@
+Piercing specifically refers to stabbing, puncturing wounds, of the kind dealt by spears, bows, and rapiers. Like the other physical damage types, there are almost no creatures that are vulnerable to piercing damage, but also few that actively resist it. You'll mainly have trouble fighting swarms of little biting things, or ethereal creatures like Ghosts.
