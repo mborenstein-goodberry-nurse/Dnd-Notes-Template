@@ -10,7 +10,7 @@ You have manifested an aberrant dragonmark. Determine its appearance and the fla
 
 - Increase your [[Constitution]] score by 1, to a maximum of 20.
 - You learn a cantrip of your choice from the [[Sorcerer Spells#Cantrip|sorcerer spell list]]. In addition, choose a 1st-level spell from the [[Sorcerer Spells#1st Level|sorcerer spell list]]. You learn that spell and can cast it through your mark. Once you cast it, you must finish a short or long rest before you can cast it again through the mark. Constitution is your spellcasting ability for these spells.
-- When you cast the 1st-level spell through your mark, you can expend one of your [[Hit Dice]] and roll it. If you roll an even number, you gain a number of [[temporary hit points]] equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes [[force]] damage equal to the number rolled. If no other creatures are in range, you take the damage.
+- When you cast the 1st-level spell through your mark, you can expend one of your [[Hit Dice]] and roll it. If you roll an even number, you gain a number of [[temporary hit points]] equal to the number rolled. If you roll an odd number, one random creature within 30 feet of you (not including you) takes [[Force]] damage equal to the number rolled. If no other creatures are in range, you take the damage.
 
 You also develop a random flaw from the Aberrant Dragonmark Flaws table.
 

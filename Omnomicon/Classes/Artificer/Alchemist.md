@@ -46,7 +46,7 @@ When you reach certain levels in this class, you can make more elixirs at the en
 
 ### Alchemical Savant
 
-At 5th level, you've developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals [[acid]], [[fire]], [[necrotic]], or [[poison]] damage, and the bonus equals your [[Intelligence]] modifier (minimum of +1).
+At 5th level, you've developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist's supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals [[Acid]], [[Fire]], [[Necrotic]], or [[Omnomicon/Damage Types/Poison]] damage, and the bonus equals your [[Intelligence]] modifier (minimum of +1).
 
 ### Restorative Reagents
 

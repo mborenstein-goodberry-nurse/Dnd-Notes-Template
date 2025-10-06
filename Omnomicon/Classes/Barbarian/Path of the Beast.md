@@ -23,11 +23,11 @@ Starting when you choose this path at 3rd level, when you enter your rage, you c
 
 You choose the weapon’s form each time you rage:
 
-**Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 [[piercing]] damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your [[proficiency bonus]], provided you have less than half your hit points when you hit.
+**Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals 1d8 [[Piercing]] damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your [[proficiency bonus]], provided you have less than half your hit points when you hit.
 
-**Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1d6 [[slashing]] damage on a hit. Once on each of your turns when you [[attack]] with a claw using the [[Attack]] action, you can make one additional claw attack as part of the same action.
+**Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it’s empty. It deals 1d6 [[Slashing]] damage on a hit. Once on each of your turns when you [[attack]] with a claw using the [[Attack]] action, you can make one additional claw attack as part of the same action.
 
-**Tail.** You grow a lashing, spiny tail, which deals 1d8 [[piercing]] damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your [[reaction]] to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
+**Tail.** You grow a lashing, spiny tail, which deals 1d8 [[Piercing]] damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your [[reaction]] to swipe your tail and roll a d8, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
 
 ### Bestial Soul
 
@@ -47,7 +47,7 @@ At 10th level, when you hit a creature with your natural weapons while you are r
 
 - The target must use its [[reaction]] to make a melee attack against another creature of your choice that you can see.
 
-- Target takes 2d12 [[psychic]] damage.
+- Target takes 2d12 [[Psychic]] damage.
 
 You can use this feature a number of times equal to your [[proficiency bonus]], and you regain all expended uses when you finish a [[long rest]].
 

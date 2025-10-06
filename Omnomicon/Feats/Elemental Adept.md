@@ -2,7 +2,7 @@ Source: Player's Handbook
 
 _Prerequisite: The ability to cast at least one spell_
 
-- When you gain this feat, choose one of the following damage types: [[acid]], [[cold]], [[fire]], [[lightning]], or [[thunder]].
+- When you gain this feat, choose one of the following damage types: [[Acid]], [[Cold]], [[Fire]], [[lightning]], or [[thunder]].
 
 - Spells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 

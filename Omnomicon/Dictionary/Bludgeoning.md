@@ -1,1 +1,0 @@
-Bludgeoning damage refers to blunt force trauma, of the kind delivered by maces and warhammers, or a fist. It's the default for unarmed combat, so a [DnD Monk](https://www.wargamer.com/dnd/monk-5e-class-guide) will make immense use of this damage type, but again this is one type that no player will have trouble accessing.

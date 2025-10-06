@@ -20,7 +20,7 @@ At 3rd level, when you adopt this path, you choose a totem spirit and gain its f
 
 Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
 
-**_Bear._** While [[Rage|raging]], you have resistance to all damage except [[psychic]] damage. The spirit of the bear makes you tough enough to stand up to any punishment.
+**_Bear._** While [[Rage|raging]], you have resistance to all damage except [[Psychic]] damage. The spirit of the bear makes you tough enough to stand up to any punishment.
 
 **_Eagle._** While you're [[Rage|raging]] and aren't wearing heavy armor, other creatures have [[disadvantage]] on [[opportunity attack]] rolls against you, and you can use the [[Dash]] action as a [[bonus action]] on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease.
 
@@ -56,7 +56,7 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 **_Eagle._** While [[Rage|raging]], you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
 
-**_Elk._** While [[Rage|raging]], you can use a [[bonus action]] during your move to pass through the space of a Large or smaller creature. That creature must succeed on a [[Strength]] saving throw (DC 8 + your [[Strength]] bonus + your proficiency bonus) or be knocked [[prone]] and take [[bludgeoning]] damage equal to 1d12 + your [[Strength]] modifier.
+**_Elk._** While [[Rage|raging]], you can use a [[bonus action]] during your move to pass through the space of a Large or smaller creature. That creature must succeed on a [[Strength]] saving throw (DC 8 + your [[Strength]] bonus + your proficiency bonus) or be knocked [[prone]] and take [[Bludgeoning]] damage equal to 1d12 + your [[Strength]] modifier.
 
 **_Tiger._** While you're [[Rage|raging]], if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a [[bonus action]] to make an additional melee weapon attack against it.
 

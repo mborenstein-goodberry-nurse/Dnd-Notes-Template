@@ -48,11 +48,11 @@ The psychic damage increases to 4d6 when you reach 18th level in this class.
 
 **_Bursting Arrow._** You imbue your arrow with force energy drawn from the school of [[Evocation]]. The arrow detonates after your attack. Immediately after the arrow hits the creature, the target and all other creatures within 10 feet of it take 2d6 force damage each.
 
-The [[force]] damage increases to 4d6 when you reach 18th level in this class.
+The [[Force]] damage increases to 4d6 when you reach 18th level in this class.
 
-**_Enfeebling Arrow._** You weave necromantic magic into your arrow. The creature hit by the arrow takes an extra 2d6 [[necrotic]] damage. The target must also succeed on a [[Constitution]] saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn.
+**_Enfeebling Arrow._** You weave necromantic magic into your arrow. The creature hit by the arrow takes an extra 2d6 [[Necrotic]] damage. The target must also succeed on a [[Constitution]] saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn.
 
-The [[necrotic]] damage increases to 4d6 when you reach 18th level in this class.
+The [[Necrotic]] damage increases to 4d6 when you reach 18th level in this class.
 
 **_Grasping Arrow._** When this arrow strikes its target, [[Conjuration]] magic creates grasping, poisonous brambles, which wrap around the target. The creature hit by the arrow takes an extra 2d6 poison damage, its speed is reduced by 10 feet, and it takes 2d6 slashing damage the first time on each turn it moves 1 foot or more without teleporting. The target or any creature that can reach it can use its action to remove the brambles with a successful [[Athletics|Strength (Athletics)]] check against your Arcane Shot save DC. Otherwise, the brambles last for 1 minute or until you use this option again.
 

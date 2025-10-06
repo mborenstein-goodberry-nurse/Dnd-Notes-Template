@@ -8,4 +8,4 @@ Used in hand--to--hand combat, a melee attack allows you to attack a foe within 
   
 Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.  
   
-Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head--butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals [[bludgeoning]] damage equal to 1 + your modifier. You are proficient with your unarmed strikes.
+Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head--butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals [[Bludgeoning]] damage equal to 1 + your modifier. You are proficient with your unarmed strikes.
