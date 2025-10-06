@@ -39,9 +39,9 @@ As an artificer, you gain the following class features.
 
 ##### Hit Points
 
-**Hit Dice:** 1d8 per artificer level  
-**Hit Points at 1st Level:** 8 + your [[Constitution]] modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your [[Constitution]] modifier per artificer level after 1st
+**[[Hit Dice]]:** 1d8 per artificer level  
+**[[Hit Points]] at 1st Level:** 8 + your [[Constitution]] modifier  
+**[[Hit Points]] at Higher Levels:** 1d8 (or 5) + your [[Constitution]] modifier per artificer level after 1st
 
 ##### Proficiencies
 
@@ -55,10 +55,10 @@ As an artificer, you gain the following class features.
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
-- any two simple weapons
+- any two [[simple weapons]]
 - a light crossbow and 20 bolts
 - (a) studded leather armor or (b) scale mail
-- thieves’ tools and a [[Dungeoneer's Pack|dungeoneer’s pack]]
+- [[Thieves' Tools]] and a [[Dungeoneer's Pack|dungeoneer’s pack]]
 
 Alternatively, you may start with 5d4x10 starting gold
 
@@ -104,7 +104,7 @@ The Artificer table shows how many spell slots you have to cast your artificer s
 
 You prepare the list of artificer spells that are available for you to cast, choosing from the [[Artificer Spells|Artificer Spell List]]. When you do so, choose a number of artificer spells equal to your [[Intelligence]] modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]], you can cast it using a lst-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an [[Intelligence]] of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[Cure Wounds]], you can cast it using a lst-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a [[long rest]]. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
 
@@ -143,12 +143,13 @@ If an infusion ends on an item that contains other things, like a [[bag of holdi
 ### Artificer Specialist
 
 At 3rd level, you choose the type of specialist you are. Your choice grants you features at 5th level and again at 9th and 15th level.
-```dataview
-TABLE from "Omnomicon/Classes/Artificer"
-WHERE file.name != "Artificer" AND file.name != "Artificer Infusions"
-sort title asc
-```
 
+| Specialty        | Source                                                                |
+| ---------------- | --------------------------------------------------------------------- |
+| [[Alchemist]]    | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War |
+| [[Armorer]]      | Tasha's Cauldron of Everything                                        |
+| [[Artillerist]]  | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War |
+| [[Battle Smith]] | Tasha's Cauldron of Everything  <br>Eberron: Rising from the Last War |
 ### The Right Tool for the Job
 
 At 3rd level, you've learned how to produce exactly the tool you need: with [[thieves' tools]] or [[artisan's tools]] in hand, you can magically create one set of [[artisan's tools]] in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a [[Short Rest|short]] or [[Long Rest|long rest]]. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
@@ -159,7 +160,7 @@ When you reach 4th level, 8th, 12th, 16th, and 19th level, you can increase one 
 
 ### Tool Expertise
 
-At 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
+At 6th level, your [[proficiency bonus]] is now doubled for any ability check you make that uses your proficiency with a tool.
 
 ### Flash of Genius
 
@@ -177,9 +178,9 @@ When you reach 10th level, you achieve a profound understanding of how to use an
 
 ### Spell-Storing Item
 
-At 11th level, you can now store a spell in an object. Whenever you finish a [[long rest]], you can touch one [[Weapons#Simple Weapons|simple]] or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the [artificer spell list](http://dnd5e.wikidot.com/spells:artificer) that requires 1 action to cast (you needn't have it prepared).
+At 11th level, you can now store a spell in an object. Whenever you finish a [[long rest]], you can touch one [[Weapons#Simple Weapons|simple]] or [[Martial Weapons|martial weapon]] or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the [[Artificer Spells|Artificer Spell List]] that requires 1 [[action]] to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an [[action]] to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [[concentration]], the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your [[Intelligence]] modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Magic Item Savant
 
@@ -199,4 +200,4 @@ At 20th level, you develop a mystical connection to your magic items, which you 
 
 - You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-- If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.
+- If you're reduced to 0 [[hit points]] but not killed out-right, you can use your [[reaction]] to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.

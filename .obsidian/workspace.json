@@ -42,17 +42,47 @@
             "id": "9ab797ab23189a0a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Bludgeoning",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Damage Types/Bludgeoning.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bludgeoning\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":271},\"to\":{\"line\":0,\"ch\":271}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Battle Smith",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Battle Smith.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Battle Smith\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":114},\"to\":{\"line\":91,\"ch\":126}},\"scroll\":61.600065247532825}"
+                },
+                {
+                  "title": "Artillerist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artillerist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artillerist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":46.63671875}"
+                },
+                {
+                  "title": "Armorer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Armorer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Armorer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":0},\"to\":{\"line\":81,\"ch\":0}},\"scroll\":59.551432291666664}"
+                },
+                {
+                  "title": "Alchemist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Alchemist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alchemist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":181},\"to\":{\"line\":66,\"ch\":181}},\"scroll\":45.1089074460682}"
+                },
+                {
+                  "title": "Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":202,\"ch\":184},\"to\":{\"line\":202,\"ch\":184}},\"scroll\":134.72352430555554}"
+                },
+                {
+                  "title": "Path of Wild Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of Wild Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of Wild Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":120},\"to\":{\"line\":12,\"ch\":120}},\"scroll\":6.7023809523809526}"
                 },
                 {
                   "title": "Path of the Zealot",
@@ -1385,13 +1415,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
+                "file": "Omnomicon/Classes/Artificer/Artificer Infusions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Path of Wild Magic"
+              "title": "Artificer Infusions"
             }
           },
           {
@@ -1440,8 +1470,7 @@
               "title": "DM Screen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1907,8 +1936,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ab797ab23189a0a",
+  "active": "3beb6672ac73cd66",
   "lastOpenFiles": [
+    "Omnomicon/Classes/Artificer/Artificer Infusions.md",
+    "Omnomicon/Classes/Artificer/Battle Smith.md",
+    "Omnomicon/Classes/Artificer/Artillerist.md",
+    "Omnomicon/Classes/Artificer/Armorer.md",
+    "Omnomicon/Classes/Artificer/Alchemist.md",
+    "Omnomicon/Classes/Artificer/Artificer.md",
+    "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
     "Omnomicon/Dictionary/Damage Types/Thunder.md",
     "Omnomicon/Dictionary/Damage Types/Radiant.md",
     "Omnomicon/Dictionary/Damage Types/Slashing.md",
@@ -1928,15 +1964,8 @@
     "Omnomicon/Damage Types/Acid.md",
     "Omnomicon/Damage Types",
     "Omnomicon/Classes/Barbarian/Rage.md",
-    "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
     "Omnomicon/Classes/Barbarian/Path of the Zealot.md",
     "Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md",
-    "Omnomicon/Classes/Barbarian/Path of the Storm Herald.md",
-    "Omnomicon/Classes/Barbarian/Path of the Giant.md",
-    "Omnomicon/Classes/Barbarian/Path of the Berserker.md",
-    "Omnomicon/Classes/Barbarian/Path of the Beast.md",
-    "Omnomicon/Damage Types/Psychic.md",
-    "Omnomicon/Classes/Barbarian/Path of the Battlerager.md",
     "Omnomicon/Spells (Alt)/Lists",
     "Campaigns/Sands of Desolation/World Almanac/People/Untitled",
     "Omnomicon/Spells (Alt)",
