@@ -9,7 +9,7 @@
 | [[Fire Bolt]]                                                             | 1 Action     | 120 feet              | Instantaneous                | V, S       |
 | [[Frostbite]]                                                             | 1 Action     | 60 feet               | Instantaneous                | V, S       |
 | [[Green-Flame Blade]]                                                     | 1 Action     | Self (5-foot radius)  | Instantaneous                | S, M       |
-| [[Light]]                                                                 | 1 Action     | Touch                 | 1 hour                       | V, M       |
+| [[Omnomicon/Spells/Light]]                                                                 | 1 Action     | Touch                 | 1 hour                       | V, M       |
 | [[Lightning Lure]]                                                        | 1 Action     | Self (15-foot radius) | Instantaneous                | V          |
 | [[Ray of Frost]]                                                          | 1 Action     | 60 feet               | Instantaneous                | V, S       |
 | [[Sacred Flame]]                                                          | 1 Action     | 60 feet               | Instantaneous                | V, S       |

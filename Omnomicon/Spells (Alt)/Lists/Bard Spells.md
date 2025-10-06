@@ -9,7 +9,7 @@ aliases:
 | [[Blade Ward]]       | _Abjuration_    | 1 Action     | Self                 | 1 round                       | V, S       |
 | [[Dancing Lights]]   | _Evocation_     | 1 Action     | 120 feet             | Concentration up to 1 minute  | V, S, M    |
 | [[Friends]]          | _Enchantment_   | 1 Action     | Self                 | Concentration, up to 1 minute | S, M       |
-| [[Light]]            | _Evocation_     | 1 Action     | Touch                | 1 hour                        | V, M       |
+| [[Omnomicon/Spells/Light]]            | _Evocation_     | 1 Action     | Touch                | 1 hour                        | V, M       |
 | [[Mage Hand]]        | _Conjuration_   | 1 Action     | 30 feet              | 1 minute                      | V, S       |
 | [[Mending]]          | _Transmutation_ | 1 Minute     | Touch                | Instantaneous                 | V, S, M    |
 | [[Message]]          | _Transmutation_ | 1 Action     | 120 feet             | 1 round                       | V, S, M    |

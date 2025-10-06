@@ -14,7 +14,7 @@ aliases:
 | [[Frostbite]]         | _Evocation_     | 1 Action       | 60 feet               | Instantaneous                 | V, S       |
 | [[Green-Flame Blade]] | _Evocation_     | 1 Action       | Self (5-foot radius)  | Instantaneous                 | S, M       |
 | [[Guidance]]          | _Divination_    | 1 Action       | Touch                 | Concentration up to 1 minute  | V, S       |
-| [[Light]]             | _Evocation_     | 1 Action       | Touch                 | 1 hour                        | V, M       |
+| [[Omnomicon/Spells/Light]]             | _Evocation_     | 1 Action       | Touch                 | 1 hour                        | V, M       |
 | [[Lightning Lure]]    | _Evocation_     | 1 Action       | Self (15-foot radius) | Instantaneous                 | V          |
 | [[Mage Hand]]         | _Conjuration_   | 1 Action       | 30 feet               | 1 minute                      | V, S       |
 | [[Magic Stone]]       | _Transmutation_ | 1 Bonus Action | Touch                 | 1 minute                      | V, S       |

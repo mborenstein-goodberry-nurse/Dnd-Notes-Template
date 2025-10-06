@@ -7,7 +7,7 @@ aliases:
 | Spell Name                                                                | School          | Casting Time | Range   | Duration                     | Components |
 | ------------------------------------------------------------------------- | --------------- | ------------ | ------- | ---------------------------- | ---------- |
 | [[Guidance]]                                                              | _Divination_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S       |
-| [[Light]]                                                                 | _Evocation_     | 1 Action     | Touch   | 1 hour                       | V, M       |
+| [[Omnomicon/Spells/Light]]                                                                 | _Evocation_     | 1 Action     | Touch   | 1 hour                       | V, M       |
 | [[Mending]]                                                               | _Transmutation_ | 1 Minute     | Touch   | Instantaneous                | V, S, M    |
 | [[Resistance]]                                                            | _Abjuration_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S, M    |
 | [[Sacred Flame]]                                                          | _Evocation_     | 1 Action     | 60 feet | Instantaneous                | V, S       |

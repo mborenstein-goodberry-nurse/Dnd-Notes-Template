@@ -5,13 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Omnomicon/Spells (Alt)\"  ",
       "color": {
         "a": 1,
         "rgb": 6054102
+      }
+    },
+    {
+      "query": "path:Campaigns  ",
+      "color": {
+        "a": 1,
+        "rgb": 2812461
+      }
+    },
+    {
+      "query": "path:\"Campaigns/Sample Campaign/World Almanac\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1611053
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.24225487058425998,
-  "close": true
+  "scale": 0.17279445488852774,
+  "close": false
 }

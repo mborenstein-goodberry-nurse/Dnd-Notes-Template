@@ -18,6 +18,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Weary Quest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Party/Weary Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weary Quest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":36.36363636363637}"
+                },
+                {
+                  "title": "Grave Domain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Cleric/Grave Domain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Grave Domain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":24},\"to\":{\"line\":12,\"ch\":24}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sample Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Sample Journal",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Session Journals/Sample Journal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Journal\"}",
@@ -1214,15 +1238,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Sample Campaign/Sample Campaign.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sample Campaign"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -1232,13 +1251,103 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Acid Splash",
+                  "title": "Finesse",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Dictionary/Finesse.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Finesse\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":198},\"to\":{\"line\":0,\"ch\":198}}}"
                 },
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "## Sentient Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/## Sentient Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"## Sentient Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "## Artifacts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/## Artifacts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"## Artifacts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "# Magic Items",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/# Magic Items.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"# Magic Items\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "# Spellcasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/# Spellcasting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"# Spellcasting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Languages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Languages/Languages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Languages\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":107},\"to\":{\"line\":4,\"ch\":107}},\"scroll\":0}"
+                },
+                {
+                  "title": "Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.45}"
+                },
+                {
+                  "title": "Ammunition",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Ammunition.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ammunition\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":114,\"ch\":0},\"to\":{\"line\":121,\"ch\":32}},\"scroll\":101.52989483854186}"
+                },
+                {
+                  "title": "Martial Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Martial Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":8.108580134517483}"
+                },
+                {
+                  "title": "Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":113,\"ch\":0}},\"scroll\":88.9000161024612}"
+                },
+                {
+                  "title": "Simple Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Simple Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Simple Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":51.18359375}"
+                },
+                {
+                  "title": "Artificer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":179,\"ch\":139},\"to\":{\"line\":179,\"ch\":139}},\"scroll\":148.3687398686119}"
+                },
+                {
+                  "title": "Classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
                   "eState": "{}"
                 },
                 {
@@ -2006,14 +2115,19 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Omnomicon/Equipment/Weapons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Weapons"
             }
           },
           {
-            "id": "67b4a0c2901b90fd",
+            "id": "99eda6c475d2c10b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -2027,17 +2141,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Spells/Acid Splash.md",
+                "file": "Omnomicon/Dictionary/Two-Handed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Acid Splash"
+              "title": "Two-Handed"
             }
           },
           {
-            "id": "2dcf0dcffca8641e",
+            "id": "bde2f1a73714c9d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -2049,12 +2163,61 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Omnomicon/Dictionary/Versatile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Versatile"
+            }
+          },
+          {
+            "id": "67b4a0c2901b90fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sample Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Acid Splash",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DM Screen/DM Screen.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "DM Screen"
             }
           },
           {
@@ -2078,7 +2241,8 @@
               "title": "Release Notes 1.9.14"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -2544,35 +2708,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ab797ab23189a0a",
+  "active": "bde2f1a73714c9d2",
   "lastOpenFiles": [
-    "Campaigns/Sample Campaign/Session Journals/Sample Journal.md",
-    "Campaigns/Sample Campaign/World Almanac/Places/Sample Place.md",
-    "Campaigns/Sample Campaign/World Almanac/People/Sample Person.md",
-    "Campaigns/Sample Campaign/World Almanac/Other/Sample Other Note.md",
-    "Campaigns/Sample Campaign/World Almanac/Items/Sample Item.md",
-    "Campaigns/Sample Campaign/World Almanac/History/Sample Historical Event.md",
-    "Campaigns/Sample Campaign/World Almanac/Groups/Sample Group.md",
-    "Campaigns/Sample Campaign/World Almanac/Deities/Sample Deity.md",
-    "DM Screen/DM Screen.md",
-    "Omnomicon/Spells/Acid Splash.md",
-    "move.md",
-    "Omnomicon/Feats/Aberrant Dragonmark.md",
-    "Omnomicon/Spells/Forcecage.md",
-    "Omnomicon/Spells (Alt)/Lists/Abjuration.md",
-    "Omnomicon/Spells (Alt)/Lists/Warlock Spells.md",
+    "Omnomicon/Dictionary/Two-Handed.md",
+    "Omnomicon/Dictionary/Versatile.md",
+    "Omnomicon/Equipment/Weapons.md",
+    "Omnomicon/Dictionary/Thrown.md",
+    "Omnomicon/Dictionary/Special.md",
+    "Omnomicon/Dictionary/Reach.md",
+    "Omnomicon/Dictionary/Range.md",
+    "Omnomicon/Dictionary/Loading.md",
+    "Omnomicon/Dictionary/Finesse.md",
+    "Omnomicon/Dictionary/Light.md",
+    "Omnomicon/Dictionary/Heavy.md",
+    "Omnomicon/Languages/Deep Speech.md",
+    "Omnomicon/Treasure/## Sentient Magic.md",
+    "Omnomicon/Treasure/## Artifacts.md",
+    "Omnomicon/Treasure/# Magic Items.md",
+    "Omnomicon/Spells/# Spellcasting.md",
+    "Omnomicon/Languages/Languages.md",
+    "Omnomicon/Languages/Terran.md",
+    "Omnomicon/Languages/Ignan.md",
+    "Omnomicon/Languages/Aquan.md",
+    "Omnomicon/Languages/Auran.md",
+    "Omnomicon/Languages/Undercommon.md",
+    "Omnomicon/Languages/Sylvan.md",
+    "Omnomicon/Languages/Primordial.md",
+    "Omnomicon/Languages/Infernal.md",
+    "Omnomicon/Languages/Draconic.md",
     "Omnomicon/Spells (Alt)/Lists",
-    "Omnomicon/Spells (Alt)/Green-Flame Blade.md",
-    "Omnomicon/Spells/## Spell Lists (Wikilinked).md",
-    "Omnomicon/Spells (Alt)/Lists/Conjuration.md",
-    "Omnomicon/Spells (Alt)/Acid Splash.md",
-    "Omnomicon/Spells/Animal Messenger.md",
-    "Omnomicon/Spells/Animal Friendship.md",
-    "Omnomicon/Spells/Alarm.md",
-    "Omnomicon/Spells/Aid.md",
-    "Omnomicon/Spells/Acid Arrow.md",
-    "Omnomicon/Spells (Alt)/Lists/Wizard Spells.md",
-    "Omnomicon/Spells (Alt)/Lists/Bard Spells.md",
     "Campaigns/Sands of Desolation/World Almanac/People/Untitled",
     "Omnomicon/Spells (Alt)",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",

@@ -19,7 +19,7 @@ Source: Player's Handbook
 
 ### Bonus Cantrip
 
-When you choose this domain at 1st level, you gain the [[Light]] cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
+When you choose this domain at 1st level, you gain the [[Omnomicon/Spells/Light]] cantrip if you don't already know it. This cantrip doesn’t count against the number of cleric cantrips you know.
 
 ### Warding Flare
 

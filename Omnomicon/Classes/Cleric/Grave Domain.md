@@ -8,14 +8,14 @@ aliases:
 
 Source: Xanathar's Guide to Everything
 
-|Grave Domain Spells|   |
-|---|---|
-|Cleric Level|Spells|
-|1st|[Bane](http://dnd5e.wikidot.com/spell:bane), [False Life](http://dnd5e.wikidot.com/spell:false-life)|
-|3rd|[Gentle Repose](http://dnd5e.wikidot.com/spell:gentle-repose), [Ray of Enfeeblement](http://dnd5e.wikidot.com/spell:ray-of-enfeeblement)|
-|5th|[Revivify](http://dnd5e.wikidot.com/spell:revivify), [Vampiric Touch](http://dnd5e.wikidot.com/spell:vampiric-touch)|
-|7th|[Blight](http://dnd5e.wikidot.com/spell:blight), [Death Ward](http://dnd5e.wikidot.com/spell:death-ward)|
-|9th|[Antilife Shell](http://dnd5e.wikidot.com/spell:antilife-shell), [Raise Dead](http://dnd5e.wikidot.com/spell:raise-dead)|
+| Grave Domain Spells |                                                                                                                                          |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Cleric Level        | Spells                                                                                                                                   |
+| 1st                 | [[Bane]], [False Life](http://dnd5e.wikidot.com/spell:false-life)                                                                        |
+| 3rd                 | [Gentle Repose](http://dnd5e.wikidot.com/spell:gentle-repose), [Ray of Enfeeblement](http://dnd5e.wikidot.com/spell:ray-of-enfeeblement) |
+| 5th                 | [Revivify](http://dnd5e.wikidot.com/spell:revivify), [Vampiric Touch](http://dnd5e.wikidot.com/spell:vampiric-touch)                     |
+| 7th                 | [Blight](http://dnd5e.wikidot.com/spell:blight), [Death Ward](http://dnd5e.wikidot.com/spell:death-ward)                                 |
+| 9th                 | [Antilife Shell](http://dnd5e.wikidot.com/spell:antilife-shell), [Raise Dead](http://dnd5e.wikidot.com/spell:raise-dead)                 |
 
 ### Circle of Mortality
 

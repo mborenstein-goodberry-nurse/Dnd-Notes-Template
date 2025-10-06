@@ -20,7 +20,7 @@ aliases:
 | [[Green-Flame Blade]] | _Evocation_     | 1 Action     | Self (5-foot radius)  | Instantaneous                 | S, M       |
 | [[Gust]]              | _Transmutation_ | 1 Action     | 30 feet               | Instantaneous                 | V, S       |
 | [[Infestation]]       | _Conjuration_   | 1 Action     | 30 feet               | Instantaneous                 | V, S, M    |
-| [[Light]]             | _Evocation_     | 1 Action     | Touch                 | 1 hour                        | V, M       |
+| [[Omnomicon/Spells/Light]]             | _Evocation_     | 1 Action     | Touch                 | 1 hour                        | V, M       |
 | [[Lightning Lure]]    | _Evocation_     | 1 Action     | Self (15-foot radius) | Instantaneous                 | V          |
 | [[Mage Hand]]         | _Conjuration_   | 1 Action     | 30 feet               | 1 minute                      | V, S       |
 | [[Mending]]           | _Transmutation_ | 1 Minute     | Touch                 | Instantaneous                 | V, S, M    |
