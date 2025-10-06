@@ -1,0 +1,1 @@
+One of the creepiest damage types in DnD, psychic damage refers to damaging effects that alter or harm your very mind. Inflicted by some of the spookiest monsters like the Banshee or Mind Flayer, psychic damage presumably feels like the mother of all migraines. If DnD had a sanity stat, this is the damage type that would deplete it. 

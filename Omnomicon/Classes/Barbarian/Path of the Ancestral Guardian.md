@@ -12,19 +12,19 @@ Source: Xanathar's Guide to Everything
 
 ### Ancestral Protectors
 
-Starting when you choose this path at 3rd level, spectral warriors appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
+Starting when you choose this path at 3rd level, spectral warriors appear when you enter your [[rage]]. While you're raging, the first creature you hit with an [[attack]] on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has [[disadvantage]] on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
 
 ### Spirit Shield
 
-Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are [[Rage|Raging]] and another creature you can see within 30 feet of you takes damage, you can use your [[reaction]] to reduce that damage by 2d6.
 
 When you reach certain levels in this class, you can reduce the damage by more: by 3d6 at 10th level and by 4d6 at 14th level.
 
 ### Consult the Spirits
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[Augury]] or [[Clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [[Augury]] or [[Clairvoyance]] spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of clairvoyance invisibly summons one of your ancestral spirits to the chosen location. [[Wisdom]] is your spellcasting ability for these spells.
 
-After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
+After you cast either spell in this way, you can't use this feature again until you finish a [[Short Rest|short]] or [[long rest]].
 
 ### Vengeful Ancestors
 

@@ -8,6 +8,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3beb6672ac73cd66",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sample Journal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Session Journals/Sample Journal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Journal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "9ab797ab23189a0a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -15,6 +46,114 @@
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Path of the Zealot",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Zealot.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Zealot\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":8.447916666666666}"
+                },
+                {
+                  "title": "Path of the Totem Warrior",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Totem Warrior\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":0},\"to\":{\"line\":63,\"ch\":0}},\"scroll\":39.608723958333336}"
+                },
+                {
+                  "title": "Path of the Storm Herald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Storm Herald.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Storm Herald\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":22},\"to\":{\"line\":16,\"ch\":22}},\"scroll\":0}"
+                },
+                {
+                  "title": "Path of the Giant",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Giant.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Giant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":50},\"to\":{\"line\":49,\"ch\":50}},\"scroll\":33.0751953125}"
+                },
+                {
+                  "title": "Path of the Berserker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Path of the Beast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":35},\"to\":{\"line\":49,\"ch\":35}},\"scroll\":38.526692708333336}"
+                },
+                {
+                  "title": "Path of the Battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":93},\"to\":{\"line\":22,\"ch\":101}},\"scroll\":6.0625}"
+                },
+                {
+                  "title": "Path of the Ancestral Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":10.333333333333334}"
+                },
+                {
+                  "title": "Barbarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":119,\"ch\":87},\"to\":{\"line\":119,\"ch\":93}},\"scroll\":126.58138020833333}"
+                },
+                {
+                  "title": "Short Rest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Dictionary/Short Rest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Short Rest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":107},\"to\":{\"line\":6,\"ch\":107}}}"
+                },
+                {
+                  "title": "Path of the Beast",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Beast.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Beast\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":101},\"to\":{\"line\":35,\"ch\":101}},\"scroll\":25.129557291666668}"
+                },
+                {
+                  "title": "Path of the Battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":16.190574617610583}"
+                },
+                {
+                  "title": "Path of the Ancestral Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":46},\"to\":{\"line\":18,\"ch\":46}},\"scroll\":14.2236328125}"
+                },
+                {
+                  "title": "Path of the Berserker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Berserker.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Berserker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Path of the Battlerager",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battlerager\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":202},\"to\":{\"line\":6,\"ch\":202}},\"scroll\":0}"
+                },
+                {
+                  "title": "Barbarian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Barbarian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Barbarian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":103,\"ch\":28},\"to\":{\"line\":103,\"ch\":28}},\"scroll\":83.1083092186854}"
+                },
+                {
+                  "title": "Path of the Ancestral Guardian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Ancestral Guardian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":94},\"to\":{\"line\":14,\"ch\":98}},\"scroll\":6.0625}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
                   "eState": "{}"
                 },
                 {
@@ -834,9 +973,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
                 },
                 {
-                  "title": "Path of the Battleranger",
+                  "title": "Path of the Battlerager",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battleranger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":7},\"to\":{\"line\":4,\"ch\":7}}}"
                 },
                 {
@@ -1176,9 +1315,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
-                  "title": "Path of the Battleranger",
+                  "title": "Path of the Battlerager",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battleranger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Barbarian/Path of the Battlerager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Path of the Battleranger\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
@@ -1238,940 +1377,15 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7ac69e04305cb1be",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Finesse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Dictionary/Finesse.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Finesse\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":198},\"to\":{\"line\":0,\"ch\":198}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "## Sentient Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/## Sentient Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"## Sentient Magic\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "## Artifacts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/## Artifacts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"## Artifacts\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "# Magic Items",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Treasure/# Magic Items.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"# Magic Items\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "# Spellcasting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/# Spellcasting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"# Spellcasting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Languages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Languages/Languages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Languages\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":107},\"to\":{\"line\":4,\"ch\":107}},\"scroll\":0}"
-                },
-                {
-                  "title": "Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.45}"
-                },
-                {
-                  "title": "Ammunition",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Ammunition.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ammunition\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":32},\"to\":{\"line\":7,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "title": "Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":114,\"ch\":0},\"to\":{\"line\":121,\"ch\":32}},\"scroll\":101.52989483854186}"
-                },
-                {
-                  "title": "Martial Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Martial Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Martial Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":8.108580134517483}"
-                },
-                {
-                  "title": "Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":113,\"ch\":0}},\"scroll\":88.9000161024612}"
-                },
-                {
-                  "title": "Simple Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Items/Simple Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Simple Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Weapons",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Equipment/Weapons.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Weapons\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":51.18359375}"
-                },
-                {
-                  "title": "Artificer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":179,\"ch\":139},\"to\":{\"line\":179,\"ch\":139}},\"scroll\":148.3687398686119}"
-                },
-                {
-                  "title": "Classes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Classes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Abjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Acid Splash",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Animal Messenger",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Animal Messenger.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Animal Messenger\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Animal Friendship",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Animal Friendship.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Animal Friendship\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alarm",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Alarm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Alarm\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Aid",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Aid.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Aid\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Acid Arrow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Arrow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Arrow\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Wizard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Wizard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":450,\"ch\":0},\"to\":{\"line\":450,\"ch\":0}},\"scroll\":430.7511403707714}"
-                },
-                {
-                  "title": "Warlock Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Warlock Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":217,\"ch\":0},\"to\":{\"line\":217,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":308,\"ch\":0},\"to\":{\"line\":308,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ranger Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Ranger Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":80.91654832764299}"
-                },
-                {
-                  "title": "Paladin Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":65.24193710439064}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":17},\"to\":{\"line\":37,\"ch\":17}},\"scroll\":47.107711899094944}"
-                },
-                {
-                  "title": "Ranger Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Ranger Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":2},\"to\":{\"line\":99,\"ch\":2}},\"scroll\":82.06834456295132}"
-                },
-                {
-                  "title": "Paladin Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":79,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":52.98989693862009}"
-                },
-                {
-                  "title": "Necromancy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Necromancy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Necromancy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Illusion",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Illusion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Illusion\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Evocation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Evocation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Eldritch Knight Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Eldritch Knight Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":98.93357973028697}"
-                },
-                {
-                  "title": "Druid Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":218,\"ch\":0},\"to\":{\"line\":218,\"ch\":0}},\"scroll\":199.886328125}"
-                },
-                {
-                  "title": "Cleric Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":174,\"ch\":0},\"to\":{\"line\":174,\"ch\":0}},\"scroll\":147.61175876010782}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Arcane Trickster Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Abjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Arcane Trickster Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Arcane Trickster Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Abjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Wizard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Wizard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":449,\"ch\":3},\"to\":{\"line\":449,\"ch\":3}},\"scroll\":437.05247288819726}"
-                },
-                {
-                  "title": "Warlock Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Warlock Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":215,\"ch\":112},\"to\":{\"line\":215,\"ch\":112}},\"scroll\":39.68682285758986}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":307,\"ch\":90},\"to\":{\"line\":307,\"ch\":90}},\"scroll\":282.98739647786766}"
-                },
-                {
-                  "title": "Paladin Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Ranger Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Ranger Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sorcerer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Sorcerer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Paladin Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Druid Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":217,\"ch\":8},\"to\":{\"line\":217,\"ch\":8}},\"scroll\":50.45860197597291}"
-                },
-                {
-                  "title": "Cleric Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":174,\"ch\":0},\"to\":{\"line\":174,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Ranger Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Ranger Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Ranger Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":0},\"to\":{\"line\":102,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Paladin Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Paladin Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Paladin Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":10},\"to\":{\"line\":78,\"ch\":10}},\"scroll\":0}"
-                },
-                {
-                  "title": "Druid Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Cleric Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":101.22005208333333}"
-                },
-                {
-                  "title": "Arcane Trickster Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Arcane Trickster Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":2},\"to\":{\"line\":39,\"ch\":2}},\"scroll\":38.31672119714048}"
-                },
-                {
-                  "title": "Cleric Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Cleric Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Cleric Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Arcane Trickster Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Illusion",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Illusion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Illusion\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Evocation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Evocation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":155,\"ch\":0},\"to\":{\"line\":155,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Conjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":215,\"ch\":0},\"to\":{\"line\":215,\"ch\":0}},\"scroll\":188.52352087030678}"
-                },
-                {
-                  "title": "Eldritch Knight Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Eldritch Knight Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":144},\"to\":{\"line\":8,\"ch\":144}}}"
-                },
-                {
-                  "title": "Druid Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Druid Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Druid Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":214,\"ch\":8},\"to\":{\"line\":214,\"ch\":8}},\"scroll\":0}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "Abjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Eldritch Knight Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Eldritch Knight Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Evocation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Evocation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":2},\"to\":{\"line\":37,\"ch\":2}},\"scroll\":0.34285714285714286}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":102,\"ch\":3},\"to\":{\"line\":102,\"ch\":3}},\"scroll\":78.8578125}"
-                },
-                {
-                  "title": "Eldritch Knight Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Eldritch Knight Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Knight Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":0},\"to\":{\"line\":78,\"ch\":0}},\"scroll\":54.806969635215}"
-                },
-                {
-                  "title": "Conjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":149,\"ch\":0},\"to\":{\"line\":149,\"ch\":0}},\"scroll\":120.84765625}"
-                },
-                {
-                  "title": "Bard Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Bard Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Artificer Spells",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Artificer Spells.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Spells\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":131,\"ch\":0},\"to\":{\"line\":131,\"ch\":0}},\"scroll\":103.65321762838096}"
-                },
-                {
-                  "title": "Conjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells (Alt)/Lists/Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Conjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "War Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/War Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"War Magic\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Transmutation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Transmutation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Transmutation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Necromancy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Necromancy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Necromancy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Illusion",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Illusion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Illusion\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Graviturgy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Graviturgy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Graviturgy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Evocation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Evocation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Evocation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Enchantment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Enchantment.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Enchantment\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Divination",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Divination.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Divination\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Conjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Conjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Conjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Chronurgy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Chronurgy.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Chronurgy\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Bladesinging",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Bladesinging.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Bladesinging\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "School of Abjuration",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/School of Abjuration.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"School of Abjuration\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Order of Scribes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Wizard/Order of Scribes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Order of Scribes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Undying Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Undying Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Undying Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Undead Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Undead Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Undead Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hexblade Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Hexblade Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Hexblade Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Great Old One Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Great Old One Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Great Old One Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Genie Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Genie Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Genie Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fathomless Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Fathomless Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fathomless Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fiend Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Fiend Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fiend Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Fathomless Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Fathomless Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Fathomless Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Eldritch Invocations",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Eldritch Invocations.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Eldritch Invocations\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
-                },
-                {
-                  "title": "Celestial Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Celestial Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Celestial Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Archfey Warlock",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Warlock/Archfey Warlock.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Archfey Warlock\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Abberant Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Abberant Mind.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abberant Mind\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Clockwork Soul",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divine Soul",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Divine Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divine Soul\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Draconic Bloodline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Draconic Bloodline.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Draconic Bloodline\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Wild Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Wild Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Magic\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Storm Sorcery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Storm Sorcery.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Storm Sorcery\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Shadow Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Shadow Magic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Shadow Magic\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Lunar Sorcery",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Lunar Sorcery.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Lunar Sorcery\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Draconic Bloodline",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Draconic Bloodline.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Draconic Bloodline\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Divine Soul",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Divine Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divine Soul\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Clockwork Soul",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Abberant Mind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Abberant Mind.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abberant Mind\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thief",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Thief.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Thief\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Swashbuckler",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Swashbuckler.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swashbuckler\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Soulknife",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Soulknife.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Soulknife\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Scout",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Scout.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Scout\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Phantom",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Phantom.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Phantom\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Mastermind",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Mastermind.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mastermind\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Arcane Trickster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Inquisitive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Inquisitive.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Inquisitive\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Assassin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Assassin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Assassin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Arcane Trickster",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Rogue/Arcane Trickster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arcane Trickster\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "title": "Swarmkeeper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Ranger/Swarmkeeper.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Swarmkeeper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Equipment/Weapons.md",
+                "file": "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
-            }
-          },
-          {
-            "id": "99eda6c475d2c10b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Dictionary/Two-Handed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Two-Handed"
-            }
-          },
-          {
-            "id": "bde2f1a73714c9d2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Dictionary/Versatile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Versatile"
+              "title": "Path of Wild Magic"
             }
           },
           {
@@ -2219,30 +1433,9 @@
               "icon": "lucide-trello",
               "title": "DM Screen"
             }
-          },
-          {
-            "id": "c0c615a064eb71d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -2708,34 +1901,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bde2f1a73714c9d2",
+  "active": "9ab797ab23189a0a",
   "lastOpenFiles": [
-    "Omnomicon/Dictionary/Two-Handed.md",
+    "Omnomicon/Classes/Barbarian/Path of the Zealot.md",
+    "Omnomicon/Classes/Barbarian/Path of the Totem Warrior.md",
+    "Omnomicon/Classes/Barbarian/Path of the Storm Herald.md",
+    "Omnomicon/Classes/Barbarian/Path of the Giant.md",
+    "Omnomicon/Classes/Barbarian/Path of the Berserker.md",
+    "Omnomicon/Classes/Barbarian/Path of the Beast.md",
+    "Omnomicon/Dictionary/Psychic.md",
+    "Omnomicon/Classes/Barbarian/Path of the Battlerager.md",
+    "Omnomicon/Classes/Barbarian/Path of the Ancestral Guardian.md",
+    "Omnomicon/Classes/Barbarian/Barbarian.md",
+    "Omnomicon/Dictionary/Short Rest.md",
+    "Omnomicon/Characterizations/Hit Dice.md",
+    "Omnomicon/Characterizations/Hit Points.md",
+    "Omnomicon/Dictionary/Proficiency Bonus.md",
+    "Omnomicon/Characterizations/Proficiency Bonus.md",
+    "Campaigns/Sample Campaign/Session Journals/Sample Journal 2.md",
+    "Campaigns/Sample Campaign/Session Journals/Sample Journal 4.md",
+    "Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md",
+    "Campaigns/Sample Campaign/Session Journals/Sample Journal.md",
+    "Omnomicon/Dictionary/Action.md",
+    "DM Screen/Conditions/Conditions.md",
+    "Omnomicon/Gamemastering/Conditions.md",
+    "Omnomicon/Classes/Barbarian/Rage.md",
     "Omnomicon/Dictionary/Versatile.md",
+    "Omnomicon/Dictionary/Two-Handed.md",
     "Omnomicon/Equipment/Weapons.md",
-    "Omnomicon/Dictionary/Thrown.md",
-    "Omnomicon/Dictionary/Special.md",
-    "Omnomicon/Dictionary/Reach.md",
-    "Omnomicon/Dictionary/Range.md",
-    "Omnomicon/Dictionary/Loading.md",
-    "Omnomicon/Dictionary/Finesse.md",
-    "Omnomicon/Dictionary/Light.md",
-    "Omnomicon/Dictionary/Heavy.md",
-    "Omnomicon/Languages/Deep Speech.md",
-    "Omnomicon/Treasure/## Sentient Magic.md",
-    "Omnomicon/Treasure/## Artifacts.md",
-    "Omnomicon/Treasure/# Magic Items.md",
-    "Omnomicon/Spells/# Spellcasting.md",
-    "Omnomicon/Languages/Languages.md",
-    "Omnomicon/Languages/Terran.md",
-    "Omnomicon/Languages/Ignan.md",
-    "Omnomicon/Languages/Aquan.md",
-    "Omnomicon/Languages/Auran.md",
-    "Omnomicon/Languages/Undercommon.md",
-    "Omnomicon/Languages/Sylvan.md",
-    "Omnomicon/Languages/Primordial.md",
-    "Omnomicon/Languages/Infernal.md",
-    "Omnomicon/Languages/Draconic.md",
     "Omnomicon/Spells (Alt)/Lists",
     "Campaigns/Sands of Desolation/World Almanac/People/Untitled",
     "Omnomicon/Spells (Alt)",

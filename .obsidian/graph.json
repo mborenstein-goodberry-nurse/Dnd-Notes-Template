@@ -5,27 +5,69 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Omnomicon/Spells (Alt)\"  ",
+      "query": "path:\"Campaigns/Sample Campaign/Session Journals\"  ",
       "color": {
         "a": 1,
-        "rgb": 6054102
-      }
-    },
-    {
-      "query": "path:Campaigns  ",
-      "color": {
-        "a": 1,
-        "rgb": 2812461
+        "rgb": 16744448
       }
     },
     {
       "query": "path:\"Campaigns/Sample Campaign/World Almanac\"  ",
       "color": {
         "a": 1,
-        "rgb": 1611053
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Omnomicon/Classes  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Omnomicon/Races  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:Omnomicon/Feats  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Omnomicon/Dictionary  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Omnomicon/Spells (Alt)/Lists\"",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"Omnomicon/Spells (Alt)/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"DM Screen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],
@@ -39,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17279445488852774,
+  "scale": 0.27113572769135086,
   "close": false
 }
