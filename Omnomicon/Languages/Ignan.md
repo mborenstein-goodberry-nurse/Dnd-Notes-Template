@@ -1,0 +1,1 @@
+A dialect of the [[Primordial]] language, the Fire type 
