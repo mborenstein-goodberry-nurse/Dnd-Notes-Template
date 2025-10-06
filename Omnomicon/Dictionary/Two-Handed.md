@@ -1,0 +1,1 @@
+***Two-Handed***. This weapon requires two hands when you attack with it.
