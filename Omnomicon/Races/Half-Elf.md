@@ -1,6 +1,6 @@
 # Half-Elf
 
-# Player's Handbook
+## Player's Handbook
 
 _**Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves.**_
 
