@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Gnome
 
 ## Player's Handbook

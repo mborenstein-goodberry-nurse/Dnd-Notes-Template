@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Elf
 
 ### Elf Traits

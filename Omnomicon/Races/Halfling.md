@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Halfling
 
 ## Player's Handbook

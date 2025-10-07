@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Human
 
 ## Player's Handbook

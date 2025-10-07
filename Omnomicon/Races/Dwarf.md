@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Dwarf
 
 ## Player's Handbook

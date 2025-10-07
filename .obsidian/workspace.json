@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Dragonborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Dragonborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Dragonborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":203},\"to\":{\"line\":8,\"ch\":203}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Halfling",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Halfling.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Halfling\"}",
@@ -210,11 +222,71 @@
             "id": "9ab797ab23189a0a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Racial Traits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Racial Traits.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Racial Traits\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Human",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Human.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Human\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Halfling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Halfling.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Halfling\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Half-Orc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Half-Orc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Half-Orc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Half-Elf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Half-Elf.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Half-Elf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gnome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Gnome.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Gnome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dragonborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Dragonborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Dragonborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dwarf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Dwarf.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Dwarf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Elf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Elf.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Elf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dragonborn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Races/Dragonborn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Dragonborn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
                   "title": "Dwarf",
@@ -1817,13 +1889,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Races/Dragonborn.md",
+                "file": "Omnomicon/Races/Tiefling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dragonborn"
+              "title": "Tiefling"
             }
           },
           {
@@ -2340,21 +2412,21 @@
   },
   "active": "3beb6672ac73cd66",
   "lastOpenFiles": [
+    "Omnomicon/Races/Tiefling.md",
+    "Omnomicon/Races/Racial Traits.md",
+    "Omnomicon/Races/Human.md",
     "Omnomicon/Races/Halfling.md",
+    "Omnomicon/Races/Half-Orc.md",
+    "Omnomicon/Races/Half-Elf.md",
+    "Omnomicon/Races/Gnome.md",
     "Omnomicon/Races/Dragonborn.md",
     "Omnomicon/Races/Dwarf.md",
     "Omnomicon/Races/Elf.md",
-    "Omnomicon/Races/Gnome.md",
-    "Omnomicon/Races/Tiefling.md",
-    "Omnomicon/Races/Human.md",
-    "Omnomicon/Races/Half-Orc.md",
-    "Omnomicon/Races/Half-Elf.md",
     "Omnomicon/Languages/Elvish.md",
     "Omnomicon/Languages/Dwarvish.md",
     "Omnomicon/Items/Ammunition.md",
     "Omnomicon/Dictionary/Light Armor.md",
     "Omnomicon/Races/# Racial Traits.md",
-    "Omnomicon/Races/Racial Traits.md",
     "Omnomicon/Races.md",
     "Omnomicon/Items/Burglar's Pack.md",
     "Omnomicon/Items/Diplomat's Pack.md",

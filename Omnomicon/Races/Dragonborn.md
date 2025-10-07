@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Dragonborn
 
 ## Player's Handbook

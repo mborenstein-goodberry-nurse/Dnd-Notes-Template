@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Tiefling
 
 ## Player's Handbook

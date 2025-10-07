@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Half-Elf
 
 ## Player's Handbook

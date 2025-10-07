@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Common
+---
 # Half-Orc
 
 ## Player's Handbook
