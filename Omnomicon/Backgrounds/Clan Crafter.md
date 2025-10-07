@@ -7,10 +7,10 @@ type: Background
 
 Source: Sword Coast Adventurer's Guide
 
-**Skill Proficiencies:** [[History]], [[Insight]]  
-**Tool Proficiencies:** One type of artisan's tools  
+**Skill Proficiencies:** [[DM Screen/Skills/History]], [[Insight]]  
+**Tool Proficiencies:** One type of [[artisan's tools]]  
 **Languages:** [[Languages|Dwarvish]] or one other of your choice if you already speak [[Languages|Dwarvish]]  
-**Equipment:** A set of artisan's tools with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of traveler's clothes, and a pouch containing 5gp and a gem worth 10gp
+**Equipment:** A set of [[artisan's tools]] with which you are proficient, a maker's mark chisel used to mark your handiwork with the symbol of the clan of crafters you learned your skill from, a set of traveler's clothes, and a pouch containing 5gp and a gem worth 10gp
 
 # Features
 

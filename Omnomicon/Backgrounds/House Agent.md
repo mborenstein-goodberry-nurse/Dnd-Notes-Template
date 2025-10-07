@@ -10,21 +10,21 @@ Source: Eberron - Rising from the Last War
 **Languages:** None  
 **Equipment:** A set of fine clothes, the signet ring of your house, identification papers, and a purse containing 20gp
 
-|Your House|House Tool Proficiencies|
-|---|---|
-|Cannith|Alchemist's supplies and tinker's tools|
-|Deneith|One gaming set and vehicles (land)|
-|Ghallanda|Brewer's supplies and cook's utensils|
-|Jorasco|Alchemist's supplies and herbalism kit|
-|Kundarak|Thieves' tools and tinker's tools|
-|Lyrandar|Navigator's tools and vehicles (air and sea)|
-|Medani|Disguise kit and thieves' tools|
-|Orien|One gaming set and vehicles (land)|
-|Phiarlan|Disguise kit and one musical instrument|
-|Sivis|Calligrapher's tools and forgery kit|
-|Tharashk|One gaming set and thieves' tools|
-|Thuranni|One musical instrument and poisoner's kit|
-|Vadalis|Herbalism kit and vehicles (land)|
+| Your House | House Tool Proficiencies                             |
+| ---------- | ---------------------------------------------------- |
+| Cannith    | [[Alchemist's supplies]] and [[tinker's tools]]      |
+| Deneith    | One [[gaming set]] and [[vehicles (land)]]           |
+| Ghallanda  | [[Brewer's supplies]] and [[cook's utensils]]        |
+| Jorasco    | [[Alchemist's supplies]] and [[herbalism kit]]       |
+| Kundarak   | [[Thieves' tools]] and [[tinker's tools]]            |
+| Lyrandar   | [[Navigator's tools]] and [[vehicles (air and sea)]] |
+| Medani     | [[Disguise kit]] and [[thieves' tools]]              |
+| Orien      | One [[gaming set]] and [[vehicles (land)]]           |
+| Phiarlan   | [[Disguise kit]] and one [[musical instruments]]     |
+| Sivis      | [[Calligrapher's tools]] and [[forgery kit]]         |
+| Tharashk   | One [[gaming set]] and [[thieves' tools]]            |
+| Thuranni   | One [[musical instrument]] and [[poisoner's kit]]    |
+| Vadalis    | [[Herbalism kit]] and [[vehicles (land)]]            |
 
 # Features
 

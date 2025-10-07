@@ -8,7 +8,8 @@ _**Something about your environment—perhaps the food or water that sustained y
 Source: Bigby Presents - Glory of the Giants
 
 **Skill Proficiencies:** [[Intimidation]], [[Survival]]  
-**Languages:** Giant and [[Languages|one other language of your choice]]  
+Tool Proficiencies: None
+**Languages:** [[Giant]] and [[Languages|one other language of your choice]]  
 **Equipment:** A backpack, a set of traveler’s clothes, a small stone or sprig that reminds you of home, and a pouch containing 10 gp.
 
 # Origin Stories
@@ -29,7 +30,7 @@ How you came to live among colossal creatures is up to you to determine, but the
 
 ## Strike of the Giants
 
-You gain the [Strike of the Giants](http://dnd5e.wikidot.com/feat:strike-of-the-giants) feat.
+You gain the [[Strike of the Giants]] feat.
 
 # Building a Giant Foundling Character
 

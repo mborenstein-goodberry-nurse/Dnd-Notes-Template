@@ -8,7 +8,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Athletics]], [[Intimidation]]  
-**Tool Proficiencies:** One type of gaming set, vehicles (land)  
+**Tool Proficiencies:** One type of [[gaming set]], [[vehicles (land)]]  
 **Languages:** None  
 **Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or a deck of cards, a set of common clothes, and a pouch containing 10gp
 

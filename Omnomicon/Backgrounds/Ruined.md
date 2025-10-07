@@ -9,7 +9,7 @@ _**Your desperation has driven you to the career of adventurer. You don’t seek
 
 **Skill Proficiencies:** [[Stealth]], [[Survival]]
 **Languages:** [[Languages|One of your choice]]
-**Tool Proficiencies:** One gaming set of your choice (such as playing cards or three-dragon ante cards)
+**Tool Proficiencies:** One [[gaming set]] of your choice (such as playing cards or three-dragon ante cards)
 **Equipment:** A cracked hourglass, a set of rusty manacles, a half-empty bottle, a hunting trap, a gaming set (matching your chosen proficiency), a set of traveler’s clothes, and a pouch containing 13 gp
 
 # Feature:

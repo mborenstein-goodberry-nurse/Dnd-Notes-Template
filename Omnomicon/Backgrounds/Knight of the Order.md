@@ -10,7 +10,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** [[Persuasion]], plus one from among [[Arcana]], [[History]], [[Nature]], and [[Religion]], as appropriate for your order  
-**Tool Proficiencies:** One type of gaming set or musical instrument  
+**Tool Proficiencies:** One type of [[gaming set]] or [[musical instrument]]  
 **Languages:** [[Languages|One of your choice]] 
 **Equipment:** A set of traveler's clothes, a signet, banner, or seal representing your place or rank in the order, and a pouch containing 10gp
 
@@ -40,6 +40,6 @@ This help comes in the form of shelter and meals, and healing when appropriate, 
 
 # Suggested Characteristics
 
-Use the tables for the [[Soldier]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Soldier#Suggested Characteristics|Soldier]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 Your bond almost always involves the order to which you belong (or at least key members of it), and it is highly unusual for a knight's ideal not to reflect the agenda, sentiment, or philosophy of one's order.

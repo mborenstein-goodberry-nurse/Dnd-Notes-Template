@@ -22,6 +22,6 @@ Your knowledge of how bureaucracies function lets you gain access to the records
 
 # Suggested Characteristics
 
-Use the tables for the [[Guild Artisan]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Guild Artisan#Suggested Characteristics|Guild Artisan]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 The noble court or bureaucratic organization where you got your start is directly or indirectly associated with your bond (which could pertain to certain individuals in the group, such as your sponsor or mentor). Your ideal might be concerned with the prevailing philosophy of your court or organization.

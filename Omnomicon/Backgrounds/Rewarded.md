@@ -11,7 +11,7 @@ Source: The Book of Many Things
 
 **Skill Proficiencies:** [[Insight]], [[Persuasion]]
 **Languages:** [[Languages|One of your choice]]
-**Tool Proficiencies:** One gaming set of your choice (such as playing cards or three-dragon ante cards)
+**Tool Proficiencies:** One [[gaming set]] of your choice (such as playing cards or three-dragon ante cards)
 **Equipment:** A bottle of black ink, an ink pen, five sheets of paper, a gaming set (matching your chosen proficiency), a signet ring, a set of fine clothes, and a pouch containing 18 gp.
 
 # Feature:

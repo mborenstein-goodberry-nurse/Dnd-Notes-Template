@@ -5,9 +5,9 @@ type: Background
 
 Source: Player's Handbook
 
-**Skill Proficiencies:** Medicine, Religion  
-**Tool Proficiencies:** Herbalism kit  
-**Languages:** One of your choice  
+**Skill Proficiencies:** [[Medicine]], [[Religion]]  
+**Tool Proficiencies:** [[Herbalism kit]]  
+**Languages:** [[Languages|One of your choice]]  
 **Equipment:** A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5gp
 
 # Features

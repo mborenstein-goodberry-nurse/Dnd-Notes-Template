@@ -16,7 +16,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[History]], [[Persuasion]]  
-**Tool Proficiencies:** One type of gaming set  
+**Tool Proficiencies:** One type of [[gaming set]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25gp
 

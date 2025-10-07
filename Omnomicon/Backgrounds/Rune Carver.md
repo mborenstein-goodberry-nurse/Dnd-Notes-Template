@@ -8,9 +8,9 @@ type: Background
 Source: Bigby Presents - Glory of the Giants
 
 **Skill Proficiencies:** [[History]], [[Perception]]  
-**Tool Proficiencies:** One set of artisan's tools  
-**Languages:** Giant  
-**Equipment:** A set of [artisan’s tools](http://dnd5e.wikidot.com/tools) (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp.
+**Tool Proficiencies:** One set of [[artisan's tools]]  
+**Languages:** [[Giant]]
+**Equipment:** A set of [[Artisan's Tools]] (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp.
 
 # Rune Styles
 

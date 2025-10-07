@@ -6,9 +6,9 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Insight]], [[Persuasion]]  
-**Tool Proficiencies:** One type of artisan's tools  
+**Tool Proficiencies:** One type of [[artisan's tools]]  
 **Languages:** [[Languages|One of your choice]]  
-**Equipment:** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, and a pouch containing 15gp
+**Equipment:** A set of [[artisan's tools]] (one of your choice), a letter of introduction from your guild, a set of traveler's clothes, and a pouch containing 15gp
 
 # Variants
 

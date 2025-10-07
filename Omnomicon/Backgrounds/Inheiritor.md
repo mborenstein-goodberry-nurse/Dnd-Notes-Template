@@ -5,8 +5,8 @@ type: Background
 
 Source: Sword Coast Adventurer's Guide
 
-**Skill Proficiencies:** [[Survival]], plus one from among [[Arcana]], [[History]], and [[Religion]]  
-**Tool Proficiencies:** Your choice of a gaming set or a musical instrument  
+**Skill Proficiencies:** [[Survival]], plus one from among [[Arcana]], [[DM Screen/Skills/History]], and [[Religion]]  
+**Tool Proficiencies:** Your choice of a [[gaming set]] or a [[Musical Instruments|musical instrument]]  
 **Languages:** [[Languages|Any one of your choice]]  
 **Equipment:** Your inheritance, a set of traveler's clothes, the tool you choose for this background’s tool proficiency, and a pouch containing 15gp
 

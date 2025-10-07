@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Witchlight Hand",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Witchlight Hand.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Witchlight Hand\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Charlatan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Charlatan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Charlatan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":31.98779296875}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Acolyte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
                   "title": "Clan Crafter",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Clan Crafter.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clan Crafter\"}",
@@ -98,15 +116,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Backgrounds/Acolyte.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Acolyte"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -118,6 +131,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Artificer Infusions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Artificer/Artificer Infusions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Artificer Infusions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Battle Smith",
@@ -1486,13 +1505,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Classes/Artificer/Artificer Infusions.md",
+                "file": "Omnomicon/Backgrounds/Witchlight Hand.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Artificer Infusions"
+              "title": "Witchlight Hand"
             }
           },
           {
@@ -1541,7 +1560,8 @@
               "title": "DM Screen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -2007,17 +2027,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3beb6672ac73cd66",
+  "active": "9ab797ab23189a0a",
   "lastOpenFiles": [
+    "Omnomicon/Classes/Artificer/Artificer Infusions.md",
+    "Omnomicon/Backgrounds/Witchlight Hand.md",
+    "Omnomicon/Backgrounds/Charlatan.md",
+    "Omnomicon/Backgrounds/Acolyte.md",
     "Omnomicon/Backgrounds/Clan Crafter.md",
     "Omnomicon/Backgrounds/City Watch.md",
-    "Omnomicon/Backgrounds/Charlatan.md",
     "Omnomicon/Backgrounds/Athlete.md",
     "Omnomicon/Backgrounds/Archaeologist.md",
     "Omnomicon/Backgrounds/Anthropologist.md",
-    "Omnomicon/Backgrounds/Acolyte.md",
     "Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md",
-    "Omnomicon/Classes/Artificer/Artificer Infusions.md",
     "Omnomicon/Classes/Artificer/Battle Smith.md",
     "Omnomicon/Classes/Artificer/Artillerist.md",
     "Omnomicon/Classes/Artificer/Armorer.md",
@@ -2034,7 +2055,6 @@
     "Omnomicon/Dictionary/Damage Types/Piercing.md",
     "Omnomicon/Dictionary/Damage Types/Bludgeoning.md",
     "Omnomicon/Dictionary/Damage Types/Fire.md",
-    "Omnomicon/Dictionary/Damage Types/Cold.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",

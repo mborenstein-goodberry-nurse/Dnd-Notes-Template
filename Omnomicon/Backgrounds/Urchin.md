@@ -8,7 +8,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Sleight of Hand]], [[Stealth]]  
-**Tool Proficiencies:** [[Disguise kit]], thieves' tools  
+**Tool Proficiencies:** [[Disguise kit]], [[thieves' tools]]  
 **Languages:** None  
 **Equipment:** A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a pouch containing 10gp
 

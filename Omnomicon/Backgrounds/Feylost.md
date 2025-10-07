@@ -8,8 +8,8 @@ type: Background
 Source: The Wild Beyond the Witchlight
 
 **Skill Proficiencies:** [[Deception]], [[Survival]]  
-**Tool Proficiencies:** One type of musical instrument  
-**Languages:** One of your choice of Elvish, Gnomish, Goblin, or Sylvan.  
+**Tool Proficiencies:** One type of [[Musical Instruments|musical instrument]]  
+**Languages:** One of your choice of [[Elvish]], [[Gnomish]], [[Goblin]], or [[Sylvan]].  
 **Equipment:** A musical instrument (one of your choice), a set of traveler's clothes, three trinkets (each determind by rolling on the [[Feywild Trinkets]] table), and a pouch containing 8gp
 
 # Features
@@ -33,16 +33,16 @@ You were transformed in some small way by your stay in the Feywild and gained a 
 
 Whenever you're sound asleep or in a deep trance during a long rest, a spirit of the Feywild might pay you a visit, if the DM wishes it. Determine the spirit's form by rolling on the Feywild Visitor table. No harm ever comes to you as a result of such visits, which can last for minutes or hours, and you remember each visit when you wake up. Conversations that occur with a visitor can contain any number of things, from messages and insights to nonsense and red herrings, at the DM's discretion. Such conversations are always conducted in a language you can understand, even if the Feywild visitor can't speak that language normally.
 
-|d8|Visitor|
-|---|---|
-|1|Awakened creature (a Beast or an ordinary plant that has had the [Awaken](http://dnd5e.wikidot.com/spell:awaken) spell cast on it)|
-|2|Centaur|
-|3|Dryad|
-|4|Faerie Dragon|
-|5|Pixie|
-|6|Satyr|
-|7|Sprite|
-|8|Unicorn|
+| d8  | Visitor                                                                                       |
+| --- | --------------------------------------------------------------------------------------------- |
+| 1   | Awakened creature (a Beast or an ordinary plant that has had the [[Awaken]] spell cast on it) |
+| 2   | Centaur                                                                                       |
+| 3   | Dryad                                                                                         |
+| 4   | Faerie Dragon                                                                                 |
+| 5   | Pixie                                                                                         |
+| 6   | Satyr                                                                                         |
+| 7   | Sprite                                                                                        |
+| 8   | Unicorn                                                                                       |
 
 ## Feywild Connection
 

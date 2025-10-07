@@ -6,12 +6,12 @@ Source: Ghosts of Saltmarsh
 **_You have spent your life aboard fishing vessels or combing the shallows for the bounty of the ocean. Perhaps you were born into a family of fisher folk, working with your kin to feed your village. Maybe the job was a means to an end - a way out of an undesirable circumstance that forced you to take up life aboard a ship. Regardless of how you began, you soon fell in love with the sea, the art of fishing, and the promise of the eternal horizon._**
 
 **Skill Proficiencies:** [[History]], [[Survival]]  
-**Languages:** One of your choice  
+**Languages:** [[Languages|One of your choice]]  
 **Equipment:** Fishing tackle, a net, a favorite fishing lure or oiled leather wading boots, a set of traveler's clothes, and a belt pouch containing 10 gp
 
 ## Harvest the Water
 
-You gain advantage on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
+You gain [[advantage]] on ability checks made using fishing tackle. If you have access to a body of water that sustains marine life, you can maintain a moderate lifestyle while working as a fisher, and you can catch enough food to feed yourself and up to ten other people each day.
 
 ## Fishing Tale
 

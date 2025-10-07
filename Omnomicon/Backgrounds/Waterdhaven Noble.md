@@ -9,8 +9,8 @@ type: Background
 
 Source: Sword Coast Adventurer's Guide
 
-**Skill Proficiencies:** [[History]], [[Persuasion]]  
-**Tool Proficiencies:** One type of gaming set or one musical instrument  
+**Skill Proficiencies:** [[DM Screen/Skills/History]], [[Persuasion]]  
+**Tool Proficiencies:** One type of [[gaming set]] or one [[musical instruments]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A set of fine clothes, a signet ring or brooch, a scroll of pedigree, a skin of fine _zzar_ or wine, and a purse containing 20gp
 
@@ -24,6 +24,6 @@ This advantage enables you to live a comfortable lifestyle without having to pay
 
 # Suggested Characteristics
 
-Use the tables for the [Noble](http://dnd5e.wikidot.com/background:noble) background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Noble#Suggested Characteristics|Noble]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 Like other nobles, you were born and raised in a different world from the one that most folk know – one that grants you privilege but also calls you to fulfill a duty befitting your station. Your bond might be associated with your family a lone, or it could be concerned with another noble house that sides with or opposes your own. Your ideal depends to some extent on how you view your role in the family, and how you intend to conduct yourself in the world at large as a representative of your house.

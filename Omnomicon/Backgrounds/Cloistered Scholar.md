@@ -26,6 +26,6 @@ Additionally, you are likely to gain preferential treatment at other libraries a
 
 # Suggested Characteristics
 
-Use the tables for the [[Sage]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Sage#Suggested Characteristics|Sage]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth – perhaps as a worthy goal in itself, or maybe as a means to a desirable end.

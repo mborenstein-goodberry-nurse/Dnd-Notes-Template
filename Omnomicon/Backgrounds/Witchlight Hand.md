@@ -8,9 +8,9 @@ type: Background
 Source: The Wild Beyond the Witchlight
 
 **Skill Proficiencies:** [[Performance]], [[Sleight of Hand]]  
-**Tool Proficiencies:** [[Disguise kit]] or one type of musical instrument  
+**Tool Proficiencies:** [[Disguise kit]] or one type of [[musical instruments]]  
 **Languages:** [[Languages|One of your choice]]  
-**Equipment:** A disguise kit or a musical instrument of your choice, a deck of cards, a carnival uniform or costume, one trinket (determind by rolling on the [Feywild Trinkets](http://dnd5e.wikidot.com/trinkets) table), and a pouch containing 8gp
+**Equipment:** A [[disguise kit]] or a [[musical instruments]] of your choice, a deck of cards, a carnival uniform or costume, one trinket (determined by rolling on the [[Feywild Trinkets]] table), and a pouch containing 8gp
 
 # Features
 

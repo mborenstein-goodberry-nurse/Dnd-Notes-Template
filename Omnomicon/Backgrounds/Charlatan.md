@@ -10,7 +10,7 @@ Source: Player's Handbook
 **Skill Proficiencies:** [[Deception]], [[Sleight of Hand ]] 
 **Tool Proficiencies:** [[Disguise kit]], [[Forgery kit]] 
 **Languages:** None  
-**Equipment:** A set of fine clothes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a pouch containing 15gp
+**Equipment:** A set of fine clothes, a [[disguise kit]], tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a pouch containing 15gp
 
 # Features
 

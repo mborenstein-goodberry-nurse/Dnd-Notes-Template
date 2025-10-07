@@ -10,7 +10,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** Choose two from among [[Deception]], [[Insight]], [[Persuasion]], and [[Stealth]]  
-**Tool Proficiencies:** Choose two from among one type of gaming set, one musical instrument, and thieves' tools  
+**Tool Proficiencies:** Choose two from among one type of [[gaming set]], one [[musical instrument]], and [[thieves' tools]]  
 **Languages:** None  
 **Equipment:** A set of clothes appropriate to your duties and a pouch containing 20gp
 
@@ -22,6 +22,6 @@ You are in frequent contact with people in the segment of society that your chos
 
 # Suggested Characteristics
 
-Use the tables for the [[Criminal]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Omnomicon/Backgrounds/Criminal#Suggested Characteristics|Criminal]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 For instance, your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.

@@ -7,7 +7,7 @@ type: Background
 
 Source: Sword Coast Adventurer's Guide
 
-**Skill Proficiencies:** [[Insight]] and one [[Intelligence]], [[Wisdom]], or [[Charisma]] skill of your choice, as appropriate to your faction  
+**Skill Proficiencies:** [[Insight]] and one [[Intelligence#Skills|Intelligence]], [[Wisdom#Skills|Wisdom]], or [[Charisma#Skills|Charisma]] skill of your choice, as appropriate to your faction  
 **Tool Proficiencies:** None  
 **Languages:** [[Languages|Two of your choice]]  
 **Equipment:** The badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 15gp
@@ -44,6 +44,6 @@ As a faction agent, you have access to a secret network of supporters and operat
 
 # Suggested Characteristics
 
-Use the tables for the [[Acolyte#Personality Traits|Acolyte]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity. (For instance, consider the words "faith" and "faction" to be interchangeable.)
+Use the tables for the [[Acolyte#Suggested Characteristics|Acolyte]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity. (For instance, consider the words "faith" and "faction" to be interchangeable.)
 
 Your bond might be associated with other members of your faction, or a location or an object that is important to your faction. The ideal you strive for is probably in keeping with the tenets and principles of your faction, but might be more personal in nature.

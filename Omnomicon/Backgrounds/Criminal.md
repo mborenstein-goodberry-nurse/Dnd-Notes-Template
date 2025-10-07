@@ -6,7 +6,7 @@ type: Background
 Source: Player's Handbook
 
 **Skill Proficiencies:** [[Deception]], [[Stealth]]  
-**Tool Proficiencies:** One type of gaming set, thieves' tools  
+**Tool Proficiencies:** One type of [[gaming set]], [[thieves' tools]]  
 **Languages:** None  
 **Equipment:** A crowbar, a set of dark common clothes including a hood, and a pouch containing 15gp
 

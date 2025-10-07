@@ -8,7 +8,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** [[Athletics]], [[Persuasion]]  
-**Tool Proficiencies:** One type of gaming set, vehicles (land)  
+**Tool Proficiencies:** One type of [[gaming set]], [[vehicles (land)]]  
 **Languages:** None  
 **Equipment:** A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set of your choice, and a pouch containing the remainder of your last wages (10gp)
 

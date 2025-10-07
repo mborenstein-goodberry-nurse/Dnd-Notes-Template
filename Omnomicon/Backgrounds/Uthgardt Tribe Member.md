@@ -12,7 +12,7 @@ type: Background
 Source: Sword Coast Adventurer's Guide
 
 **Skill Proficiencies:** [[Athletics]], [[Survival]]  
-**Tool Proficiencies:** One type of musical instrument or artisan's tools  
+**Tool Proficiencies:** One type of [[musical instruments]] or [[artisan's tools]]  
 **Languages:** [[Languages|One of your choice]]  
 **Equipment:** A hunting trap, a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of traveler's clothes, and a pouch containing 10gp
 
@@ -20,7 +20,7 @@ Source: Sword Coast Adventurer's Guide
 
 ## Barbarian Tribes of Faerûn
 
-Though this section details the Uthgardt specifically, either it or the [Outlander](http://dnd5e.wikidot.com/background:outlander) background can be used for a character whose origin lies with one of the other barbarian tribes in Faerûn.
+Though this section details the Uthgardt specifically, either it or the [[Outlander]] background can be used for a character whose origin lies with one of the other barbarian tribes in Faerûn.
 
 You might be a fair-haired barbarian of the Reghed, dwelling in the shadow of the Reghed Glacier in the far North near Icewind Dale. You might also be of the nomadic Rashemi, noted for their savage berserkers and their masked witches. Perhaps you hail from one of the wood elf tribes in the Chondalwood, or the magic-hating human tribes of the sweltering jungles of Chult.
 
@@ -80,7 +80,7 @@ Additionally, you can call upon the hospitality of your people, and those folk a
 
 # Suggested Characteristics
 
-Use the tables for the [[Outlander]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
+Use the tables for the [[Outlander#Suggested Characteristics|Outlander]] background as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity.
 
 Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds – great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred – are sacred to you.
 
