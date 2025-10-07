@@ -18,6 +18,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Clan Crafter",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Clan Crafter.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clan Crafter\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "City Watch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/City Watch.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"City Watch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Charlatan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Charlatan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Charlatan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "City Watch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/City Watch.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"City Watch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Athlete",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Athlete.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlete\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Archaeologist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Archaeologist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Archaeologist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Anthropologist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Anthropologist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Anthropologist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Acolyte",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Acolyte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Sample Journal 3",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Journal 3\"}",
@@ -44,10 +98,15 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Omnomicon/Backgrounds/Acolyte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Acolyte"
             }
           },
           {
@@ -1950,6 +2009,13 @@
   },
   "active": "3beb6672ac73cd66",
   "lastOpenFiles": [
+    "Omnomicon/Backgrounds/Clan Crafter.md",
+    "Omnomicon/Backgrounds/City Watch.md",
+    "Omnomicon/Backgrounds/Charlatan.md",
+    "Omnomicon/Backgrounds/Athlete.md",
+    "Omnomicon/Backgrounds/Archaeologist.md",
+    "Omnomicon/Backgrounds/Anthropologist.md",
+    "Omnomicon/Backgrounds/Acolyte.md",
     "Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md",
     "Omnomicon/Classes/Artificer/Artificer Infusions.md",
     "Omnomicon/Classes/Artificer/Battle Smith.md",
@@ -1969,15 +2035,8 @@
     "Omnomicon/Dictionary/Damage Types/Bludgeoning.md",
     "Omnomicon/Dictionary/Damage Types/Fire.md",
     "Omnomicon/Dictionary/Damage Types/Cold.md",
-    "Omnomicon/Dictionary/Damage Types/Acid.md",
     "Omnomicon/Dictionary/Damage Types",
-    "Omnomicon/Damage Types/Bludgeoning.md",
-    "Omnomicon/Dictionary/Thunder.md",
-    "Omnomicon/Damage Types/Thunder.md",
-    "Omnomicon/Damage Types/Acid.md",
     "Omnomicon/Damage Types",
-    "Omnomicon/Classes/Barbarian/Rage.md",
-    "Omnomicon/Classes/Barbarian/Path of the Zealot.md",
     "Omnomicon/Spells (Alt)/Lists",
     "Campaigns/Sands of Desolation/World Almanac/People/Untitled",
     "Omnomicon/Spells (Alt)",
