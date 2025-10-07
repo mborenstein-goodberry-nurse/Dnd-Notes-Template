@@ -219,6 +219,52 @@
             }
           },
           {
+            "id": "67b4a0c2901b90fd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sample Campaign",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Acid Splash",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DM Screen/DM Screen.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "DM Screen"
+            }
+          },
+          {
             "id": "9ab797ab23189a0a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -1897,76 +1943,6 @@
               "icon": "lucide-file",
               "title": "Tiefling"
             }
-          },
-          {
-            "id": "f79fdbaadb3f6b67",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Omnomicon/Races/Aarakocra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Aarakocra"
-            }
-          },
-          {
-            "id": "67b4a0c2901b90fd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sample Campaign",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sample Campaign/Sample Campaign.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Sample Campaign\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Acid Splash",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Spells/Acid Splash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acid Splash\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen/DM Screen.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "DM Screen"
-            }
           }
         ],
         "currentTab": 2
@@ -2435,10 +2411,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f79fdbaadb3f6b67",
+  "active": "9ab797ab23189a0a",
   "lastOpenFiles": [
     "Omnomicon/Races/Tiefling.md",
+    "Omnomicon/Races/Firbolg.md",
+    "Omnomicon/Races/Fairy.md",
+    "Omnomicon/Races/Eladrin.md",
+    "Omnomicon/Races/Duergar.md",
+    "Omnomicon/Races/Aasimar.md",
+    "Omnomicon/Races/Changeling.md",
+    "Omnomicon/Races/Deep Gnome.md",
     "Omnomicon/Races/Aarakocra.md",
+    "Omnomicon/Races/Dragonborn.md",
     "Omnomicon/Races/# Racial Traits.md",
     "Omnomicon/Races/Racial Traits.md",
     "Omnomicon/Races/Human.md",
@@ -2446,7 +2430,6 @@
     "Omnomicon/Races/Half-Orc.md",
     "Omnomicon/Races/Half-Elf.md",
     "Omnomicon/Races/Gnome.md",
-    "Omnomicon/Races/Dragonborn.md",
     "Omnomicon/Races/Dwarf.md",
     "Omnomicon/Races/Elf.md",
     "Omnomicon/Languages/Elvish.md",
@@ -2456,13 +2439,6 @@
     "Omnomicon/Races.md",
     "Omnomicon/Items/Burglar's Pack.md",
     "Omnomicon/Items/Diplomat's Pack.md",
-    "Omnomicon/Items/Dungeoneer's Pack.md",
-    "Omnomicon/Items/Entertainer's Pack.md",
-    "Omnomicon/Items/Explorer's Pack.md",
-    "Omnomicon/Items/Priest's Pack.md",
-    "Omnomicon/Items/Scholar's Pack.md",
-    "Omnomicon/Items/Monster Hunter's Pack.md",
-    "Omnomicon/Classes/Bard/College of Whispers.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",
