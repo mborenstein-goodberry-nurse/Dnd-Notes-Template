@@ -139,6 +139,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "College of Spirits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Spirits.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Spirits\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":7},\"to\":{\"line\":50,\"ch\":7}},\"scroll\":41.62593389250213}"
+                },
+                {
                   "title": "College of Lore",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Lore.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Lore\"}",
@@ -1559,13 +1565,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Classes/Bard/College of Spirits.md",
+                "file": "Omnomicon/Classes/Bard/College of Swords.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "College of Spirits"
+              "title": "College of Swords"
             }
           },
           {
@@ -2107,6 +2113,7 @@
   },
   "active": "9ab797ab23189a0a",
   "lastOpenFiles": [
+    "Omnomicon/Classes/Bard/College of Spirits.md",
     "Omnomicon/Classes/Bard/College of Lore.md",
     "Omnomicon/Spells (Alt)/Spells (Alt).md",
     "Omnomicon/Spells (Alt)/Lists/All Spells.md",
@@ -2132,7 +2139,6 @@
     "Omnomicon/Classes/Artificer/Alchemist.md",
     "Omnomicon/Classes/Artificer/Artificer.md",
     "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
-    "Omnomicon/Dictionary/Damage Types/Thunder.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",
