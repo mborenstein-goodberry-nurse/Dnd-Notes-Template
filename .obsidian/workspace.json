@@ -139,6 +139,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "College of Eloquence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Eloquence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Eloquence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":166},\"to\":{\"line\":16,\"ch\":184}},\"scroll\":15.766927083333334}"
+                },
+                {
                   "title": "College of Creation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Creation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Creation\"}",
@@ -1541,13 +1547,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Classes/Bard/College of Eloquence.md",
+                "file": "Omnomicon/Classes/Bard/College of Glamour.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "College of Eloquence"
+              "title": "College of Glamour"
             }
           },
           {
@@ -2089,6 +2095,7 @@
   },
   "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
+    "Omnomicon/Classes/Bard/College of Eloquence.md",
     "Omnomicon/Classes/Bard/College of Creation.md",
     "Omnomicon/Classes/Bard/Bard.md",
     "Omnomicon/Classes/Bard/Bardic Inspiration.md",
@@ -2114,7 +2121,6 @@
     "Omnomicon/Dictionary/Damage Types/Slashing.md",
     "Omnomicon/Dictionary/Damage Types/Psychic.md",
     "Omnomicon/Dictionary/Damage Types/Force.md",
-    "Omnomicon/Dictionary/Damage Types/Poison.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",
