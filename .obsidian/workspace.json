@@ -11,8 +11,14 @@
             "id": "3beb6672ac73cd66",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Bard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/Bard.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Bard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":159,\"ch\":80},\"to\":{\"line\":159,\"ch\":80}},\"scroll\":142.07682291666666}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -143,6 +149,48 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "College of Valor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Valor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "College of Whispers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Whispers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Whispers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Clockwork Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":26},\"to\":{\"line\":26,\"ch\":26}},\"scroll\":0}"
+                },
+                {
+                  "title": "Divine Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Divine Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Divine Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Clockwork Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Clockwork Soul.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clockwork Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Abberant Mind",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Sorcerer/Abberant Mind.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Abberant Mind\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "College of Valor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Classes/Bard/College of Valor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"College of Valor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":2.4976525821596245}"
                 },
                 {
                   "title": "College of Swords",
@@ -1577,13 +1625,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Classes/Bard/College of Valor.md",
+                "file": "Omnomicon/Classes/Bard/College of Whispers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "College of Valor"
+              "title": "College of Whispers"
             }
           },
           {
@@ -1632,8 +1680,7 @@
               "title": "DM Screen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -2099,10 +2146,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9ab797ab23189a0a",
+  "active": "3beb6672ac73cd66",
   "lastOpenFiles": [
-    "Omnomicon/Classes/Artificer/Armorer.md",
+    "Omnomicon/Classes/Bard/Bard.md",
+    "Omnomicon/Classes/Bard/College of Whispers.md",
     "Omnomicon/Classes/Bard/College of Valor.md",
+    "Omnomicon/Classes/Sorcerer/Clockwork Soul.md",
+    "Omnomicon/Classes/Sorcerer/Divine Soul.md",
+    "Omnomicon/Classes/Sorcerer/Abberant Mind.md",
+    "Omnomicon/Classes/Artificer/Armorer.md",
     "Omnomicon/Classes/Bard/College of Swords.md",
     "Omnomicon/Classes/Bard/Bardic Inspiration.md",
     "Omnomicon/Classes/Bard/College of Spirits.md",
@@ -2112,7 +2164,6 @@
     "Omnomicon/Classes/Bard/College of Glamour.md",
     "Omnomicon/Classes/Bard/College of Eloquence.md",
     "Omnomicon/Classes/Bard/College of Creation.md",
-    "Omnomicon/Classes/Bard/Bard.md",
     "DM Screen/DM Screen.md",
     "Omnomicon/Backgrounds/Witchlight Hand.md",
     "Omnomicon/Classes/Artificer/Artificer Infusions.md",
@@ -2123,10 +2174,6 @@
     "Omnomicon/Backgrounds/Athlete.md",
     "Omnomicon/Backgrounds/Archaeologist.md",
     "Omnomicon/Backgrounds/Anthropologist.md",
-    "Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md",
-    "Omnomicon/Classes/Artificer/Battle Smith.md",
-    "Omnomicon/Classes/Artificer/Artillerist.md",
-    "Omnomicon/Classes/Artificer/Alchemist.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",

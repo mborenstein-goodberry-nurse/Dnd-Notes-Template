@@ -42,7 +42,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | Level | Proficiency Bonus | Features                                                            | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | ------------------------------------------------------------------- | -------------- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st   | +2                | [[#Spellcasting]], [[#Bardic Inspiration]] (d6)                     | 2              | 4            | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | [[Jack of All Trades]], [[#Song of Rest]] (d6)                      | 2              | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | [[#Jack of All Trades]], [[#Song of Rest]] (d6)                     | 2              | 5            | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | [[#Bard College]], [[#Expertise]]                                   | 2              | 6            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
 | 4th   | +2                | Ability Score Improvement                                           | 3              | 7            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
 | 5th   | +3                | [[#Bardic Inspiration]] (d8), [[#Font of Inspiration]]              | 3              | 8            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
@@ -119,7 +119,7 @@ Starting at 2nd level, you can add half your [[proficiency bonus]], rounded down
 
 ### Song of Rest
 
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a [[short rest]]. If you or any friendly creatures who can hear your performance regain [[hit points]] at the end of the short rest by spending one or more [[Hit Dice]], each of those creatures regains an extra 1d6 [[hit points]].
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a [[short rest]]. If you or any friendly creatures who can hear your performance regain [[hit points]] at the end of the [[short rest]] by spending one or more [[Hit Dice]], each of those creatures regains an extra 1d6 [[hit points]].
 
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
@@ -151,17 +151,17 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing a change in focus as you use your skills and magic:
 
-- Replace one of the skills you chose for the Expertise feature with one of your other skill proficiencies that isn't benefiting from Expertise.
+- Replace one of the skills you chose for the [[#Expertise]] feature with one of your other skill proficiencies that isn't benefiting from Expertise.
 
 - Replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the [[Bard Spells|bard spell list]].
 
 ### Font of Inspiration
 
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a [[Short Rest|short]] or [[long rest]].
 
 ### Countercharm
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an [[action]], you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have [[advantage]] on saving throws against being [[frightened]] or [[charmed]]. A creature must be able to hear you to gain this benefit. The performance ends early if you are [[incapacitated]] or silenced or if you voluntarily end it (no action required).
 
 ### Magical Secrets
 
@@ -173,30 +173,4 @@ You learn two additional spells from any classes at 14th level and again at 18th
 
 ### Superior Inspiration
 
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
-
-## Bard Colleges
-
-### College of Lore
-
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
-
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.
-
-The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
-
-#### Bonus Proficiencies
-
-When you join the College of Lore at 3rd level, you gain proficiency with three skills of your choice.
-
-#### Cutting Words
-
-Also at 3rd level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
-
-#### Additional Magical Secrets
-
-At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.
-
-#### Peerless Skill
-
-Starting at 14th level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
+At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use. 
