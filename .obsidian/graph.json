@@ -57,6 +57,13 @@
       }
     },
     {
+      "query": "path:\"Omnomicon/Spells (Alt)/\"  file:\"Spells (Alt)\"",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
       "query": "path:\"Omnomicon/Spells (Alt)/\"  ",
       "color": {
         "a": 1,
