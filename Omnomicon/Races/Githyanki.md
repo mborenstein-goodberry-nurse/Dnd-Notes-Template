@@ -28,4 +28,4 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Psychic Resilience.** You have resistance to [[psychic]] damage.
 
-- **Languages.** Your character can speak, read, and write [[Common]] and [[one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+- **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.

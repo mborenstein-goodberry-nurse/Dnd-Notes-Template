@@ -26,6 +26,6 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Nature's Intuition.** Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]].
 
-- **Shell Defense.** You can withdraw into your shell as an [[action]]. Until you emerge, you gain a +4 bonus to your AC, and you have [[advantage]] on [[Strength]] and [[Constitution]] saving throws. While in your shell, you are prone, your speed is 0 and can’t increase, you have [[disadvantage]] on [[Dexterity]] saving throws, you can’t take [[reactions]], and the only action you can take is a [[bonus action]] to emerge from your shell.
+- **Shell Defense.** You can withdraw into your shell as an [[action]]. Until you emerge, you gain a +4 bonus to your AC, and you have [[advantage]] on [[Strength]] and [[Constitution]] saving throws. While in your shell, you are prone, your speed is 0 and can’t increase, you have [[disadvantage]] on [[Dexterity]] saving throws, you can’t take [[Reaction|reactions]], and the only action you can take is a [[bonus action]] to emerge from your shell.
 
 - **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
