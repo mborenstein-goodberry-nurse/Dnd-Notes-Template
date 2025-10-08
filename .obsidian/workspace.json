@@ -18,70 +18,250 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Witchlight Hand",
+                  "title": "Creature",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Witchlight Hand.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Witchlight Hand\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Creature.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Creature\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "Charlatan",
+                  "title": "Mondster",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Charlatan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Charlatan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":31.98779296875}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Mondster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mondster\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Acolyte",
+                  "title": "Creature",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Acolyte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Creature.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Creature\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "Clan Crafter",
+                  "title": "Mondster",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Clan Crafter.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Clan Crafter\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Mondster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Monster Stat Base\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "City Watch",
+                  "title": "Creature",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/City Watch.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"City Watch\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Creature.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Creature\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Charlatan",
+                  "title": "NPC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Charlatan.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Charlatan\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "City Watch",
+                  "title": "Player Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/City Watch.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"City Watch\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Player Template.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Player Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
                 },
                 {
-                  "title": "Athlete",
+                  "title": "NPC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Athlete.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Athlete\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
-                  "title": "Archaeologist",
+                  "title": "Player Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Archaeologist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Archaeologist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Player Template.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Player Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
                 },
                 {
-                  "title": "Anthropologist",
+                  "title": "NPC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Anthropologist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Anthropologist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/NPC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"NPC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "Acolyte",
+                  "title": "Player Template",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Omnomicon/Backgrounds/Acolyte.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Acolyte\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Creatures/Player Template.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Player Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":0},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":47.428917120387176}"
+                },
+                {
+                  "title": "Incident",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Incident.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Incident\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Quest.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Quest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Scene",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Scene.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Scene\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Events/Time Period.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Time Period\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Commerce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Commerce.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Commerce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Criminal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Criminal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Criminal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Family",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Family.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Family\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Government",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Government.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Government\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Group List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Group List.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Group List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Militia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Militia.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Militia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Other",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Other.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Other\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Religion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Group/Religion.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Religion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Item",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Things/Item.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Item\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic Item",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Things/Magic Item.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Magic Item\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Place",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Things/Place.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Place\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vehicle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Things/Vehicle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Vehicle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session Journal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Session Journal.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Session Journal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Feat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Abilities/Feat.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Feat\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Skill",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Abilities/Skill.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Skill\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Creature",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Dangers/Creature.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Creature\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Disease",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Dangers/Disease.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Disease\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hazard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Dangers/Hazard.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Hazard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Poison",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Dangers/Poison.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Poison\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Trap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Dangers/Trap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Trap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "General Equipment Article",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Equipment/General Equipment Article.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"General Equipment Article\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mundane Armor_Shield",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Equipment/Mundane Armor_Shield.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mundane Armor_Shield\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mundane Item",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Equipment/Mundane Item.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mundane Item\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mundane Weapon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Equipment/Mundane Weapon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Mundane Weapon\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Vehicle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/2. Mechanics Guide/Equipment/Vehicle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Vehicle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mondster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/Mondster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Monster Stat Base\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Graph view",
@@ -1505,13 +1685,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnomicon/Backgrounds/Witchlight Hand.md",
+                "file": "z_Templates/1. Story World Templates/Creatures/Creature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Witchlight Hand"
+              "title": "Creature"
             }
           },
           {
@@ -2030,31 +2210,31 @@
   "active": "9ab797ab23189a0a",
   "lastOpenFiles": [
     "Omnomicon/Classes/Artificer/Artificer Infusions.md",
-    "Omnomicon/Backgrounds/Witchlight Hand.md",
-    "Omnomicon/Backgrounds/Charlatan.md",
-    "Omnomicon/Backgrounds/Acolyte.md",
-    "Omnomicon/Backgrounds/Clan Crafter.md",
-    "Omnomicon/Backgrounds/City Watch.md",
-    "Omnomicon/Backgrounds/Athlete.md",
-    "Omnomicon/Backgrounds/Archaeologist.md",
-    "Omnomicon/Backgrounds/Anthropologist.md",
-    "Campaigns/Sample Campaign/Session Journals/Sample Journal 3.md",
-    "Omnomicon/Classes/Artificer/Battle Smith.md",
-    "Omnomicon/Classes/Artificer/Artillerist.md",
-    "Omnomicon/Classes/Artificer/Armorer.md",
-    "Omnomicon/Classes/Artificer/Alchemist.md",
-    "Omnomicon/Classes/Artificer/Artificer.md",
-    "Omnomicon/Classes/Barbarian/Path of Wild Magic.md",
-    "Omnomicon/Dictionary/Damage Types/Thunder.md",
-    "Omnomicon/Dictionary/Damage Types/Radiant.md",
-    "Omnomicon/Dictionary/Damage Types/Slashing.md",
-    "Omnomicon/Dictionary/Damage Types/Psychic.md",
-    "Omnomicon/Dictionary/Damage Types/Force.md",
-    "Omnomicon/Dictionary/Damage Types/Poison.md",
-    "Omnomicon/Dictionary/Damage Types/Necrotic.md",
-    "Omnomicon/Dictionary/Damage Types/Piercing.md",
-    "Omnomicon/Dictionary/Damage Types/Bludgeoning.md",
-    "Omnomicon/Dictionary/Damage Types/Fire.md",
+    "z_Templates/1. Story World Templates/Creatures/Creature.md",
+    "z_Templates/Mondster.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
+    "z_Templates/1. Story World Templates/Creatures/Player Template.md",
+    "z_Templates/1. Story World Templates/Creatures/Player Character.md",
+    "z_Templates/1. Story World Templates/Events/Incident.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
+    "z_Templates/1. Story World Templates/Events/Scene.md",
+    "z_Templates/1. Story World Templates/Events/Time Period.md",
+    "z_Templates/1. Story World Templates/Group/Commerce.md",
+    "z_Templates/1. Story World Templates/Group/Criminal.md",
+    "z_Templates/1. Story World Templates/Group/Family.md",
+    "z_Templates/1. Story World Templates/Group/Government.md",
+    "z_Templates/1. Story World Templates/Group/Group List.md",
+    "z_Templates/1. Story World Templates/Group/Militia.md",
+    "z_Templates/1. Story World Templates/Group/Other.md",
+    "z_Templates/1. Story World Templates/Group/Religion.md",
+    "z_Templates/1. Story World Templates/Things/Item.md",
+    "z_Templates/1. Story World Templates/Things/Magic Item.md",
+    "z_Templates/1. Story World Templates/Things/Place.md",
+    "z_Templates/1. Story World Templates/Things/Vehicle.md",
+    "z_Templates/1. Story World Templates/Session Journal.md",
+    "z_Templates/2. Mechanics Guide/Abilities/Feat.md",
+    "z_Templates/2. Mechanics Guide/Abilities/Skill.md",
+    "z_Templates/2. Mechanics Guide/Dangers/Creature.md",
     "Omnomicon/Dictionary/Damage Types",
     "Omnomicon/Damage Types",
     "Omnomicon/Spells (Alt)/Lists",
