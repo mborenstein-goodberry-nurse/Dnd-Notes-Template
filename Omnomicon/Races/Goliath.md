@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Exotic
+---
 # Goliath
 
 ## Mordenkainen Presents: Monsters of the Multiverse

@@ -1,3 +1,7 @@
+---
+type: Race
+subtype: Exotic
+---
 # Githzerai
 
 ## Mordenkainen Presents: Monsters of the Multiverse
