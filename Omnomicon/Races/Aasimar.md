@@ -41,7 +41,7 @@ subtype: Exotic
     - **Radiant Consumption.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes [[radiant]] damage equal to your proficiency bonus. Until the transformation ends, once on each of your turns, you can deal extra [[radiant]] damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[proficiency bonus]].
     - **Radiant Soul.** Two luminous, spectral wings sprout from your back temporarily. Until the transformation ends, you have a flying speed equal to your walking speed, and once on each of your turns, you can deal extra [[radiant]] damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your [[proficiency bonus]].
 
-- **Languages.** Your character can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+- **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
 
 ## Volo's Guide to Monsters
 

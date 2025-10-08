@@ -27,4 +27,4 @@ Source: Mordenkainen Presents: Monsters of the Multiverse
 - **Wind Caller.** Starting at 3rd level, you can cast the [[Gust of Wind]] spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can’t do so again until you finish a [[long rest]]. You can also cast the spell using any spell slots you have of 2nd level or higher.
     - [[Intelligence]], [[Wisdom]], or [[Charisma]] is your spellcasting ability for it when you cast [[Gust of Wind]] with this trait (choose when you select this race).
 
-- **Languages.** Your character can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+- **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.

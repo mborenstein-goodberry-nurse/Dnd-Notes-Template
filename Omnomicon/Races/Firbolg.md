@@ -29,7 +29,7 @@ subtype: Exotic
 
 - **Speech of Beast and Leaf.** You have the ability to communicate in a limited manner with Beasts, Plants, and vegetation. They can understand the meaning of your words, though you have no special ability to understand them in return. You have [[advantage]] on all [[Charisma]] checks you make to influence them.
 
-- **Languages.** Your character can speak, read, and write [[Common]] and one other language that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+- **Languages.** Your character can speak, read, and write [[Common]] and [[Languages|one other language]] that you and your DM agree is appropriate for the character. The _Player’s Handbook_ offers a list of languages to choose from. The DM is free to modify that list for a campaign.
 
 ## Volo's Guide to Monsters
 
