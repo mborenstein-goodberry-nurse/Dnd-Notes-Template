@@ -12,7 +12,7 @@ Uncounted thousands of spells have been created over the course of the multivers
 
 ## Spell Level
 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *[[magic missile]]* at 1st level and the earth-shaking *[[wish]]* at 9th. Cantrips-simple but powerful spells that characters can cast almost by rote-are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) *[[magic missile]]* at 1st level and the earth-shaking *[[Wish]]* at 9th. Cantrips-simple but powerful spells that characters can cast almost by rote-are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
@@ -62,7 +62,7 @@ To cast a spell as a ritual, a spellcaster must have a feature that grants the a
 >
 >**[[Conjuration]]** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
 >
->**[[Omnomicon/Spells (Alt)/Lists/Divination]]** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
+>**[[Omnomicon/Spells (Alt)/Lists/Divination|Divination]]** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
 >
 >**[[Enchantment]]** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
 >
