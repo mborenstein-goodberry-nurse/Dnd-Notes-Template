@@ -15,9 +15,9 @@ HitDice: d8
 Speed: 30
 STR: 10
 DEX: 10
-CON: 13
+CON: 10
 INT: 10
-WIS: 7
+WIS: 10
 CHA: 10
 Race: RaceName
 Alignment: NONE
@@ -57,7 +57,7 @@ tags:
 # [[Player Template]]
 
 ## Appearance
-Looks gay
+
 
 ## Sheet
 >[!column | flex 2]
@@ -117,24 +117,24 @@ Looks gay
 >> ### Skill Checks
 | Ability               |   Prof                            | Mod |
 | --------------------- | --------------------------------- | --- |
-| Acrobatics (DEX)      | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
-| Animal Handling (WIS) | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
-| Arcana (INT)          | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
-| Athletics (STR)       | <input type="checkbox" unchecked> | +`=floor((this.STR - 10)/2)`   |
-| Deception (CHA)       | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
-| History (INT)         | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
-| Insight (WIS)         | <input type="checkbox" unchecked>   | +`=floor(((this.WIS - 10)/2))`  |
-| Intimidation (CHA)    | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
-| Investigation (INT)   | <input type="checkbox" unchecked>   | +`=floor((this.INT - 10)/2)`  |
-| Medicine (WIS)        | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
-| Nature (INT)          | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
-| Perception (WIS)      | <input type="checkbox" unchecked>   | +`=floor((this.WIS - 10)/2)`  |
-| Performance (CHA)     | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
-| Persuasion (CHA)      | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
-| Religion (INT)        | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
-| Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
-| Stealth (DEX)         | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
-| Survival (WIS)        | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
+| [[Acrobatics]] (DEX)      | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
+| [[Animal Handling]] (WIS) | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
+| [[Arcana]] (INT)          | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
+| [[Athletics]] (STR)       | <input type="checkbox" unchecked> | +`=floor((this.STR - 10)/2)`   |
+| [[Deception]] (CHA)       | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
+| [[History]] (INT)         | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
+| [[Insight]] (WIS)         | <input type="checkbox" unchecked>   | +`=floor(((this.WIS - 10)/2))`  |
+| [[Intimidation]] (CHA)    | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
+| [[Investigation]] (INT)   | <input type="checkbox" unchecked>   | +`=floor((this.INT - 10)/2)`  |
+| [[Medicine]] (WIS)        | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
+| [[Nature]] (INT)          | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
+| [[Perception]] (WIS)      | <input type="checkbox" unchecked>   | +`=floor((this.WIS - 10)/2)`  |
+| [[Performance]] (CHA)     | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
+| [[Persuasion]] (CHA)      | <input type="checkbox" unchecked> | +`=floor((this.CHA - 10)/2)`  |
+| [[Religion]] (INT)        | <input type="checkbox" unchecked> | +`=floor((this.INT - 10)/2)`  |
+| [[Sleight of Hand]] (DEX) | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
+| [[Stealth]] (DEX)         | <input type="checkbox" unchecked> | +`=floor((this.DEX - 10)/2)`   |
+| [[Survival]] (WIS)        | <input type="checkbox" unchecked> | +`=floor((this.WIS - 10)/2)`  |
 
 
 ## Features
