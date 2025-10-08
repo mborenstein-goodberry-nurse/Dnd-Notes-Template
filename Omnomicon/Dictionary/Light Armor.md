@@ -1,4 +1,4 @@
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your [[Dexterity]] modifier to the base number from your armor type to determine your Armor Class.
 
 | Armor            | Cost     | Armor Class (AC)          | Strength | Stealth      | Weight |
 |------------------|----------|---------------------------|----------|--------------|--------|
