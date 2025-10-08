@@ -2,9 +2,9 @@
 type: Race
 subtype: Exotic
 ---
-# Aasimar
-
 ## Mordenkainen Presents: Monsters of the Multiverse
+
+### Aasimar 
 
 **_Whether descended from a celestial being or infused with heavenly power, aasimar are mortals who carry a spark of the Upper Planes within their souls. They can fan that spark to bring light, ease wounds, and unleash the fury of the heavens._**
 
@@ -45,6 +45,8 @@ subtype: Exotic
 
 ## Volo's Guide to Monsters
 
+### Aasimar 
+
 **_Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage._**
 
 **_An aasimar, except for one who has turned to evil, has a link to an angelic being. That being – usually a deva – provides guidance to the aasimar, though this connection functions only in dreams. As such, the guidance is not a direct command or a simple spoken word. Instead, the aasimar receives visions, prophecies, and feelings._**
@@ -71,7 +73,7 @@ subtype: Exotic
 
 - **Subrace.** Three subraces of aasimar exist: protector aasimar, scourge aasimar, and fallen aasimar. Choose one of them for your character.
 
-### Protector
+#### Protector
 
 **_Protector aasimar are charged by the powers of good to guard the weak, to strike at evil wherever it arises, and to stand vigilant against the darkness. From a young age, a protector aasimar receives advice and directives that urge to stand against evil._**
 
@@ -81,7 +83,7 @@ subtype: Exotic
     - Your transformation lasts for 1 minute or until you end it as a [[bonus action]]. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra [[radiant]] damage to one target when you deal damage to it with an attack or a spell. The extra [[radiant]] damage equals your level.
     - Once you use this trait, you can't use it again until you finish a [[long rest]].
 
-### Scourge
+#### Scourge
 
 **_Scourge aasimar are imbued with a divine energy that blazes intensely within them. It feeds a powerful desire to destroy evil - a desire that is, at its best, unflinching and, at its worst, all-consuming. Many scourge aasimar wear masks to block out the world and focus on containing this power, unmasking themselves only in battle._**
 
@@ -91,7 +93,7 @@ subtype: Exotic
     - Your transformation lasts for 1 minute or until you end it as a [[bonus action]]. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take [[radiant]] damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra [[radiant]] damage to one target when you deal damage to it with an attack or a spell. The extra [[radiant]] damage equals your level.
     - Once you use this trait, you can't use it again until you finish a [[long rest]].
 
-### Fallen
+#### Fallen
 
 **_An aasimar who was touched by dark powers as a youth or who turns to evil in early adulthood can become one of the fallen - a group of aasimar whose inner light has been replaced by shadow._**
 

@@ -2,11 +2,11 @@
 type: Race
 subtype: Common
 ---
-# Halfling
-
-## Player's Handbook
+### Halfling
 
 _**The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies. Others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. Halflings work readily with others, and they are loyal to their friends, whether halfling or otherwise. They can display remarkable ferocity when their friends, families, or communities are threatened.**_
+
+Source: Player's Handbook
 
 - **Ability Score Increase.** Your [[Dexterity]] score increases by 2.
 
@@ -26,7 +26,7 @@ _**The comforts of home are the goals of most halflings' lives: a place to settl
 
 - **Languages.** You can speak, read, and write [[Common]] and [[Halfling]].
 
-## Lightfoot
+#### Lightfoot
 
 **_As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety._**
 
@@ -36,7 +36,7 @@ _**The comforts of home are the goals of most halflings' lives: a place to settl
 
 - **Naturally Stealthy.** You can attempt to hide even when you are only obscured by a creature that is at least one size larger than you.
 
-## Stout
+#### Stout
 
 **_As a stout halfling, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they're most common in the south._**
 

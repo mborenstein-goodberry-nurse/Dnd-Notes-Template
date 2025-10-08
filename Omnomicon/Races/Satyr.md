@@ -2,11 +2,11 @@
 type: Race
 subtype: Exotic
 ---
-# Satyr  
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Satyr  
 
 **_Originating in the Feywild — a realm of pure emotion-satyrs thrive on the energy of merriment. They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they’re usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane’s splendor to other worlds._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 

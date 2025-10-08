@@ -2,11 +2,11 @@
 type: Race
 subtype: Common
 ---
-# Half-Elf
-
-## Player's Handbook
+### Half-Elf
 
 _**Walking in two worlds but truly belonging to neither, half-elves combine what some say are the best qualities of their elf and human parents: human curiosity, inventiveness, and ambition tempered by the refined senses, love of nature, and artistic tastes of the elves.**_
+
+Source: Player's Handbook
 
 - **Ability Score Increase.** Your [[Charisma]] score increases by 2, and two other ability scores of your choice each increase by 1.
 

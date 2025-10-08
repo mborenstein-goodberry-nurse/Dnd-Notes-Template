@@ -2,11 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Mordenkainen Presents: Monsters of the Multiverse
+### Fairy 
 
 **_The Feywild is home to many fantastic peoples, including fairies. Fairies are a wee folk, but not nearly as much so as their pixie and sprite friends. The first fairies spoke Elvish, Goblin, or Sylvan, and encounters with human visitors prompted many of them to learn Common as well._**
 
 **_Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical characteristic that sets the fairy apart. For your fairy, roll on the Fey Characteristics table or choose an option from it. You’re also free to come up with your own characteristic if none of the suggestions below fit your character._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 | |Fey Characteristics|
 |---|---|

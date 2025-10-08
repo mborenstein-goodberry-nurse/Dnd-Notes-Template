@@ -2,13 +2,15 @@
 type: Race
 subtype: Exotic
 ---
-# Triton 
-
 ## Mordenkainen Presents: Monsters of the Multiverse
+
+### Triton 
 
 **_Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds’ oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean’s surface._**
 
 **_Tritons have webbed hands and feet, small fins on their calves, and coloration that favors blues and greens._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse 
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
@@ -33,7 +35,11 @@ subtype: Exotic
 
 ## Volo's Guide to Monsters
 
+### Triton 
+
 _**Tritons guard the ocean depths, building small settlements beside deep trenches, portals to the elemental planes, and other dangerous spots far from the eyes of land-bound folk. Long-established guardians of the deep ocean floor, the noble tritons have gradually become increasingly active in the world above.**_
+
+Source: Volo's Guide to Monsters 
 
 - **Ability Score Increase.** Your [[Strength]], [[Constitution]], and [[Charisma]] scores each increase by 1.
 

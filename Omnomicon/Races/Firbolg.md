@@ -2,15 +2,17 @@
 type: Race
 subtype: Exotic
 ---
-# Firbolg
+## Mordenkainen Presents: Monsters of the Multiverse 
 
-## Mordenkainen Presents: Monsters of the Multiverse
+### Firbolg
 
 **_Distant cousins of giants, the first firbolgs wandered the primeval forests of the multiverse, and the magic of those forests entwined itself with the firbolgs’ souls. Centuries later, that magic still thrums inside a firbolg, even one who has never lived under the boughs of a great forest._**
 
 **_A firbolg’s magic is an obscuring sort, which allowed their ancestors to pass through a forest without disturbing it. So deep is the connection between a firbolg and the wild places of the world that they can communicate with flora and fauna._**
 
 **_Firbolgs can live up to 500 years._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
@@ -33,7 +35,11 @@ subtype: Exotic
 
 ## Volo's Guide to Monsters
 
+### Firbolg
+
 _**Firbolgs are fey-oriented half-giants. Their tribes cloister in remote forest strongholds, preferring to spend their days in quiet harmony with the woods. When provoked, firbolgs demonstrate formidable skills with weapons and druidic magic.**_
+
+Source: Volo's Guide to Monsters
 
 - **Ability Score Increase.** Your [[Wisdom]] score increases by 2, and your [[Strength]] score increases by 1.
 

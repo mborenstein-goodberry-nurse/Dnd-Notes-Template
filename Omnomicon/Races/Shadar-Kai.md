@@ -2,9 +2,9 @@
 type: Race
 subtype: Exotic
 ---
-# Shadar-Kai
-
 ## Mordenkainen Presents: Monsters of the Multiverse
+
+### Shadar-Kai
 
 **_Shadar-kai are the elves of the Shadowfell, originally drawn to that dread realm by the Raven Queen. Over the centuries, some of them have continued to serve her, while others have ventured into the Material Plane to forge their own destinies._**
 
@@ -13,6 +13,8 @@ subtype: Exotic
 **_Shadar-kai have ashen skin tones, and while they’re in the Shadowfell, they also become wizened, reflecting the somber nature of that gloomy plane._**
 
 **_Like other elves, shadar-kai can live to be over 750 years old._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse 
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
@@ -40,7 +42,11 @@ subtype: Exotic
 
 ## Mordenkainen's Tome of Foes
 
+### Shadar-Kai
+
 **_Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it._**
+
+Source: Mordenkainen's Tome of Foes 
 
 - **Ability Score Increase.** Your [[Dexterity]] score increases by 2, and your [[Constitution]] score increases by 1.
 
@@ -62,4 +68,4 @@ subtype: Exotic
 
 - **Blessing of the Raven Queen.** As a [[bonus action]], you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a [[long rest]]. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
 
-- **Languages.** You can speak, read, and write [[Common]] and [[Elven]].
+- **Languages.** You can speak, read, and write [[Common]] and [[Elvish|Elven]].

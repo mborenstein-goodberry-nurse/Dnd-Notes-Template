@@ -2,11 +2,11 @@
 type: Race
 subtype: Exotic
 ---
-# Verdan
-
-## Source: Acquisitions Inc.
+### Verdan
 
 _**Verdan owe their existence to chaos. Descendants of goblins and hobgoblins, transformed by the shadow of That-Which-Endures. They are THE newest race of Faerûn.**_
+
+Source: Acquisitions Inc.
 
 - **Ability Score Increase.** Your [[Charisma]] score increases by 2, and your [[Constitution]] score increases by 1.
 

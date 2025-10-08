@@ -2,13 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Deep Gnome 
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Deep Gnome 
 
 **_Deep gnomes, or svirfneblin, are natives of the Underdark and are suffused with that subterranean realm’s magic. They can supernaturally camouflage themselves, and their svirfneblin magic renders them difficult to locate. These abilities have enabled them to survive for generations among the perils of the Underdark._**
 
 **_Like other gnomes, deep gnomes can live for centuries, up to 500 years._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 

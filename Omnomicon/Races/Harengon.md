@@ -2,13 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Harengon
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Harengon
 
 **_Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went._**
 
 **_Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 

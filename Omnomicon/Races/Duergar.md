@@ -2,13 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Duergar 
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Duergar 
 
 **_Duergar are dwarves whose ancestors were transformed by centuries living in the deepest places of the Underdark. That chthonic realm is saturated with strange magical energy, and over generations, early duergar absorbed traces of it. They were further altered when mind flayers and other Aberrations invaded and performed horrific experiments on them. Fueled by Underdark magic, those experiments left early duergar with psionic powers, which have been passed down to their descendants. In time, they liberated themselves from their aberrant tyrants and forged a new life for themselves in the Underdark and beyond._**
 
 **_Like other dwarves, duergar typically have a life span of 350 years._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 

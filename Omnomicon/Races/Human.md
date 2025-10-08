@@ -2,11 +2,11 @@
 type: Race
 subtype: Common
 ---
-# Human
-
-## Player's Handbook
+### Human
 
 _**In the reckonings of most worlds, humans are the youngest of the common races, late to arrive on the world scene and short-lived in comparison to dwarves, elves, and dragons. Perhaps it is because of their shorter lives that they strive to achieve as much as they can in the years they are given. Or maybe they feel they have something to prove to the elder races, and that's why they build their mighty empires on the foundation of conquest and trade. Whatever drives them, humans are the innovators, the achievers, and the pioneers of the worlds.**_
+
+Source: Player's Handbook
 
 - **Ability Score Increase.** Your ability scores each increase by 1.
 
@@ -20,7 +20,7 @@ _**In the reckonings of most worlds, humans are the youngest of the common races
 
 - **Languages.** You can speak, read, and write [[Common]] and [[Languages|one extra language]] of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: [[Orc]] curses, [[Elvish]] musical expressions, [[Dwarvish]] military phrases, and so on.
 
-## Variant
+#### Variant Human 
 
 **_If your campaign uses the optional feat rules from chapter 5 of the_ Player's Handbook, _your Dungeon Master might allow these variant traits, all of which replace the human's_ Ability Score Increase _trait._**
 

@@ -2,13 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Eladrin 
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Eladrin 
 
 **_Eladrin are elves of the Feywild, a realm of perilous beauty and boundless magic. Using that magic, eladrin can step from one place to another in the blink of an eye, and each eladrin resonates with emotions captured in the Feywild in the form of seasons — affinities that affect the eladrin’s mood and appearance. An eladrin’s season can change, though some remain in one season forever. Choose your season or roll on the Eladrin Seasons table. Your Trance trait lets you change your season._**
 
 **_Like other elves, eladrin can live to be over 750 years old._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 | |Eladrin Seasons|
 |---|---|

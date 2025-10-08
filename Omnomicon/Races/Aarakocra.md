@@ -2,9 +2,7 @@
 type: Race
 subtype: Exotic
 ---
-# Aarakocra 
-
-## Mordenkainen Presents: Monsters of the Multiverse
+### Aarakocra 
 
 **_A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa — mighty beings of air — and were imbued with a measure of their masters’ power over winds. Their descendants still command echoes of that power._**
 

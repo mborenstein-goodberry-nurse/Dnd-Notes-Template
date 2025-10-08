@@ -2,13 +2,16 @@
 type: Race
 subtype: Exotic
 ---
-# Sea Elf 
 
 ## Mordenkainen Presents: Monsters of the Multiverse
+
+### Sea Elf 
 
 **_Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, sea elves navigated the currents and explored the waters of many worlds. Today these elves can be found wherever oceans exist, as well as in the Elemental Plane of Water._**
 
 **_Like other elves, sea elves can live to be over 750 years old._**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
@@ -35,7 +38,11 @@ subtype: Exotic
 
 ## Mordenkainen's Tome of Foes
 
+### Sea Elf 
+
 **_Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, the sea elves navigated the deepest currents and explored the waters across a hundred worlds. Today, they live in small, hidden communities in the ocean shallows and on the Elemental Plane of Water._**
+
+Source: Mordenkainen's Tome of Foes 
 
 - **Ability Score Increase.** Your [[Dexterity]] score increases by 2, and your [[Constitution]] score increases by 1.
 

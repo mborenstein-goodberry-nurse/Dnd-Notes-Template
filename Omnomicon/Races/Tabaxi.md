@@ -2,13 +2,15 @@
 type: Race
 subtype: Exotic
 ---
-# Tabaxi 
-
 ## Mordenkainen Presents: Monsters of the Multiverse
+
+### Tabaxi 
 
 **_Created by the Cat Lord—a divine being of the Upper Planes—to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended._**
 
 **_Tabaxi’s appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences — or might even be hairless!_**
+
+Source: Mordenkainen Presents: Monsters of the Multiverse 
 
 - **Ability Score Increase.** When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
@@ -30,7 +32,11 @@ subtype: Exotic
 
 ## Volo's Guide to Monsters
 
+### Tabaxi 
+
 _**Hailing from a strange and distant land, wandering tabaxi are catlike humanoids driven by curiosity to collect interesting artifacts, gather tales and stories, and lay eyes on all the world's wonders. Ultimate travelers, the inquisitive tabaxi rarely stay in one place for long. Their innate nature pushes them to leave no secrets uncovered, no treasures or legends lost.**_
+
+Source: Volo's Guide to Monsters 
 
 - **Ability Score Increase.** Your [[Dexterity]] score increases by 2, and your [[Charisma]] score increases by 1.
 

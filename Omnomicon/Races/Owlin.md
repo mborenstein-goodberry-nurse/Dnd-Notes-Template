@@ -2,13 +2,13 @@
 type: Race
 subtype: Exotic
 ---
-# Owlin 
-
-## Source: Strixhaven: A Curriculum of Chaos
+### Owlin 
 
 **_Distant kin of giant owls from the Feywild, owlin come in many shapes and sizes, from petite and fluffy to wide-winged and majestic. Owlin have arms and legs like other Humanoids, as well as wings that extend from their back and shoulders.  
 Like owls, owlin are graced with feathers that make no sound when they move or fly, making it easy for them to sneak up on you in the library.  
 Your owlin character might be nocturnal. Or perhaps your character is simply prone to rise later, embodying the common nickname of night owl._**
+
+Source: Strixhaven: A Curriculum of Chaos
 
 - **Ability Score Increase.** Increase one ability score by 2, and increase a different one by 1.
 
