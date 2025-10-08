@@ -26,4 +26,4 @@ Source: Acquisitions Inc.
 
 - **Telepathic Insight.** Your mind's connection to the world around you strengthens your will. You have [[advantage]] on all [[Wisdom]] and [[Charisma]] saving throws.
 
-- **Languages.** You can speak, read, and write [[Common]], [[Goblin]], and [[Languages|one additional language]]. This language typically has some connection to one of the areas or cultures that has been part of your life.
+- **Languages.** You can speak, read, and write [[Common]], [[Omnomicon/Monsters/Goblin]], and [[Languages|one additional language]]. This language typically has some connection to one of the areas or cultures that has been part of your life.

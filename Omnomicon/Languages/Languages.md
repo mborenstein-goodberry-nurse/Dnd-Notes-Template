@@ -15,9 +15,9 @@ Some of these languages are actually families of languages with many dialects. F
 | [[Elvish]]   | Elves            | Elvish   |
 | [[Giant]]    | Ogres, giants    | Dwarvish |
 | [[Gnomish]]  | Gnomes           | Dwarvish |
-| [[Goblin]]   | Goblinoids       | Dwarvish |
+| [[Omnomicon/Languages/Goblin]]   | Goblinoids       | Dwarvish |
 | [[Halfling]] | Halflings        | Common   |
-| [[Orc]]      | Orcs             | Dwarvish |
+| [[Omnomicon/Languages/Orc]]      | Orcs             | Dwarvish |
 |              |                  |          |
 
 ## Exotic Languages
