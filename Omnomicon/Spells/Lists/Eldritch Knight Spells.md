@@ -28,7 +28,6 @@ aliases:
 | [[Mind Sliver]]                                       | _Enchantment_     | 1 Action     | 60 feet               | 1 round                       | V          |
 | [[Minor Illusion]]                                    | _Illusion_        | 1 Action     | 30 feet               | 1 minute                      | S, M       |
 | [[Mold Earth]]                                        | _Transmutation_   | 1 Action     | 30 feet               | Instantaneous or 1 hour       | S          |
-| [On/Off (UA)](https://dnd5e.wikidot.com/spell:on-off) | _Transmutation T_ | 1 Action     | 60 feet               | Instantaneous                 | V, S       |
 | [[Poison Spray]]                                      | _Conjuration_     | 1 Action     | 10 feet               | Instantaneous                 | V, S       |
 | [[Prestidigitation]]                                  | _Transmutation_   | 1 Action     | 10 feet               | Up to 1 hour                  | V, S       |
 | [[Ray of Frost]]                                      | _Evocation_       | 1 Action     | 60 feet               | Instantaneous                 | V, S       |

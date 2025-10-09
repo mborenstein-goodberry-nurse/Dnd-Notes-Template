@@ -181,22 +181,22 @@ aliases:
 | [[Teleport]]                           | _Conjuration_   | 1 Action     | 10 feet             | Instantaneous                 | V          |
 
 ## 8th Level
-| Spell Name             | School          | Casting Time | Range    | Duration                    | Components |
-| ---------------------- | --------------- | ------------ | -------- | --------------------------- | ---------- |
-| [[Antipathy/Sympathy]] | _Enchantment_   | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
-| [[Dominate Monster]]   | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
-| [[Feeblemind]]         | _Enchantment_   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
-| [[Glibness]]           | _Transmutation_ | 1 Action     | Self     | 1 hour                      | V          |
-| [[Mind Blank]]         | _Abjuration_    | 1 Action     | Touch    | 24 hours                    | V, S       |
-| [[Power Word: Stun]]   | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
+| Spell Name                             | School          | Casting Time | Range    | Duration                    | Components |
+| -------------------------------------- | --------------- | ------------ | -------- | --------------------------- | ---------- |
+| [[Antipathy/Sympathy]]                 | _Enchantment_   | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
+| [[Dominate Monster]]                   | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
+| [[Feeblemind]]                         | _Enchantment_   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
+| [[Glibness]]                           | _Transmutation_ | 1 Action     | Self     | 1 hour                      | V          |
+| [[Mind Blank]]                         | _Abjuration_    | 1 Action     | Touch    | 24 hours                    | V, S       |
+| [[Power Word: Stun\|Power Word: Stun]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
 
 ## 9th Level
-| Spell Name           | School          | Casting Time | Range    | Duration                    | Components |
-| -------------------- | --------------- | ------------ | -------- | --------------------------- | ---------- |
-| [[Foresight]]        | _Divination_    | 1 Minute     | Touch    | 8 hours                     | V, S, M    |
-| [[Mass Polymorph]]   | _Transmutation_ | 1 Action     | 120 feet | Concentration, up to 1 hour | V, S, M    |
-| [[Power Word: Heal]] | _Evocation_     | 1 Action     | Touch    | Instantaneous               | V, S       |
-| [[Power Word: Kill]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V          |
-| [[Prismatic Wall]]   | _Abjuration_    | 1 Action     | 60 feet  | 10 minutes                  | V, S       |
-| [[Psychic Scream]]   | _Enchantment_   | 1 Action     | 90 feet  | Instantaneous               | S          |
-| [[True Polymorph]]   | _Transmutation_ | 1 Action     | 30 feet  | Concentration, up to 1 hour | V, S, M    |
+| Spell Name                            | School          | Casting Time | Range    | Duration                    | Components |
+| ------------------------------------- | --------------- | ------------ | -------- | --------------------------- | ---------- |
+| [[Foresight]]                         | _Divination_    | 1 Minute     | Touch    | 8 hours                     | V, S, M    |
+| [[Mass Polymorph]]                    | _Transmutation_ | 1 Action     | 120 feet | Concentration, up to 1 hour | V, S, M    |
+| [[Power Word Heal\|Power Word: Heal]] | _Evocation_     | 1 Action     | Touch    | Instantaneous               | V, S       |
+| [[Power Word Kill\|Power Word: Kill]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V          |
+| [[Prismatic Wall]]                    | _Abjuration_    | 1 Action     | 60 feet  | 10 minutes                  | V, S       |
+| [[Psychic Scream]]                    | _Enchantment_   | 1 Action     | 90 feet  | Instantaneous               | S          |
+| [[True Polymorph]]                    | _Transmutation_ | 1 Action     | 30 feet  | Concentration, up to 1 hour | V, S, M    |

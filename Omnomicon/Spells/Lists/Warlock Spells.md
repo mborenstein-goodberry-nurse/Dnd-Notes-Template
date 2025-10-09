@@ -172,14 +172,14 @@ aliases:
 | [[Power Word: Stun]]   | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous                   | V, S       |
 
 ## 9th Level
-| Spell Name            | School          | Casting Time   | Range    | Duration                      | Components |
-| --------------------- | --------------- | -------------- | -------- | ----------------------------- | ---------- |
-| [[Astral Projection]] | _Evocation_     | 1 Hour         | 10 feet  | Special                       | V, S, M    |
-| [[Blade of Disaster]] | _Conjuration_   | 1 Bonus Action | 60 feet  | Concentration, up to 1 minute | V, S       |
-| [[Foresight]]         | _Divination_    | 1 Minute       | Touch    | 8 hours                       | V, S, M    |
-| [[Gate]]              | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 minute | V, S, M    |
-| [[Imprisonment]]      | _Abjuration_    | 1 Minute       | 30 feet  | Until dispelled               | V, S, M    |
-| [[Power Word: Kill]]  | _Enchantment_   | 1 Action       | 60 feet  | Instantaneous                 | V          |
-| [[Psychic Scream]]    | _Enchantment_   | 1 Action       | 90 feet  | Instantaneous                 | S          |
-| [[True Polymorph]]    | _Transmutation_ | 1 Action       | 30 feet  | Concentration, up to 1 hour   | V, S, M    |
-| [[Weird]]             | _Illusion_      | 1 Action       | 120 feet | Concentration, up to 1 minute | V, S       |
+| Spell Name                            | School          | Casting Time   | Range    | Duration                      | Components |
+| ------------------------------------- | --------------- | -------------- | -------- | ----------------------------- | ---------- |
+| [[Astral Projection]]                 | _Evocation_     | 1 Hour         | 10 feet  | Special                       | V, S, M    |
+| [[Blade of Disaster]]                 | _Conjuration_   | 1 Bonus Action | 60 feet  | Concentration, up to 1 minute | V, S       |
+| [[Foresight]]                         | _Divination_    | 1 Minute       | Touch    | 8 hours                       | V, S, M    |
+| [[Gate]]                              | _Conjuration_   | 1 Action       | 60 feet  | Concentration, up to 1 minute | V, S, M    |
+| [[Imprisonment]]                      | _Abjuration_    | 1 Minute       | 30 feet  | Until dispelled               | V, S, M    |
+| [[Power Word Kill\|Power Word: Kill]] | _Enchantment_   | 1 Action       | 60 feet  | Instantaneous                 | V          |
+| [[Psychic Scream]]                    | _Enchantment_   | 1 Action       | 90 feet  | Instantaneous                 | S          |
+| [[True Polymorph]]                    | _Transmutation_ | 1 Action       | 30 feet  | Concentration, up to 1 hour   | V, S, M    |
+| [[Weird]]                             | _Illusion_      | 1 Action       | 120 feet | Concentration, up to 1 minute | V, S       |

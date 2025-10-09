@@ -52,7 +52,6 @@ aliases:
 | [[Remove Curse]]          | _Abjuration_    | 1 Action       | Touch                 | Instantaneous                 | V, S       |
 | [[Revivify]]              | _Necromancy_    | 1 Action       | Touch                 | Instantaneous                 | V, S, M    |
 | [[Spirit Shroud]]         | _Necromancy_    | 1 Bonus Action | Self                  | Concentration, up to 1 minute | V, S       |
-|                           |                 |                |                       |                               |            |
 
 ## 4th Level
 | Spell Name             | School        | Casting Time   | Range                 | Duration                        | Components |

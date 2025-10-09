@@ -25,7 +25,6 @@ aliases:
 | [[Snare]]                                                                 | _Abjuration_    | 1 Minute       | Touch    | Until dispelled or triggered    | V, S, M    |
 | [[Speak with Animals]]                                                    | _Divination_    | 1 Action _R_   | Self     | 10 minutes                      | V, S       |
 | [[Zephyr Strike]]                                                         | _Transmutation_ | 1 Bonus Action | Self     | Concentration, up to 1 minute   | V          |
-|                                                                           |                 |                |          |                                 |            |
 
 ## 2nd Level
 | Spell Name                   | School          | Casting Time   | Range               | Duration                        | Components |

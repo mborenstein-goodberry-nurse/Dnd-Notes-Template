@@ -1,3 +1,14 @@
+---
+type: Spell
+Level: 9
+School: Transmutation
+Class:
+  - Bard
+  - Sorcerer
+  - Wizard
+Subclass:
+aliases:
+---
 ### [[Mass Polymorph]] 
 
 Source: Xanathar's Guide to Everything
@@ -9,7 +20,7 @@ _9th-level [[transmutation]]_
 **Components:** V, S, M (a caterpillar cocoon)  
 **Duration:** [[Concentration]], up to 1 hour
 
-You transform up to **ten** creatures of your choice that *you can see within range*. An unwilling target must succeed on a [[Wisdom]] saving throw to resist the transformation. An unwilling *shapechanger* automatically succeeds on the save.
+You transform up to **ten** creatures of your choice that *you can see within range*. An unwilling target must succeed on a **[[Wisdom]] saving throw** to resist the transformation. An unwilling *shapechanger* automatically succeeds on the save.
 
 Each target assumes a beast form of your choice, and you can choose the same form or different ones for each target. The new form can be any beast you have seen whose challenge rating is equal to or less than the target’s (or half the target’s level, if the target doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast, but the target retains its [[hit points]], alignment, and personality.
 
@@ -19,4 +30,4 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target can’t activate, use, wield, or otherwise benefit from any of its equipment.
 
-**_Spell Lists._** [[Bard]], [[Sorcerer]], [[Wizard]] 
+**_Spell Lists._** [[Bard Spells|Bard]], [[Sorcerer Spells|Sorcerer]], [[Wizard Spells|Wizard]] 

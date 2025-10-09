@@ -1,3 +1,15 @@
+---
+type: Spell
+Level: 9
+School: Necromancy
+Class:
+  - Cleric
+  - Warlock
+  - Wizard
+Subclass:
+  - Sorcerer (Divine Soul)
+aliases:
+---
 ### [[Astral Projection]] 
 
 Source: Player's Handbook
@@ -17,4 +29,4 @@ Your astral form can freely travel through the Astral Plane and can pass through
 
 The spell might also end early for you or one of your companions. A successful _[[dispel magic]]_ spell used against an astral or physical body ends the spell for that creature. If a creature’s original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature’s astral form back to its body, ending its state of suspended animation. If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points.
 
-**_Spell Lists._** [[Cleric]], [[Warlock]], [[Wizard]] 
+**_Spell Lists._** [[Cleric Spells|Cleric]], [[Warlock Spells|Warlock]], [[Wizard Spells|Wizard]] 

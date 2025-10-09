@@ -4,17 +4,17 @@ aliases:
 ---
 
 ## Cantrip
-| Spell Name                                                                | School          | Casting Time | Range   | Duration                     | Components |
-| ------------------------------------------------------------------------- | --------------- | ------------ | ------- | ---------------------------- | ---------- |
-| [[Guidance]]                                                              | _Divination_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S       |
-| [[Omnomicon/Spells/Light]]                                                                 | _Evocation_     | 1 Action     | Touch   | 1 hour                       | V, M       |
-| [[Mending]]                                                               | _Transmutation_ | 1 Minute     | Touch   | Instantaneous                | V, S, M    |
-| [[Resistance]]                                                            | _Abjuration_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S, M    |
-| [[Sacred Flame]]                                                          | _Evocation_     | 1 Action     | 60 feet | Instantaneous                | V, S       |
-| [[Spare the Dying]]                                                       | _Necromancy_    | 1 Action     | Touch   | Instantaneous                | V, S       |
-| [[Thaumaturgy]]                                                           | _Transmutation_ | 1 Action     | 30 feet | Up to 1 minute               | V          |
-| [[Toll the Dead]]                                                         | _Necromancy_    | 1 Action     | 60 feet | Instantaneous                | V, S       |
-| [[Word of Radiance]]                                                      | _Evocation_     | 1 Action     | 5 feet  | Instantaneous                | V, M       |
+| Spell Name                        | School          | Casting Time | Range   | Duration                     | Components |
+| --------------------------------- | --------------- | ------------ | ------- | ---------------------------- | ---------- |
+| [[Guidance]]                      | _Divination_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S       |
+| [[Omnomicon/Spells/Light\|Light]] | _Evocation_     | 1 Action     | Touch   | 1 hour                       | V, M       |
+| [[Mending]]                       | _Transmutation_ | 1 Minute     | Touch   | Instantaneous                | V, S, M    |
+| [[Resistance]]                    | _Abjuration_    | 1 Action     | Touch   | Concentration up to 1 minute | V, S, M    |
+| [[Sacred Flame]]                  | _Evocation_     | 1 Action     | 60 feet | Instantaneous                | V, S       |
+| [[Spare the Dying]]               | _Necromancy_    | 1 Action     | Touch   | Instantaneous                | V, S       |
+| [[Thaumaturgy]]                   | _Transmutation_ | 1 Action     | 30 feet | Up to 1 minute               | V          |
+| [[Toll the Dead]]                 | _Necromancy_    | 1 Action     | 60 feet | Instantaneous                | V, S       |
+| [[Word of Radiance]]              | _Evocation_     | 1 Action     | 5 feet  | Instantaneous                | V, M       |
 
 ## 1st Level
 | Spell Name                                                           | School          | Casting Time   | Range    | Duration                        | Components |
@@ -121,7 +121,6 @@ aliases:
 | [[Raise Dead]]           | _Necromancy_  | 1 Action       | Touch    | Instantaneous                   | V, S, M    |
 | [[Scrying]]              | _Divination_  | 10 Minutes     | Self     | Concentration, up to 10 minutes | V, S, M    |
 | [[Summon Celestial]]     | _Conjuration_ | 1 Action       | 90 feet  | Concentration, up to 1 hour     | V, S, M    |
-|                          |               |                |          |                                 |            |
 
 ## 6th Level
 | Spell Name                                                                  | School          | Casting Time   | Range               | Duration                        | Components |
@@ -161,10 +160,10 @@ aliases:
 | [[Sunburst]]        | _Evocation_     | 1 Action     | 150 feet                     | Instantaneous                 | V, S, M    |
 
 ## 9th Level
-| Spell Name            | School        | Casting Time | Range   | Duration                      | Components |
-| --------------------- | ------------- | ------------ | ------- | ----------------------------- | ---------- |
-| [[Astral Projection]] | _Evocation_   | 1 Hour       | 10 feet | Special                       | V, S, M    |
-| [[Gate]]              | _Conjuration_ | 1 Action     | 60 feet | Concentration, up to 1 minute | V, S, M    |
-| [[Mass Heal]]         | _Evocation_   | 1 Action     | 60 feet | Instantaneous                 | V, S       |
-| [[Power Word: Heal]]  | _Evocation_   | 1 Action     | Touch   | Instantaneous                 | V, S       |
-| [[True Resurrection]] | _Necromancy_  | 1 Hour       | Touch   | Instantaneous                 | V, S, M    |
+| Spell Name                            | School        | Casting Time | Range   | Duration                      | Components |
+| ------------------------------------- | ------------- | ------------ | ------- | ----------------------------- | ---------- |
+| [[Astral Projection]]                 | _Evocation_   | 1 Hour       | 10 feet | Special                       | V, S, M    |
+| [[Gate]]                              | _Conjuration_ | 1 Action     | 60 feet | Concentration, up to 1 minute | V, S, M    |
+| [[Mass Heal]]                         | _Evocation_   | 1 Action     | 60 feet | Instantaneous                 | V, S       |
+| [[Power Word Heal\|Power Word: Heal]] | _Evocation_   | 1 Action     | Touch   | Instantaneous                 | V, S       |
+| [[True Resurrection]]                 | _Necromancy_  | 1 Hour       | Touch   | Instantaneous                 | V, S, M    |

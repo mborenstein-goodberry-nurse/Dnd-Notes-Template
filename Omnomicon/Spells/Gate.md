@@ -1,3 +1,16 @@
+---
+type: Spell
+Level: 9
+School: Conjuration
+Class:
+  - Cleric
+  - Sorcerer
+  - Warlock
+  - Wizard
+Subclass:
+  - Sorcerer (Divine Soul)
+aliases:
+---
 ### [[Gate]]
 
 Source: Player's Handbook
@@ -17,4 +30,4 @@ Deities and other planar rulers can prevent portals created by this spell from o
 
 When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn’t work). If that creature is on a plane other than the one you are on, the portal opens in the named creature’s immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
-**_Spell Lists._** [[Cleric]], [[Sorcerer]], [[Warlock]] (Optional), [[Wizard]] 
+**_Spell Lists._** [[Cleric Spells|Cleric]], [[Sorcerer Spells|Sorcerer]], [[Warlock Spells|Warlock]] (Optional), [[Wizard Spells|Wizard]] 
