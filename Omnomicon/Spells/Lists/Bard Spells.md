@@ -2,22 +2,21 @@
 aliases:
   - Bard Spell List
 ---
-
 ## Cantrip
-| Spell Name           | School          | Casting Time | Range                | Duration                      | Components |
-| -------------------- | --------------- | ------------ | -------------------- | ----------------------------- | ---------- |
-| [[Blade Ward]]       | _Abjuration_    | 1 Action     | Self                 | 1 round                       | V, S       |
-| [[Dancing Lights]]   | _Evocation_     | 1 Action     | 120 feet             | Concentration up to 1 minute  | V, S, M    |
-| [[Friends]]          | _Enchantment_   | 1 Action     | Self                 | Concentration, up to 1 minute | S, M       |
-| [[Omnomicon/Spells/Light]]            | _Evocation_     | 1 Action     | Touch                | 1 hour                        | V, M       |
-| [[Mage Hand]]        | _Conjuration_   | 1 Action     | 30 feet              | 1 minute                      | V, S       |
-| [[Mending]]          | _Transmutation_ | 1 Minute     | Touch                | Instantaneous                 | V, S, M    |
-| [[Message]]          | _Transmutation_ | 1 Action     | 120 feet             | 1 round                       | V, S, M    |
-| [[Minor Illusion]]   | _Illusion_      | 1 Action     | 30 feet              | 1 minute                      | S, M       |
-| [[Prestidigitation]] | _Transmutation_ | 1 Action     | 10 feet              | Up to 1 hour                  | V, S       |
-| [[Thunderclap]]      | _Evocation_     | 1 Action     | Self (5-foot radius) | Instantaneous                 | S          |
-| [[True Strike]]      | _Divination_    | 1 Action     | 30 feet              | Concentration up to 1 round   | S          |
-| [[Vicious Mockery]]  | _Enchantment_   | 1 Action     | 60 feet              | Instantaneous                 | V          |
+| Spell Name                        | School          | Casting Time | Range                | Duration                      | Components |
+| --------------------------------- | --------------- | ------------ | -------------------- | ----------------------------- | ---------- |
+| [[Blade Ward]]                    | _Abjuration_    | 1 Action     | Self                 | 1 round                       | V, S       |
+| [[Dancing Lights]]                | _Evocation_     | 1 Action     | 120 feet             | Concentration up to 1 minute  | V, S, M    |
+| [[Friends]]                       | _Enchantment_   | 1 Action     | Self                 | Concentration, up to 1 minute | S, M       |
+| [[Omnomicon/Spells/Light\|Light]] | _Evocation_     | 1 Action     | Touch                | 1 hour                        | V, M       |
+| [[Mage Hand]]                     | _Conjuration_   | 1 Action     | 30 feet              | 1 minute                      | V, S       |
+| [[Mending]]                       | _Transmutation_ | 1 Minute     | Touch                | Instantaneous                 | V, S, M    |
+| [[Message]]                       | _Transmutation_ | 1 Action     | 120 feet             | 1 round                       | V, S, M    |
+| [[Minor Illusion]]                | _Illusion_      | 1 Action     | 30 feet              | 1 minute                      | S, M       |
+| [[Prestidigitation]]              | _Transmutation_ | 1 Action     | 10 feet              | Up to 1 hour                  | V, S       |
+| [[Thunderclap]]                   | _Evocation_     | 1 Action     | Self (5-foot radius) | Instantaneous                 | S          |
+| [[True Strike]]                   | _Divination_    | 1 Action     | 30 feet              | Concentration up to 1 round   | S          |
+| [[Vicious Mockery]]               | _Enchantment_   | 1 Action     | 60 feet              | Instantaneous                 | V          |
 
 ## 1st Level
 | Spell Name                                                                | School          | Casting Time   | Range                 | Duration                        | Components |
@@ -181,14 +180,14 @@ aliases:
 | [[Teleport]]                           | _Conjuration_   | 1 Action     | 10 feet             | Instantaneous                 | V          |
 
 ## 8th Level
-| Spell Name                             | School          | Casting Time | Range    | Duration                    | Components |
-| -------------------------------------- | --------------- | ------------ | -------- | --------------------------- | ---------- |
-| [[Antipathy/Sympathy]]                 | _Enchantment_   | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
-| [[Dominate Monster]]                   | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
-| [[Feeblemind]]                         | _Enchantment_   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
-| [[Glibness]]                           | _Transmutation_ | 1 Action     | Self     | 1 hour                      | V          |
-| [[Mind Blank]]                         | _Abjuration_    | 1 Action     | Touch    | 24 hours                    | V, S       |
-| [[Power Word: Stun\|Power Word: Stun]] | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
+| Spell Name                                 | School          | Casting Time | Range    | Duration                    | Components |
+| ------------------------------------------ | --------------- | ------------ | -------- | --------------------------- | ---------- |
+| [[Antipathy-Sympathy\|Antipathy/Sympathy]] | _Enchantment_   | 1 Hour       | 60 feet  | 10 Days                     | V, S, M    |
+| [[Dominate Monster]]                       | _Enchantment_   | 1 Action     | 60 feet  | Concentration, up to 1 hour | V, S       |
+| [[Feeblemind]]                             | _Enchantment_   | 1 Action     | 150 feet | Instantaneous               | V, S, M    |
+| [[Glibness]]                               | _Transmutation_ | 1 Action     | Self     | 1 hour                      | V          |
+| [[Mind Blank]]                             | _Abjuration_    | 1 Action     | Touch    | 24 hours                    | V, S       |
+| [[Power Word: Stun\|Power Word: Stun]]     | _Enchantment_   | 1 Action     | 60 feet  | Instantaneous               | V, S       |
 
 ## 9th Level
 | Spell Name                            | School          | Casting Time | Range    | Duration                    | Components |

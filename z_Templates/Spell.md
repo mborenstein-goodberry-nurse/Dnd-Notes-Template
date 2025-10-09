@@ -1,4 +1,4 @@
-### <%tp.file.title%>
+### [[<%tp.file.title%>]]
 
 <%*  
 const clipboardContent = await tp.system.clipboard();  

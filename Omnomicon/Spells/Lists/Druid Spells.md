@@ -194,16 +194,16 @@ aliases:
 | [[Whirlwind]]                                                                              | _Evocation_     | 1 Action       | 300 feet | Concentration, up to 1 minute | V, M       |
 
 ## 8th Level
-| Spell Name             | School          | Casting Time | Range                | Duration                      | Components |
-| ---------------------- | --------------- | ------------ | -------------------- | ----------------------------- | ---------- |
-| [[Animal Shapes]]      | _Transmutation_ | 1 Action     | 30 feet              | Concentration, up to 24 hours | V, S       |
-| [[Antipathy/Sympathy]] | _Enchantment_   | 1 Hour       | 60 feet              | 10 Days                       | V, S, M    |
-| [[Control Weather]]    | _Transmutation_ | 10 Minutes   | Self (5 mile radius) | Concentration, Up to 8 hours  | V, S, M    |
-| [[Earthquake]]         | _Evocation_     | 1 Action     | 500 feet             | Concentration, up to 1 minute | V, S, M    |
-| [[Feeblemind]]         | _Enchantment_   | 1 Action     | 150 feet             | Instantaneous                 | V, S, M    |
-| [[Incendiary Cloud]]   | _Conjuration_   | 1 Action     | 150 feet             | Concentration, up to 1 minute | V, S       |
-| [[Sunburst]]           | _Evocation_     | 1 Action     | 150 feet             | Instantaneous                 | V, S, M    |
-| [[Tsunami]]            | _Conjuration_   | 1 Action     | Sight                | Concentration, up to 6 rounds | V, S       |
+| Spell Name                                 | School          | Casting Time | Range                | Duration                      | Components |
+| ------------------------------------------ | --------------- | ------------ | -------------------- | ----------------------------- | ---------- |
+| [[Animal Shapes]]                          | _Transmutation_ | 1 Action     | 30 feet              | Concentration, up to 24 hours | V, S       |
+| [[Antipathy-Sympathy\|Antipathy/Sympathy]] | _Enchantment_   | 1 Hour       | 60 feet              | 10 Days                       | V, S, M    |
+| [[Control Weather]]                        | _Transmutation_ | 10 Minutes   | Self (5 mile radius) | Concentration, Up to 8 hours  | V, S, M    |
+| [[Earthquake]]                             | _Evocation_     | 1 Action     | 500 feet             | Concentration, up to 1 minute | V, S, M    |
+| [[Feeblemind]]                             | _Enchantment_   | 1 Action     | 150 feet             | Instantaneous                 | V, S, M    |
+| [[Incendiary Cloud]]                       | _Conjuration_   | 1 Action     | 150 feet             | Concentration, up to 1 minute | V, S       |
+| [[Sunburst]]                               | _Evocation_     | 1 Action     | 150 feet             | Instantaneous                 | V, S, M    |
+| [[Tsunami]]                                | _Conjuration_   | 1 Action     | Sight                | Concentration, up to 6 rounds | V, S       |
 
 ## 9th Level
 | Spell Name             | School          | Casting Time | Range | Duration                     | Components |
