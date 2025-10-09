@@ -1,5 +1,8 @@
 ### <%tp.file.title%>
 
-<% tp.system.clipboard() %>
+<%*  
+const clipboardContent = await tp.system.clipboard();  
+tR += clipboardContent;  
+%>
 
 **Spell Lists.** <%tp.frontmatter.Class%> 
