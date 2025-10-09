@@ -7,6 +7,7 @@ Class:
   - Druid
   - Sorcerer
 Subclass:
+  - Sorcerer (Divine Soul)
 aliases:
 ---
 ### [[Earthquake]]
