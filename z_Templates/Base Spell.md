@@ -1,6 +1,6 @@
 ---
 type: Spell
-Level: 7
+Level: 6
 School:
 Class:
 Subclass:
