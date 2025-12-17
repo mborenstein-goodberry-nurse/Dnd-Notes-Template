@@ -5,6 +5,9 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "pub_wrap",
-    "S - Images Adjustments"
-  ]
+    "S - Images Adjustments",
+    "callout-grid"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 16
 }

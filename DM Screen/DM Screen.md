@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test Space Controls
+- [ ] [[Campaigns/Test Space/Test Space|Test Space]]
+- [ ] [[Campaigns/Test Space/Test Space#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test Space
+	```
+
+
+
 ## [[Conditions]]
 
 - [ ] [[Blinded]]

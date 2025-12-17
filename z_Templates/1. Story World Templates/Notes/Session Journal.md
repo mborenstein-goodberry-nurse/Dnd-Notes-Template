@@ -29,7 +29,7 @@ pixel-banner-flag-color: blue
 
 ## Session Summary
 > [!fas-infobox]+
-> # Header 1
+> ## Session Overview
 > 
 > ![[obsidian.png|cover]]
 > 
