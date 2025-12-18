@@ -1,0 +1,136 @@
+/* ================================
+   SESSION HERO — frame image + text overlay
+   ================================ */
+
+.markdown-preview-view .session-hero,
+.markdown-source-view.mod-cm6 .session-hero {
+  position: relative;
+  width: min(920px, 100%);
+  margin: 0 auto 1.5rem;
+
+  /* controls overall height of the hero area */
+  min-height: 360px;
+
+  border-radius: 14px;
+}
+
+/* Frame image */
+.markdown-preview-view .session-hero-frame,
+.markdown-source-view.mod-cm6 .session-hero-frame {
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  object-fit: contain;
+  object-position: center;
+
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Text overlay */
+.markdown-preview-view .session-hero-inner,
+.markdown-source-view.mod-cm6 .session-hero-inner {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+
+  /* safe padding so text stays inside the interior */
+  padding: 12rem 6rem 4.8rem;
+
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  text-align: center;
+  row-gap: 0.55rem;
+}
+
+/* Title */
+.session-hero .session-title {
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.05;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink);
+}
+
+.session-hero .session-title .dropcap {
+  font-family: "Goudy Lombardic", serif;
+  font-size: 3.2em;
+  line-height: 0.85;
+  float: left;
+  margin-right: 0.14em;
+  margin-top: 0.05em;
+  color: var(--manuscript-red-cap);
+}
+
+/* Meta */
+.session-hero .session-meta {
+  font-family: "IM FELL English", serif;
+  line-height: 1.2;
+  color: var(--manuscript-red);
+}
+
+/* Blurb */
+.session-hero .session-blurb {
+  font-style: italic;
+  line-height: 1.35;
+  opacity: 0.9;
+  max-width: 46ch;
+}
+
+/* =========================================================
+   HERO TITLE = THE NOTE'S INLINE TITLE (auto-updates on rename)
+   ========================================================= */
+
+/* Make sure the note container can be used as a positioning reference */
+.markdown-preview-view .markdown-preview-sizer,
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+  position: relative;
+}
+
+/* Style the inline title like your session title */
+.markdown-preview-view .inline-title,
+.markdown-source-view.mod-cm6 .inline-title {
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  line-height: 1.1;
+  font-size: 2.2em;
+  color: var(--manuscript-red-ink) !important;
+
+  /* positioning */
+  position: absolute;
+  left: 13%;
+  top: 2.5rem;
+  text-align: center;
+
+  z-index: 5;
+  pointer-events: none;
+  margin: 0;
+
+  /* ===== bounding + wrapping ===== */
+  width: fit-content;
+  max-width: 77% !important;              /* ← THIS is the important part */
+  white-space: normal;         /* allow wrapping */
+  overflow-wrap: break-word;
+
+  /* framed label */
+  padding: 0.3rem 0.9rem;
+  border-radius: 10px;
+  background: rgba(254, 254, 254, 0.78);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+  backdrop-filter: blur(2px);
+}
+
+
+/* Add the drop-cap effect to the inline title */
+.markdown-preview-view .inline-title::first-letter,
+.markdown-source-view.mod-cm6 .inline-title::first-letter {
+  font-family: "Goudy Lombardic", serif;
+  font-size: 1.8em;
+  line-height: 0.9;
+  padding-right: 0.12em;
+  color: var(--manuscript-red-cap) !important;
+}

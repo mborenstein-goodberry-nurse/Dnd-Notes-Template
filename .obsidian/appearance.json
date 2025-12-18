@@ -7,7 +7,8 @@
     "pub_wrap",
     "S - Images Adjustments",
     "callout-grid",
-    "dnd-fonts"
+    "dnd-fonts",
+    "session-hero"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16
