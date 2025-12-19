@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69cc82eab4576ecc",
+        "id": "19ce86dc52ad63fd",
         "type": "tabs",
         "children": [
           {
-            "id": "72d64a76c3f105bd",
+            "id": "c5923ee5f83cc807",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,7 +61,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -424,7 +424,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72d64a76c3f105bd",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
     "z_Scratch Notes/The Last Drop of Blood and the Sorcerer's Goblet.md",
     "z_Assets/Medieval-Banner.png",
