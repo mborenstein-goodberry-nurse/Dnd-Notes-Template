@@ -8,7 +8,8 @@
     "S - Images Adjustments",
     "callout-grid",
     "dnd-fonts",
-    "session-hero"
+    "session-hero",
+    "note-hero"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16

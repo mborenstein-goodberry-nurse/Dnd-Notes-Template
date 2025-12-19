@@ -1,5 +1,6 @@
 /* ================================
    SESSION HERO — frame image + text overlay
+   (always safe; only affects notes that actually contain .session-hero)
    ================================ */
 
 .markdown-preview-view .session-hero,
@@ -28,7 +29,7 @@
   z-index: 0;
 }
 
-/* Text overlay */
+/* Text overlay (if you later re-add meta/blurb inside hero) */
 .markdown-preview-view .session-hero-inner,
 .markdown-source-view.mod-cm6 .session-hero-inner {
   position: absolute;
@@ -45,7 +46,7 @@
   row-gap: 0.55rem;
 }
 
-/* Title */
+/* Title (if you ever use a hard-coded title again) */
 .session-hero .session-title {
   font-family: "Chrome Slab", serif;
   text-transform: uppercase;
@@ -81,18 +82,18 @@
 }
 
 /* =========================================================
-   HERO TITLE = THE NOTE'S INLINE TITLE (auto-updates on rename)
+   HERO TITLE GATE (reliable): only when the note contains .session-hero
    ========================================================= */
 
-/* Make sure the note container can be used as a positioning reference */
-.markdown-preview-view .markdown-preview-sizer,
-.markdown-source-view.mod-cm6 .cm-contentContainer {
+/* Positioning reference only for notes that have a session hero */
+.markdown-preview-view:has(.session-hero) .markdown-preview-sizer,
+.markdown-source-view.mod-cm6:has(.session-hero) .cm-contentContainer {
   position: relative;
 }
 
-/* Style the inline title like your session title */
-.markdown-preview-view .inline-title,
-.markdown-source-view.mod-cm6 .inline-title {
+/* Inline title overlay only for notes that have a session hero */
+.markdown-preview-view:has(.session-hero) .inline-title,
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title {
   font-family: "Chrome Slab", serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -100,23 +101,20 @@
   font-size: 2.2em;
   color: var(--manuscript-red-ink) !important;
 
-  /* positioning */
   position: absolute;
-  left: 13%;
-  top: 2.5rem;
+  left: 15%;
+  top: 9.5rem;
   text-align: center;
 
   z-index: 5;
   pointer-events: none;
   margin: 0;
 
-  /* ===== bounding + wrapping ===== */
   width: fit-content;
-  max-width: 77% !important;              /* ← THIS is the important part */
-  white-space: normal;         /* allow wrapping */
+  max-width: 75% !important;
+  white-space: normal;
   overflow-wrap: break-word;
 
-  /* framed label */
   padding: 0.3rem 0.9rem;
   border-radius: 10px;
   background: rgba(254, 254, 254, 0.78);
@@ -124,10 +122,9 @@
   backdrop-filter: blur(2px);
 }
 
-
-/* Add the drop-cap effect to the inline title */
-.markdown-preview-view .inline-title::first-letter,
-.markdown-source-view.mod-cm6 .inline-title::first-letter {
+/* Drop cap only when the note has a session hero */
+.markdown-preview-view:has(.session-hero) .inline-title::first-letter,
+.markdown-source-view.mod-cm6:has(.session-hero) .inline-title::first-letter {
   font-family: "Goudy Lombardic", serif;
   font-size: 1.8em;
   line-height: 0.9;

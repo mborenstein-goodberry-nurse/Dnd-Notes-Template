@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df3292079554961d",
+        "id": "333063e7ec4e994a",
         "type": "tabs",
         "children": [
           {
-            "id": "187de6a1ecfa729f",
+            "id": "6cc5f601a3c2b98f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,33 +18,9 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Arch Demon Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Scratch Notes/Arch Demon Notes.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arch Demon Notes\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Possible Talents",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Scratch Notes/Possible Talents.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Possible Talents\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Arch Demon Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Scratch Notes/Arch Demon Notes.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Arch Demon Notes\"}",
-                  "eState": "{}"
-                },
-                {
                   "title": "Campaign Index",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Medieval-Banner",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/Medieval-Banner.png\"},\"icon\":\"lucide-image\",\"title\":\"Medieval-Banner\"}",
                   "eState": "{}"
                 }
               ]
@@ -52,13 +28,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Campaign Index.md",
+                "file": "z_Scratch Notes/The Last Drop of Blood and the Sorcerer's Goblet.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Index"
+              "title": "The Last Drop of Blood and the Sorcerer's Goblet"
+            }
+          },
+          {
+            "id": "223654bf7d01c51e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC"
             }
           }
         ],
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Campaigns/Campaign Index.md",
+                "file": "z_Scratch Notes/The Last Drop of Blood and the Sorcerer's Goblet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Campaign Index"
+              "title": "Graph of The Last Drop of Blood and the Sorcerer's Goblet"
             }
           }
         ]
@@ -321,10 +321,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Campaign Index.md"
+                "file": "z_Scratch Notes/The Last Drop of Blood and the Sorcerer's Goblet.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Campaign Index"
+              "title": "File properties for The Last Drop of Blood and the Sorcerer's Goblet"
             }
           },
           {
@@ -430,7 +430,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -453,12 +454,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "187de6a1ecfa729f",
+  "active": "6cc5f601a3c2b98f",
   "lastOpenFiles": [
-    "z_Scratch Notes/Arch Demon Notes.md",
-    "z_Scratch Notes/Possible Talents.md",
-    "Campaigns/Campaign Index.md",
+    "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "z_Scratch Notes/The Last Drop of Blood and the Sorcerer's Goblet.md",
+    "Campaigns/Campaign Index.md",
     "z_Assets/Medieval-Banner.png",
     "z_Assets/Dnd Fonts/UngerFrakturZierbuchstaben.ttf",
     "z_Assets/Dnd Fonts/PfefferSimpelgotisch normal.otf",
@@ -470,7 +470,6 @@
     "z_Scripts/Dnd Fonts/UngerFrakturZierbuchstaben.ttf",
     "z_Scripts/Dnd Fonts/PfefferSimpelgotisch normal.otf",
     "z_Scripts/Dnd Fonts/PfefferMediaeval.otf",
-    "z_Templates/1. Story World Templates/Creatures/NPC.md",
     "Campaigns/Test World/Quest Board/Quest Board.md",
     "Campaigns/Test World/Session Journal/0. 2025-12-17.md",
     "Campaigns/Test World/Test World.md",
@@ -492,6 +491,7 @@
     "Campaigns/Test Space/Test Space.md",
     "Campaigns/Test Space/World Almanac/People/Test Person.md",
     "Campaigns/Test Space/Session Journal/0. 2025-12-16.md",
+    "Campaigns/Test Space/Quest Board/Quest Board.md",
     "z_Assets/SecretWorld.png",
     "z_Assets/Kirby Pic.jpg",
     "z_Assets/Astrodan_Creeping_Darkness.jpg",
