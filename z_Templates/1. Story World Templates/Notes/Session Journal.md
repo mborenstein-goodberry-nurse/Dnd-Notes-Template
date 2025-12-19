@@ -26,8 +26,25 @@ pixel-banner-flag-color: blue
 # [[<% tp.file.title %>]]
 *`=this.summary`*
 
-## Session Summary
 
+## Session Summary
+> [!fas-infobox]+
+> ## Session Overview
+> 
+> ![[obsidian.png|cover]]
+> 
+> ![[aurora.png|icon]]
+> 
+> ## Header 2
+> | Table Header | Table Header |
+> | ---- | --- |
+> | Text | Text |
+> | Text | Text |
+> 
+> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
+> 
+> > [!footer]
+> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
  > [!tldr] [[<% tp.file.title %>]]
 >  ^summary
 

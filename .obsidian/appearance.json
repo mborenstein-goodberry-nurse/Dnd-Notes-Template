@@ -1,8 +1,16 @@
 {
   "theme": "system",
-  "accentColor": "#7b42ff",
-  "cssTheme": "ITS Theme",
+  "accentColor": "",
+  "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
-    "supercharged-links-gen"
-  ]
+    "supercharged-links-gen",
+    "pub_wrap",
+    "S - Images Adjustments",
+    "callout-grid",
+    "dnd-fonts",
+    "session-hero",
+    "note-hero"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 16
 }

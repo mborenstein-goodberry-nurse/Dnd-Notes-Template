@@ -1,0 +1,111 @@
+/* =========================================================
+   MANUSCRIPT PALETTE (does NOT change Obsidian accent/link color)
+   ========================================================= */
+:root {
+  --manuscript-red: #b2524c;                 /* the red from the screenshot */
+  --manuscript-red-ink: color-mix(in srgb, var(--manuscript-red) 80%, black);
+  --manuscript-red-cap: color-mix(in srgb, var(--manuscript-red) 90%, black);
+}
+
+/* =========================================================
+   NOTE (FILE) TITLE — MAIN FONT
+   ========================================================= */
+
+/* Reading view + Live Preview */
+.markdown-preview-view .inline-title,
+.view-content .inline-title {
+  font-family: "Chrome Slab", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+
+  /* FORCE title to use accent color */
+  color: var(--manuscript-red-ink) !important;
+
+  margin-bottom: 0.5em;
+}
+
+/* =========================================================
+   NOTE (FILE) TITLE — ILLUMINATED DROP CAP
+   ========================================================= */
+
+.markdown-preview-view .inline-title::first-letter,
+.view-content .inline-title::first-letter {
+  /*font-family: "Goudy Lombardic", serif;*/
+  font-size: 3.2em;
+  line-height: 0.85;
+
+  padding-right: 0.12em;
+  padding-top: 0.05em;
+
+  /* Same accent color as title */
+  color: var(--manuscript-red-cap) !important;
+}
+
+/* =========================================================
+   BODY TEXT
+   ========================================================= */
+
+.markdown-preview-view,
+.markdown-source-view {
+  font-family: "Louis George Café", sans-serif;
+  line-height: 1.6;
+}
+
+/* =========================================================
+   HEADINGS
+   ========================================================= */
+
+/* H1 — Chrome Slab */
+.markdown-preview-view h1,
+.markdown-source-view h1 {
+  font-family: "Chrome Slab", serif;
+  letter-spacing: 0.06em;
+  color: var(--manuscript-red-ink) !important;
+}
+
+/* =========================================================
+   LINKED H1 TITLES — FORCE MANUSCRIPT RED (works in all modes)
+   ========================================================= */
+
+/* Reading view (renders links as <a>) */
+.markdown-preview-view h1 a,
+.markdown-preview-view h1 a:visited {
+  color: var(--manuscript-red-ink) !important;
+  text-decoration: none !important;
+}
+
+/* Live Preview / Source (CodeMirror renders internal links as spans) */
+.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link),
+.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link):visited {
+  color: var(--manuscript-red-ink) !important;
+  text-decoration: none !important;
+}
+
+/* Hover state (optional, keeps it clean) */
+.markdown-preview-view h1 a:hover,
+.markdown-source-view h1 :is(a, .cm-link, .cm-hmd-internal-link):hover {
+  text-decoration: none !important;
+}
+
+/* H2 & H3 — Pfeffer Simpelgotisch */
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-source-view h2,
+.markdown-source-view h3 {
+  font-family: "Pfeffer Simpelgotisch", serif;
+  color: var(--manuscript-red-ink) !important;
+}
+
+/* H4 — Pfeffer Mediæval */
+.markdown-preview-view h4,
+.markdown-source-view h4 {
+  font-family: "Pfeffer Mediæval", serif;
+  color: var(--manuscript-red-ink) !important;
+}
+
+/* H5 — IM FELL English */
+.markdown-preview-view h5,
+.markdown-source-view h5 {
+  font-family: "IM FELL English", serif;
+  color: var(--manuscript-red-ink) !important;
+}

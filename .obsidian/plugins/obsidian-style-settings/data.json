@@ -1,5 +1,9 @@
 {
   "ITS@@select": "wotc-beyond",
   "ITS@@its-d": false,
-  "ITS@@notion": false
+  "ITS@@notion": false,
+  "fancy-a-story@@theme-variant-dark": "fas-swamp",
+  "fancy-a-story@@theme-variant-light": "fas-coffee-light",
+  "fancy-a-story@@fas-adaptive-accent": true,
+  "fancy-a-story@@fas-callout-infobox": false
 }
