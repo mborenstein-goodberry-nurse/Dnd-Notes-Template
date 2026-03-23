@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## The Monster Under Hollow Mountain Controls
+- [ ] [[Campaigns/The Monster Under Hollow Mountain/The Monster Under Hollow Mountain|The Monster Under Hollow Mountain]]
+- [ ] [[Campaigns/The Monster Under Hollow Mountain/The Monster Under Hollow Mountain#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: The Monster Under Hollow Mountain
+	```
+
+
+
 ## The Privy Privateers Controls
 - [ ] [[Campaigns/The Privy Privateers/The Privy Privateers|The Privy Privateers]]
 - [ ] [[Campaigns/The Privy Privateers/The Privy Privateers#Controls|Controls]]
