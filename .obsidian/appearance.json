@@ -9,7 +9,9 @@
     "callout-grid",
     "dnd-fonts",
     "session-hero",
-    "note-hero"
+    "note-hero",
+    "bugfix-banner",
+    "infobox-snippet"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16

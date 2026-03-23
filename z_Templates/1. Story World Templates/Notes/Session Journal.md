@@ -13,45 +13,60 @@ fc-date:
 fc-category: Sessions
 long_rest: false
 short_rest: false
+hero: true
 summary: ""
 tags:
-art: ""
-banner: z_Assets/Campfire Night.jpg
-banner-fade: -70
-banner-radius: 38
-banner-x: 53
-banner-y: 37
-pixel-banner-flag-color: blue
 ---
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
+</div> 
+
 # [[<% tp.file.title %>]]
 *`=this.summary`*
 
 
 ## Session Summary
-> [!fas-infobox]+
-> ## Session Overview
+> [!fas-infobox|right no-thead]+
+> # Session Overview
+>
+> | Session | <% tp.date.now("WW") %> |
+> | --- | --- |
+> | Date | <% tp.date.now("D MMMM YYYY") %> |
+> | Game | Text |
+>
+> > # Discoveries
+>
+> - Beliveau
+> - The Last Drop Tavern
+>
+> ---
+>
+> - Hidden Cave
+> - Ancient Ruins
 > 
-> ![[obsidian.png|cover]]
+> # Discoveries
+>
+> - Beliveau
+> - The Last Drop Tavern
+>
+>
+> - Hidden Cave
+> - Ancient Ruins
 > 
-> ![[aurora.png|icon]]
-> 
-> ## Header 2
-> | Table Header | Table Header |
-> | ---- | --- |
-> | Text | Text |
-> | Text | Text |
-> 
-> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
-> 
+> # Discoveries
+>
+> **Cities**
+> - Beliveau
+>
+> **Locations**
+> - The Last Drop Tavern
+>
 > > [!footer]
-> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
- > [!tldr] [[<% tp.file.title %>]]
->  ^summary
+> > [[<% tp.file.title %>]]
+> ^summary
 
 **Summary**: `INPUT[text:summary]`
 
-## Recap
-
-![[<% tp.user.getLastGameTitle(tp) %>#^summary]]
-
 ## Log
+Test words here gibber jabber jibber jabber 
+Blah blah blah blah blah
