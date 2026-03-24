@@ -4,7 +4,7 @@
   padding: 0.6rem 0.8rem;
   border-radius: 12px;
   border: 1px solid var(--background-modifier-border);
-  background: color-mix(in srgb, var(--background-secondary) 85%, black 15%);
+  /* background: color-mix(in srgb, var(--background-secondary) 85%, black 15%); */
   box-shadow: none;
 }
 
@@ -19,3 +19,4 @@
 .callout[data-callout="fas-infobox"] ol {
   margin: 0.25rem 0 0 1rem;
 }
+

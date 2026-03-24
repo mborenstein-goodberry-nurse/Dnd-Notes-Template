@@ -25,27 +25,31 @@ tags:
 *`=this.summary`*
 
 
-## Session Summary
-> [!fas-infobox|right no-title]
-> ![[quest-image.png|cover]]
+## Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> # Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session 53* |
+> > | Date| Date of |
+> > | Game | Game Date |
 >
-> ## Main Objective
+> > [!blank]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
 >
-> > [!note|no-title accent red]
-> > - [ ] Return the missing overdue books
->
-> # Key NPCs
->
-> > [!info|no-icon]
-> > - Apple
-> > - Adrielle
-> > - Vindarr
->
-> ## Key Locations
->
-> > [!tip|no-icon]
-> > - Apple's Orchard
-> > - Mirstone
+> > [!blank]
+> > ## Locations
+> > - Places 
+> 
+> > [!blank] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > Previous Session 
 
 **Summary**: `INPUT[text:summary]`
 
