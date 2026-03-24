@@ -30,7 +30,7 @@ module.exports = (params) => {
 
     // Put filename together
     let filename = numOfGames + '. ' + dateNow;
-    params.variables["thisGameFilename"] = filename;
+    params.variables["thisGameFilename"] = 'Session ' + numOfGames;
     params.variables["folderName"] = 'Campaigns/' + thisCampaign;
     
 };
