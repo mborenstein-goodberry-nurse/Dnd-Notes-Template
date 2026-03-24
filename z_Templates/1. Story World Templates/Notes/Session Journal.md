@@ -45,6 +45,6 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[<% tp.user.getLastGameTitle(tp) %>]]
+> > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
 
 **Summary**: `INPUT[text:summary]`

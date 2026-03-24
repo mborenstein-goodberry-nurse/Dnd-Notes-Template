@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -61,32 +61,8 @@
               "title": "Campaign Index"
             }
           }
-        ]
-      },
-      {
-        "id": "2cd3fa59a3594ba8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "802c1a02c38370e5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -369,10 +345,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Notes/Session Journal.md"
+                "file": "Campaigns/Campaign Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Session Journal"
+              "title": "File properties for Campaign Index"
             }
           },
           {
@@ -390,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/1. Story World Templates/Creatures/Creature.md",
+                "file": "Campaigns/Campaign Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +376,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creature"
+              "title": "Backlinks for Campaign Index"
             }
           },
           {
@@ -478,8 +454,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -502,45 +477,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a042a3df42cb9e07",
+  "active": "9879e490c613ebab",
   "lastOpenFiles": [
-    "Campaigns/Test World/Session Journal/How in the hell did we let it get this bad.md",
-    "Campaigns/Test World/Quest Board/desktop.ini",
-    "Campaigns/Test World/Maps/desktop.ini",
-    "Campaigns/Test World/Da Party/desktop.ini",
-    "Campaigns/Test World/Session Journal/0. 2026-03-24.md",
-    "Campaigns/Test World/Test World.md",
-    "Campaigns/Test World/Quest Board/Quest Board.md",
-    "Campaigns/Test World/World Almanac/Other/Other.md",
-    "Campaigns/Test World/World Almanac/Other",
-    "Campaigns/Test World/World Almanac/Places/Places.md",
-    "Campaigns/Test World/World Almanac/Places",
-    "Campaigns/Test World/World Almanac/People/People.md",
-    "Campaigns/Test World/World Almanac/People",
-    "Campaigns/Test World/World Almanac/Items/Items.md",
-    "Campaigns/Test World/World Almanac/Items",
-    "Campaigns/Test World/World Almanac/History/History.md",
-    "Campaigns/Test World/World Almanac/History",
-    "Campaigns/Test World/World Almanac/Groups/Groups.md",
-    "Campaigns/Test World/World Almanac/Groups",
-    "Campaigns/Test World/World Almanac/Deities/Deities.md",
-    "Campaigns/Test World/World Almanac/Deities",
-    "Campaigns/Test World/Maps/Maps.md",
-    "Campaigns/Test World/Calendar.md",
-    "Campaigns/Test World/Quest Board/Test World Setup Quest.md",
-    "Campaigns/Test World/Da Party/Da Party.md",
-    "Campaigns/Campaign Index.md",
-    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-    "Campaigns/Test World/Session Journal/001. 03-24-2026.md",
+    "Campaigns/Test/Session Journal/Session 012.md",
+    "Campaigns/Test/Session Journal/Session 011.md",
+    "Campaigns/Test/Session Journal/Session 010.md",
+    "Campaigns/Test/Session Journal/Session 009.md",
+    "Campaigns/Test/Session Journal/Session 008.md",
+    "Campaigns/Test/Test.md",
+    "Campaigns/Test/Session Journal/Session 007.md",
+    "Campaigns/Test/Session Journal/Session 006.md",
+    "Campaigns/Test/Quest Board/Quest Board.md",
+    "Campaigns/Test/Session Journal/0. 2026-03-24.md",
+    "Campaigns/Test/Session Journal/Session 001.md",
+    "Campaigns/Test/Session Journal/Session 002.md",
+    "Campaigns/Test/Session Journal/Session 004.md",
+    "Campaigns/Test/Session Journal/Session 5.md",
+    "Campaigns/Test/Session Journal/Session 6.md",
+    "Campaigns/Test/Session Journal/Session 005.md",
+    "Campaigns/Test/Session Journal/Session 003.md",
+    "Campaigns/Test/World Almanac/Items/desktop.ini",
+    "Campaigns/Test/World Almanac/History/desktop.ini",
+    "Campaigns/Test/World Almanac/Other/Other.md",
+    "Campaigns/Test/World Almanac/Other",
+    "Campaigns/Test/World Almanac/Places/Places.md",
+    "Campaigns/Test/World Almanac/Places",
+    "Campaigns/Test/World Almanac/People/People.md",
+    "Campaigns/Test/World Almanac/People",
+    "Campaigns/Test/World Almanac/Items/Items.md",
+    "Campaigns/Test/World Almanac/Items",
+    "Campaigns/Test/World Almanac/History/History.md",
+    "Campaigns/Test/World Almanac/History",
+    "Campaigns/Test/World Almanac/Groups/Groups.md",
+    "Campaigns/Test/World Almanac/Groups",
+    "Campaigns/Test/World Almanac/Deities/Deities.md",
+    "Campaigns/Test/World Almanac/Deities",
+    "Campaigns/Test/World Almanac",
+    "Campaigns/Test/Maps/Maps.md",
+    "Campaigns/Test/Calendar.md",
     "z_Assets/Paper Texture.jpg",
     "z_Assets/Paper TExture.jpg",
-    "Campaigns/Sands of Desolation/Session Journal/004. 03-20-2026.md",
-    "Campaigns/Sands of Desolation/Sands of Desolation.md",
-    "Campaigns/Sands of Desolation/Session Journal/003. 03-13-2026.md",
-    "Campaigns/Sands of Desolation/Session Journal/002. 03-06-2026.md",
-    "Campaigns/Sands of Desolation/Session Journal/001. 02-27-2026 We Go Under Mourn.md",
-    "Campaigns/Adamarte and Adventurers/Maps/Khoros.md",
-    "z_Scratch Notes/Untitled.md",
     "z_Assets/Adamarte and Adventurers/Adamarte_Map.png",
     "z_Assets/Adamarte and Adventurers/Blackberry Mead.png",
     "z_Assets/Adamarte and Adventurers/Blue Butterfly.png",

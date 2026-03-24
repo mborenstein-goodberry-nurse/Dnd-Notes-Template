@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
 ## Test World Controls
 - [ ] [[Campaigns/Test World/Test World|Test World]]
 - [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
