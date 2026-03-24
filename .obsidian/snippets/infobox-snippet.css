@@ -1,51 +1,21 @@
-.session-sidebar {
-  float: right;
-  width: 290px;
-  margin-left: 24px;
-  margin-bottom: 24px;
-}
-
-.callout[data-callout="session-card"] {
-  margin: 0 0 18px 0;
-  padding: 0;
+/* Make nested callouts inside the infobox look like small cards */
+.callout[data-callout="fas-infobox"] .callout {
+  margin: 0.75rem 0;
+  padding: 0.6rem 0.8rem;
+  border-radius: 12px;
   border: 1px solid var(--background-modifier-border);
-  border-radius: 0;
-  background: #1f2024;
-  overflow: hidden;
+  background: color-mix(in srgb, var(--background-secondary) 85%, black 15%);
   box-shadow: none;
 }
 
-.callout[data-callout="session-card"] .callout-title {
-  background: #2d2e34;
-  color: #c86a6a;
-  justify-content: center;
-  text-align: center;
-  padding: 14px 16px;
-  font-size: 1.2em;
-  letter-spacing: 0.03em;
-  border-bottom: 1px solid rgba(255,255,255,0.08);
+/* Smaller titles inside the sidebar boxes */
+.callout[data-callout="fas-infobox"] .callout-title {
+  font-size: 0.95em;
+  padding-bottom: 0.25rem;
 }
 
-.callout[data-callout="session-card"] .callout-icon {
-  display: none;
-}
-
-.callout[data-callout="session-card"] .callout-content {
-  padding: 14px 16px;
-  background: #1f2024;
-}
-
-.callout[data-callout="session-card"] table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.callout[data-callout="session-card"] td {
-  border: none;
-  padding: 6px 0;
-}
-
-.callout[data-callout="session-card"] ul {
-  margin: 0;
-  padding-left: 1.2em;
+/* Tighter list spacing in the sidebar */
+.callout[data-callout="fas-infobox"] ul,
+.callout[data-callout="fas-infobox"] ol {
+  margin: 0.25rem 0 0 1rem;
 }

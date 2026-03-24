@@ -26,44 +26,26 @@ tags:
 
 
 ## Session Summary
-> [!fas-infobox|right no-thead]+
-> # Session Overview
+> [!fas-infobox|right no-title]
+> ![[quest-image.png|cover]]
 >
-> | Session | <% tp.date.now("WW") %> |
-> | --- | --- |
-> | Date | <% tp.date.now("D MMMM YYYY") %> |
-> | Game | Text |
+> ## Main Objective
 >
-> > # Discoveries
+> > [!note|no-title accent red]
+> > - [ ] Return the missing overdue books
 >
-> - Beliveau
-> - The Last Drop Tavern
+> # Key NPCs
 >
-> ---
+> > [!info|no-icon]
+> > - Apple
+> > - Adrielle
+> > - Vindarr
 >
-> - Hidden Cave
-> - Ancient Ruins
-> 
-> # Discoveries
+> ## Key Locations
 >
-> - Beliveau
-> - The Last Drop Tavern
->
->
-> - Hidden Cave
-> - Ancient Ruins
-> 
-> # Discoveries
->
-> **Cities**
-> - Beliveau
->
-> **Locations**
-> - The Last Drop Tavern
->
-> > [!footer]
-> > [[<% tp.file.title %>]]
-> ^summary
+> > [!tip|no-icon]
+> > - Apple's Orchard
+> > - Mirstone
 
 **Summary**: `INPUT[text:summary]`
 
