@@ -11,9 +11,6 @@ fc-date:
   month: <% tp.user.getThisDate(tp)[1] %>
   day: <% tp.user.getThisDate(tp)[2] %>
 fc-category: Sessions
-long_rest: false
-short_rest: false
-hero: true
 summary: ""
 tags:
 ---
@@ -21,38 +18,33 @@ tags:
   <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
 </div> 
 
-# [[<% tp.file.title %>]]
 *`=this.summary`*
-
-
-## Session Notes
+## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> # Session Overview
+> ✦ 
+> ## Session Overview
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |
-> > | ✦ Session | *Session 53* |
-> > | Date| Date of |
-> > | Game | Game Date |
+> > | ✦ Session | *Session <% tp.user.getThisGameNum(tp) %>* |
+> > | ✦ Date| *<% tp.date.now("MM-DD-YYYY") %>* |
+> > | ✦ Game | *`=this.fc-date`* |
 >
 > > [!blank]
 > > - Gains scene 1
 > > ---
 > > - Gains scene 2
 >
-> > [!blank]
+> > [!todo|brown]
 > > ## Locations
-> > - Places 
+> > - Places <span class="new-tag">new</span>
 > 
-> > [!blank] 
+> > [!todo|green] 
 > > ## People 
 > > - Person 
 > 
 > > [!footer] 
-> > Previous Session 
+> > ## Previous Session 
+> > [[<% tp.user.getLastGameTitle(tp) %>]]
 
 **Summary**: `INPUT[text:summary]`
-
-## Log
-Test words here gibber jabber jibber jabber 
-Blah blah blah blah blah

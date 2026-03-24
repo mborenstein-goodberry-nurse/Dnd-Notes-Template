@@ -20,3 +20,16 @@
   margin: 0.25rem 0 0 1rem;
 }
 
+.new-tag {
+  color: #e06c75;
+  font-weight: 700;
+  margin-left: 0.5em;
+  letter-spacing: 0.08em;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.new-tag::before {
+  content: "✦ ";
+}
+

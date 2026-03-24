@@ -4,14 +4,14 @@
   "cssTheme": "Fancy-a-Story",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "pub_wrap",
     "S - Images Adjustments",
     "callout-grid",
     "dnd-fonts",
     "session-hero",
+    "infobox-snippet",
+    "pub_wrap",
     "note-hero",
-    "bugfix-banner",
-    "infobox-snippet"
+    "bugfix-banner"
   ],
   "baseFontSizeAction": false,
   "baseFontSize": 16
