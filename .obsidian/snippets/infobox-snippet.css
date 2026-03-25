@@ -1,0 +1,35 @@
+/* Make nested callouts inside the infobox look like small cards */
+.callout[data-callout="fas-infobox"] .callout {
+  margin: 0.75rem 0;
+  padding: 0.6rem 0.8rem;
+  border-radius: 12px;
+  border: 1px solid var(--background-modifier-border);
+  /* background: color-mix(in srgb, var(--background-secondary) 85%, black 15%); */
+  box-shadow: none;
+}
+
+/* Smaller titles inside the sidebar boxes */
+.callout[data-callout="fas-infobox"] .callout-title {
+  font-size: 0.95em;
+  padding-bottom: 0.25rem;
+}
+
+/* Tighter list spacing in the sidebar */
+.callout[data-callout="fas-infobox"] ul,
+.callout[data-callout="fas-infobox"] ol {
+  margin: 0.25rem 0 0 1rem;
+}
+
+.new-tag {
+  color: #e06c75;
+  font-weight: 700;
+  margin-left: 0.5em;
+  letter-spacing: 0.08em;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+.new-tag::before {
+  content: "✦ ";
+}
+

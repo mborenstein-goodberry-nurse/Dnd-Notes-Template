@@ -21,16 +21,16 @@ module.exports = (params) => {
 
     numOfGames = JSON.stringify(numOfGames+0);
     // console.log(numOfGames);
-    while (numOfGames.length < 3) {
-        numOfGames = "0" + numOfGames;
-    }
+    // while (numOfGames.length < 3) {
+    //     numOfGames = "0" + numOfGames;
+    // }
     
     // Get the date
     let dateNow = moment().format('MM-DD-YYYY'); // now() -> 2023-01-23
 
     // Put filename together
     let filename = numOfGames + '. ' + dateNow;
-    params.variables["thisGameFilename"] = filename;
+    params.variables["thisGameFilename"] = 'Session ' + numOfGames;
     params.variables["folderName"] = 'Campaigns/' + thisCampaign;
     
 };

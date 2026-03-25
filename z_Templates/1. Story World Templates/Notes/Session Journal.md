@@ -11,47 +11,40 @@ fc-date:
   month: <% tp.user.getThisDate(tp)[1] %>
   day: <% tp.user.getThisDate(tp)[2] %>
 fc-category: Sessions
-long_rest: false
-short_rest: false
 summary: ""
 tags:
-art: ""
-banner: z_Assets/Campfire Night.jpg
-banner-fade: -70
-banner-radius: 38
-banner-x: 53
-banner-y: 37
-pixel-banner-flag-color: blue
 ---
-# [[<% tp.file.title %>]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
+</div> 
+
 *`=this.summary`*
-
-
-## Session Summary
-> [!fas-infobox]+
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ✦ 
 > ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session <% tp.user.getThisGameNum(tp) %>* |
+> > | ✦ Date| *<% tp.date.now("MM-DD-YYYY") %>* |
+> > | ✦ Game | *`=this.fc-date`* |
+>
+> > [!blank]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
 > 
-> ![[obsidian.png|cover]]
+> > [!todo|green] 
+> > ## People 
+> > - Person 
 > 
-> ![[aurora.png|icon]]
-> 
-> ## Header 2
-> | Table Header | Table Header |
-> | ---- | --- |
-> | Text | Text |
-> | Text | Text |
-> 
-> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
-> 
-> > [!footer]
-> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
- > [!tldr] [[<% tp.file.title %>]]
->  ^summary
+> > [!footer] 
+> > ## Previous Session 
+> > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
 
 **Summary**: `INPUT[text:summary]`
-
-## Recap
-
-![[<% tp.user.getLastGameTitle(tp) %>#^summary]]
-
-## Log
