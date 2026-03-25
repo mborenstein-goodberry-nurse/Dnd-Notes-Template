@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1331dcb72835e66f",
+        "id": "69c11fe19ad89460",
         "type": "tabs",
         "children": [
           {
-            "id": "a042a3df42cb9e07",
+            "id": "1e99fb9ad083e10b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "9879e490c613ebab",
+            "id": "7f038c607764af1f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -345,10 +345,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Campaigns/Campaign Index.md"
+                "file": "Campaigns/Test/Session Journal/Session 003.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Campaign Index"
+              "title": "File properties for Session 003"
             }
           },
           {
@@ -454,7 +454,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,27 +478,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9879e490c613ebab",
+  "active": "c8cdeb27849a60df",
   "lastOpenFiles": [
-    "Campaigns/Test/Session Journal/Session 012.md",
-    "Campaigns/Test/Session Journal/Session 011.md",
-    "Campaigns/Test/Session Journal/Session 010.md",
-    "Campaigns/Test/Session Journal/Session 009.md",
-    "Campaigns/Test/Session Journal/Session 008.md",
     "Campaigns/Test/Test.md",
-    "Campaigns/Test/Session Journal/Session 007.md",
-    "Campaigns/Test/Session Journal/Session 006.md",
-    "Campaigns/Test/Quest Board/Quest Board.md",
-    "Campaigns/Test/Session Journal/0. 2026-03-24.md",
-    "Campaigns/Test/Session Journal/Session 001.md",
-    "Campaigns/Test/Session Journal/Session 002.md",
-    "Campaigns/Test/Session Journal/Session 004.md",
-    "Campaigns/Test/Session Journal/Session 5.md",
-    "Campaigns/Test/Session Journal/Session 6.md",
-    "Campaigns/Test/Session Journal/Session 005.md",
     "Campaigns/Test/Session Journal/Session 003.md",
-    "Campaigns/Test/World Almanac/Items/desktop.ini",
-    "Campaigns/Test/World Almanac/History/desktop.ini",
+    "Campaigns/Test/Session Journal/Session 002.md",
+    "Campaigns/Test/Session Journal/Session 2.md",
+    "Campaigns/Test/Session Journal/Session 001.md",
+    "Campaigns/Test/desktop.ini",
+    "Campaigns/Test/Session Journal/0. 2026-03-25.md",
+    "Campaigns/Test/Quest Board/Quest Board.md",
     "Campaigns/Test/World Almanac/Other/Other.md",
     "Campaigns/Test/World Almanac/Other",
     "Campaigns/Test/World Almanac/Places/Places.md",
@@ -514,7 +504,18 @@
     "Campaigns/Test/World Almanac/Deities",
     "Campaigns/Test/World Almanac",
     "Campaigns/Test/Maps/Maps.md",
+    "Campaigns/Test/Maps",
     "Campaigns/Test/Calendar.md",
+    "Campaigns/Test/Quest Board/Test Setup Quest.md",
+    "Campaigns/Test/Da Party/Da Party.md",
+    "Campaigns/Campaign Index.md",
+    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
+    "Campaigns/Test/Session Journal/Session 012.md",
+    "Campaigns/Test/Session Journal/Session 011.md",
+    "Campaigns/Test/Session Journal/Session 010.md",
+    "Campaigns/Test/Session Journal/Session 009.md",
+    "Campaigns/Test/Session Journal/Session 008.md",
+    "Campaigns/Test/Session Journal/Session 007.md",
     "z_Assets/Paper Texture.jpg",
     "z_Assets/Paper TExture.jpg",
     "z_Assets/Adamarte and Adventurers/Adamarte_Map.png",

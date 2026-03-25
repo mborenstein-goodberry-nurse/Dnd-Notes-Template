@@ -17,7 +17,7 @@ function lastGameTitle (tp) {
     if (titles.length > 1) {
         const filename = titles[titles.length - 2].file.path.replace(".md", "");
         const displayName = titles[titles.length - 2].file.name.replace(".md", "");
-        const aliasedName = `[[${filename}|${displayName}]]`;
+        const aliasedName = `${filename}|${displayName}`;
         return aliasedName;
     } else {
         return "No games found";
