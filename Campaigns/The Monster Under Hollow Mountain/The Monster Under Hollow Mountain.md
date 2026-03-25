@@ -5,7 +5,7 @@ world: Daniel's Monster of the Week
 campaign: The Monster Under Hollow Mountain
 status: active
 role: player
-system: D&D 5e
+system: Monster of the Week
 banner: z_Assets/RPG Group.jpg
 ---
 # The Story of The Monster Under Hollow Mountain
