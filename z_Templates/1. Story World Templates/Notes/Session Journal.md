@@ -17,6 +17,7 @@ tags:
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
 </div> 
+<% await tp.file.rename(`Session `+tp.user.getThisGameNum(tp)) %>
 
 *`=this.summary`*
 ## ✧ Session Notes

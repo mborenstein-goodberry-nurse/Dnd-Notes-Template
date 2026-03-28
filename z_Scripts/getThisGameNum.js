@@ -1,27 +1,28 @@
-function getThisGameNum (tp) {
-    const fullPath = tp.file.folder(true);
-    // console.log("Folder Name: " + fullPath);
-    const folders = fullPath.split('/');
-    const twoPathsUp = folders[folders.length - 2];
-    // console.log(app.plugins.plugins.dataview.api.pages(`"ttrpgs/${thisCampaign}"`));
-    let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Campaigns/${twoPathsUp}/Session Journal"`)
-        .where(page => {
-            if (page.type === 'session') {
-                if (page.campaign === twoPathsUp) {
-                    // console.log('sessionNum: ' + page.sessionNum);
-                    return true;
-                }
-            }
-        }).length
-    // console.log('numOfGames: ' + numOfGames);
-    numOfGames = JSON.stringify(numOfGames+0);
-    /*
-    while (numOfGames.length < 3) {
-        numOfGames = "0" + numOfGames;
-    }*/
-    // console.log('numOfGames after adding: ' + numOfGames);
-    return numOfGames;
+function getThisGameNum(tp) {
+    const folderPath = tp.file.folder(true);
+    const folders = folderPath.split("/");
+
+    const campaignFolder = folders[folders.length - 2];
+    if (!campaignFolder) return "0";
+
+    const sessionFolderPath = `Campaigns/${campaignFolder}/Session Journal`;
+
+    const sessionNums = app.vault.getMarkdownFiles()
+        .filter(file => file.parent?.path === sessionFolderPath)
+        .map(file => {
+            const cache = app.metadataCache.getFileCache(file);
+            const fm = cache?.frontmatter;
+
+            if (String(fm?.type || "").toLowerCase() !== "session") return null;
+
+            const n = Number(fm?.sessionNum);
+            return Number.isFinite(n) ? n : null;
+        })
+        .filter(n => n !== null);
+
+    if (sessionNums.length === 0) return "0";
+
+    return String(Math.max(...sessionNums) + 1);
 }
 
 module.exports = getThisGameNum;

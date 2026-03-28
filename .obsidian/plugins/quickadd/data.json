@@ -604,7 +604,7 @@
                   "templatePath": "z_Templates/1. Story World Templates/Notes/Session Journal.md",
                   "fileNameFormat": {
                     "enabled": true,
-                    "format": "{{VALUE:thisGameFilename}}"
+                    "format": "New Session"
                   },
                   "folder": {
                     "enabled": true,
