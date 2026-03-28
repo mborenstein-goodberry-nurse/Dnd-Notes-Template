@@ -3,7 +3,7 @@ type: session
 date: 03-27-2026
 campaign: Sands of Desolation
 world: WIley's World
-sessionNum: 5
+sessionNum: 6
 location:
 fc-calendar: Sands of Desolation
 fc-date:
@@ -11,44 +11,45 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-long_rest: false
-short_rest: false
 summary: ""
 tags:
-art: ""
-banner: z_Assets/Campfire Night.jpg
-banner-fade: -70
-banner-radius: 38
-banner-x: 53
-banner-y: 37
-pixel-banner-flag-color: blue
 ---
-# [[005. 03-27-2026]]
-*`=this.summary`*
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
+</div> 
 
-> [!fas-infobox]+
+
+*`=this.summary`*
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ✦ 
 > ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session 5* |
+> > | ✦ Date| *03-27-2026* |
+> > | ✦ Game | *`=this.fc-date`* |
+>
+> > [!blank]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
 > 
-> ![[obsidian.png|cover]]
+> > [!todo|green] 
+> > ## People 
+> > - Person 
 > 
-> ![[aurora.png|icon]]
-> 
-> ## Header 2
-> | Table Header | Table Header |
-> | ---- | --- |
-> | Text | Text |
-> | Text | Text |
-> 
-> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
-> 
-> > [!footer]
-> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
- > [!tldr] [[005. 03-27-2026]]
->  ^summary
+> > [!footer] 
+> > ## Previous Session 
+> > [[004. 03-20-2026]]
 
 **Summary**: `INPUT[text:summary]`
-
-## Log
+## Ember's Rest 
 We are making our way to Wynn's people, at Ember's Rest
 Jonx feels a presence against his soul (Review, 10:00)
 People are dead, slaughtered around the streets. Fires burning the buildings
