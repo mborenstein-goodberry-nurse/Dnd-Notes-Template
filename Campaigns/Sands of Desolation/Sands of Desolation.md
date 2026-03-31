@@ -13,7 +13,7 @@ banner: z_Assets/RPG Group.jpg
 ## Controls 
 --- start-multi-column: Control panel p1\
 ```column-settings
-number of columns: 3
+number of columns: 4
 ```
 
 ```button
@@ -36,6 +36,14 @@ action QuickAdd: Macro - New NPC
 name New Place  
 type command
 action QuickAdd: Macro - New Place
+```
+
+--- end-column ---
+
+```button
+name New Quest  
+type command
+action QuickAdd: Macro - New Quest
 ```
 
 --- end-multi-column

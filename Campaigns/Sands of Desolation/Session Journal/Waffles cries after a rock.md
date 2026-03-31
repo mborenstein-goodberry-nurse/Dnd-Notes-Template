@@ -3,7 +3,7 @@ type: session
 date: 03-20-2026
 campaign: Sands of Desolation
 world: WIley's World
-sessionNum: 4
+sessionNum: 77
 location:
 fc-calendar: Sands of Desolation
 fc-date:
@@ -23,7 +23,7 @@ banner-x: 53
 banner-y: 37
 pixel-banner-flag-color: blue
 ---
-# [[004. 03-20-2026]]
+# [[Waffles cries after a rock]]
 *`=this.summary`*
 
 
@@ -45,7 +45,7 @@ pixel-banner-flag-color: blue
 > 
 > > [!footer]
 > > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
- > [!tldr] [[004. 03-20-2026]]
+ > [!tldr] [[Waffles cries after a rock]]
 >  ^summary
 
 **Summary**: `INPUT[text:summary]`

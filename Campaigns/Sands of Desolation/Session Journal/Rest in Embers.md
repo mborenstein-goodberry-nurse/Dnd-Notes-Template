@@ -46,7 +46,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[004. 03-20-2026]]
+> > [[Waffles cries after a rock]]
 
 **Summary**: `INPUT[text:summary]`
 ## Ember's Rest 
