@@ -42,5 +42,6 @@ sort priority DESCENDING
 TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
 where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
+sort questNum ASCENDING
 ```
 

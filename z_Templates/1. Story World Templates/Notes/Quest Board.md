@@ -30,15 +30,18 @@ action QuickAdd: Macro - New Quest
 ```
 ### Active
 ```dataview
-TABLE summary as "Summary", subtype as "Type" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
+TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
+sort questNum ASCENDING
+sort priority DESCENDING
 ```
 
 ### Completed
 ```dataview
-TABLE summary as "Summary", subtype as "Type" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
+TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
 where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
+sort questNum ASCENDING
 ```
 

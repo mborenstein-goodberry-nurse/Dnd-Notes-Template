@@ -14,7 +14,7 @@ attitude: Helpful
 alignment: Chaotic Good
 ---
 
-# [[Thornwick]]
+# [[Thornwick Nightshade]]
 *`=this.summary`*
 
 #### Overview 
