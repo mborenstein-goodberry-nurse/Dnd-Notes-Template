@@ -54,7 +54,7 @@ Platinum: 0
 aliases:
 tags:
 ---
-# [[Player Template]]
+# [[Player]]
 
 ## Appearance
 Looks gay

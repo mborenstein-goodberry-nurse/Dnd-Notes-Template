@@ -3,7 +3,7 @@ type: session
 date: 03-27-2026
 campaign: Sands of Desolation
 world: WIley's World
-sessionNum: 6
+sessionNum: 105
 location:
 fc-calendar: Sands of Desolation
 fc-date:
