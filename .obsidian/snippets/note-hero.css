@@ -57,7 +57,7 @@
 }
 
 .session-hero .session-title .dropcap {
-  font-family: "Goudy Lombardic", serif;
+  font-family: "Ruritania", serif;
   font-size: 3.2em;
   line-height: 0.85;
   float: left;
@@ -125,8 +125,8 @@
 /* Drop cap only when the note has a session hero */
 .markdown-preview-view:has(.session-hero) .inline-title::first-letter,
 .markdown-source-view.mod-cm6:has(.session-hero) .inline-title::first-letter {
-  font-family: "Goudy Lombardic", serif;
-  font-size: 1.8em;
+  font-family: "Ruritania", serif;
+  font-size: 1.5em;
   line-height: 0.9;
   padding-right: 0.12em;
   color: var(--manuscript-red-cap) !important;
