@@ -4,7 +4,6 @@ date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
 sessionNum: <% tp.user.getThisGameNum(tp) %>
-location:
 fc-calendar: <% tp.user.getThisCampaign(tp) %>
 fc-date:
   year: <% tp.user.getThisDate(tp)[0] %>
