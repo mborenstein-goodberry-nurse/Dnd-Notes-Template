@@ -145,9 +145,10 @@ action QuickAdd: Macro - New God
 
 ## Journals
 ```dataview
-TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Session Journal"
-where contains(type,"session")
-sort sessionNum ASC
+TABLE sessionNum as "Session", summary as "Summary" 
+from "Campaigns/Sands of Desolation/Session Journal"
+where file.name != "Session Journal"
+sort sessionNum DESCENDING
 ```
 
 

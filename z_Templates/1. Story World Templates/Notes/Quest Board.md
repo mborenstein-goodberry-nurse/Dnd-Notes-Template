@@ -8,8 +8,21 @@ banner-x: 49
 banner-y: 62
 ---
 ### Main Quest 
-![[<% tp.file.folder(true) %>/<% tp.user.getThisCampaign(tp) %> Setup Quest]]
+```dataviewjs 
+const campaign = dv.current().campaign;
 
+const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+    .where(q => String(q.type ?? "").toLowerCase() === "quest")
+    .where(q => String(q.status ?? "").toLowerCase() === "active")
+    .where(q => q.questNum != null)
+    .sort(q => Number(q.questNum), "asc");
+
+if (quests.length > 0) {
+    dv.paragraph(`![[${quests[0].file.path}]]`);
+} else {
+    dv.paragraph("*No active quests found.*");
+}
+```
 ```button
 name New Quest  
 type command

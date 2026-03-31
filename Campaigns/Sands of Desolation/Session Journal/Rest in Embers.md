@@ -11,7 +11,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: ""
+summary: This is an example summary
 tags:
 ---
 <div class="session-hero">

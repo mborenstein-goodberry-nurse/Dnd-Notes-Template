@@ -4,7 +4,7 @@ campaign: Sands of Desolation
 world: WIley's World
 ---
 ```dataview
-TABLE from "Campaigns/Sands of Desolation/World Almanac/Maps"
+TABLE from "Campaigns/Sands of Desolation/Maps"
 where file.name != "Maps"
 sort file.name ASC
 ```

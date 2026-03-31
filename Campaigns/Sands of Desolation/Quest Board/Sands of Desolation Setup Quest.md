@@ -1,5 +1,7 @@
 ---
 type: Quest
+subtype: Lore
+priority: 1
 date: 12-01-2025
 campaign: Sands of Desolation
 world: WIley's World
