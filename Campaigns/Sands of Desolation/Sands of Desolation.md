@@ -167,7 +167,13 @@ sort sessionNum DESCENDING
 - [[Weary Quest]]
 - [[Diane Aceso Quest]]
 **Others**:
-- [[]]
+```dataview
+TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/Da Party"
+where file.name != "Da Party"
+where file.name != "Weary Quest"
+where file.name != "Diane Aceso Quest"
+sort file.name ASC
+```
 
 ### Other Characters 
 ```dataview
@@ -178,10 +184,12 @@ sort file.name ASC
 
 ## Places 
 ```dataview
+TABLE from "Campaigns/Sands of Desolation/Maps"
+where file.name != "Maps"
+sort file.name ASC
+```
+```dataview
 TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/World Almanac/Places"
 where file.name != "Places"
 sort file.name ASC
 ```
-
-## Custom Rules 
-- [[]]
