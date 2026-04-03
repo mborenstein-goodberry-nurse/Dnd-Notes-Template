@@ -10,39 +10,39 @@ kanban-plugin: board
 
 
 ## The Monster Under Hollow Mountain Controls
+
 - [ ] [[Campaigns/The Monster Under Hollow Mountain/The Monster Under Hollow Mountain|The Monster Under Hollow Mountain]]
 - [ ] [[Campaigns/The Monster Under Hollow Mountain/The Monster Under Hollow Mountain#Controls|Controls]]
 - [ ] ```calendarium
-        calendar: The Monster Under Hollow Mountain
+	    calendar: The Monster Under Hollow Mountain
 	```
-
 
 
 ## The Privy Privateers Controls
+
 - [ ] [[Campaigns/The Privy Privateers/The Privy Privateers|The Privy Privateers]]
 - [ ] [[Campaigns/The Privy Privateers/The Privy Privateers#Controls|Controls]]
 - [ ] ```calendarium
-        calendar: The Privy Privateers
+	    calendar: The Privy Privateers
 	```
-
-
-
-## Sands of Desolation Controls
-- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation|Sands of Desolation]]
-- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation#Controls|Controls]]
-- [ ] ```calendarium
-        calendar: Sands of Desolation
-	```
-
 
 
 ## Adamarte and Adventurers Controls
+
 - [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
 - [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
 - [ ] ```calendarium
-        calendar: Adamarte and Adventurers
+	    calendar: Adamarte and Adventurers
 	```
 
+
+## Sands of Desolation Controls
+
+- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation|Sands of Desolation]]
+- [ ] [[Campaigns/Sands of Desolation/Sands of Desolation#Controls|Controls]]
+- [ ] ```calendarium
+	    calendar: Sands of Desolation
+	```
 
 
 ## [[Conditions]]
@@ -104,6 +104,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null]}
+{"kanban-plugin":"board","list-collapse":[null,true,true,true,null]}
 ```
 %%
