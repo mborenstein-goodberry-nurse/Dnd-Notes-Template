@@ -30,19 +30,30 @@ tags:
 > > | ✦ Session | *Session 5* |
 > > | ✦ Date| *03-27-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
+> > ---
+> > ### Party 
+> > - [[Aldren]] 
+> > - [[Arthur Morgan or Damian or Soren|Damien/Soren]] 
+> > - [[Jonks]] 
+> > - [[Ozzy]]
+> > - [[Thornwick Nightshade|Thornwick]]
+> > - [[Waffles]] 
+> > - [[Wynn]] 
 >
 > > [!blank]
-> > - Gains scene 1
+> > - We enter [[Ember's Rest]]
 > > ---
-> > - Gains scene 2
+> > - We encounter Wynn's sister [[Tessa]]
+> > - We encounter the leader of [[Ember's Rest]]: [[Chalar-Nali]]
 >
 > > [!todo|brown]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Ember's Rest]] <span class="new-tag">new</span>
 > 
 > > [!todo|green] 
 > > ## People 
-> > - Person 
+> > - [[Chalar-Nali]]
+> > - [[Tessa]]
 > 
 > > [!footer] 
 > > ## Previous Session 
