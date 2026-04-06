@@ -34,7 +34,7 @@ TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Que
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
 sort questNum ASCENDING
-sort priority DESCENDING
+sort priority ASCENDING
 ```
 
 ### Completed

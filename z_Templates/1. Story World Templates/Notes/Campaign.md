@@ -141,7 +141,13 @@ action QuickAdd: Macro - New God
 --- end-multi-column
 
 ## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
-![[Campaigns/<% tp.file.title %>/Quest Board/Quest Board#Active|Quest Board]]
+```dataview
+TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
+where contains(type,"Quest") AND contains(status, "Active")
+where file.name != "Quest Board"
+sort questNum ASCENDING
+sort priority ASCENDING
+```
 
 ## Journals
 ```dataview
