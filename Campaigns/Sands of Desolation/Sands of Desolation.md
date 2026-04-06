@@ -17,17 +17,26 @@ number of columns: 4
 ```
 
 ```button
-name New Session Journal 
+name New Session 
 type command
 action QuickAdd: Macro - New Session Journal Entry
 ```
-
+```button
+name New Incident  
+type command
+action QuickAdd: Macro - New Event
+```
 --- end-column ---
 
 ```button
 name New Person  
 type command
 action QuickAdd: Macro - New NPC
+```
+```button
+name New Map
+type command
+action QuickAdd: Macro - New Map
 ```
 
 --- end-column ---
@@ -37,6 +46,11 @@ name New Place
 type command
 action QuickAdd: Macro - New Place
 ```
+```button
+name New Item  
+type command
+action QuickAdd: Macro - New Item
+```
 
 --- end-column ---
 
@@ -44,6 +58,11 @@ action QuickAdd: Macro - New Place
 name New Quest  
 type command
 action QuickAdd: Macro - New Quest
+```
+```button
+name New Note  
+type command
+action QuickAdd: Macro - New Note
 ```
 
 --- end-multi-column
@@ -91,11 +110,6 @@ action QuickAdd: Macro - New Militia
 #### Timeline
 
 ```button
-name New Quest  
-type command
-action QuickAdd: Macro - New Quest
-```
-```button
 name New Historical Event  
 type command
 action QuickAdd: Macro - New Event
@@ -121,25 +135,12 @@ action QuickAdd: Macro - New Time Period
 #### Other
 
 ```button
-name New Note  
-type command
-action QuickAdd: Macro - New Note
-```
-```button
 name New Magic Item  
 type command
 action QuickAdd: Macro - New Magic Item
 ```
-```button
-name New Item  
-type command
-action QuickAdd: Macro - New Item
-```
-```button
-name New Map
-type command
-action QuickAdd: Macro - New Map
-```
+
+
 ```button
 name New God
 type command
@@ -149,8 +150,13 @@ action QuickAdd: Macro - New God
 --- end-multi-column
 
 ## [[Campaigns/Sands of Desolation/Quest Board/Quest Board|Quest Board]] 
-![[Campaigns/Sands of Desolation/Quest Board/Quest Board#Active|Quest Board]]
-
+```dataview
+TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
+where contains(type,"Quest") AND contains(status, "Active")
+where file.name != "Quest Board"
+sort questNum ASCENDING
+sort priority DESCENDING
+```
 ## Journals
 ```dataview
 TABLE sessionNum as "Session", summary as "Summary" 
