@@ -56,7 +56,7 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1775247739692,
+      "lastAccessed": 1775271929507,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -66,6 +66,74 @@
             240.464276714715
           ],
           "link": "Tangambalanga",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8d90a5b8a99",
+          "type": "default",
+          "loc": [
+            73.40968172311483,
+            226.7792414836321
+          ],
+          "link": "Crownsburrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1beb89abba5b",
+          "type": "default",
+          "loc": [
+            16.9579405813841,
+            212.10677642138677
+          ],
+          "link": "Sparrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a89d8bb2829",
+          "type": "default",
+          "loc": [
+            40.98214892687079,
+            235.83927711798296
+          ],
+          "link": "Isabelle's Castle",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b94b7a686989",
+          "type": "default",
+          "loc": [
+            44.982148682730184,
+            231.5892774885535
+          ],
+          "link": "Griffin Capital",
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,
