@@ -14,7 +14,7 @@ summary: ""
 tags:
 ---
 <div class="session-hero">
-  <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
 </div> 
 
 
@@ -67,7 +67,7 @@ Immediately something is off, there are red banners everywhere, the normally bus
 Local militia is on the rise, new knights with spiky edges and horns march the street, look like Oathbreaker Paladins 
 Gork is still in the shelf 
 We can't see the paladin's eyes, but they aren't immediately interfering 
-![[Red Templar.jpg]]
+![[Red Templar.jpg|200x200]]
 Weary mentions meeting the Queen, the other guards definitely overheard us 
 Guards (Vindicators) start waving us down to approach us 
 Alarac (repeating the name of the red bishop) 
@@ -116,7 +116,7 @@ Too late though, Jiminey already signed it
 Weary casts [[True Seeing]] on [[Veldrin]] 
 Alarac takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how Diane remembers her 
 Veldrin and Weary see her for who she really is 
-![The Red Queen|200z140](The_Red_Queen.jpg)
+![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
 Jiminey casts Heat Metal, and reveals her for who she is 
 The guard mutate into half devil half people, 2 Irinids descend from the Ceiling 
 Cliff Hanger! 

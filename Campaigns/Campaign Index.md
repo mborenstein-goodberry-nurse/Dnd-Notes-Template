@@ -1,8 +1,8 @@
 ---
 aliases: games
 banner_y: 0.86
-banner: z_Assets/Sunset Banner.png
-cssclasses: 
+banner: z_Assets/System/Sunset Banner.png
+cssclasses:
 session-hero: false
 ---
 # [[Campaign Index]]

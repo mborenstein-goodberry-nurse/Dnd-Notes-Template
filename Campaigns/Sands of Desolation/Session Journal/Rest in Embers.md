@@ -15,7 +15,7 @@ summary: We go to Ember's Rest, and learn how to weaken the Fox and the plane me
 tags:
 ---
 <div class="session-hero">
-  <img class="session-hero-frame" src="z_Assets/Medieval-Banner.png" alt="">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
 </div> 
 
 

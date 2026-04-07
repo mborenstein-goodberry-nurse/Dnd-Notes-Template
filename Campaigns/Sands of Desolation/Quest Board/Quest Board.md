@@ -3,7 +3,7 @@ type: Quest Board
 date: 12-01-2025
 campaign: Sands of Desolation
 world: WIley's World
-banner: z_Assets/Quest Board.png
+banner: z_Assets/System/Quest Board.png
 banner-x: 49
 banner-y: 62
 ---

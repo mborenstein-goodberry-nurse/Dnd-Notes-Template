@@ -28,14 +28,14 @@ tags:
 Placeholder
 
 #### Progression
-- [ ] Meet with Queen Isabelle (not ours)
-- [ ] Enter the [[Griffin Capital]] 
+- [x] Meet with Queen Isabelle (not ours)
+- [x] Enter the [[Griffin Capital]] 
 - [ ] ~~Presumably defeat the Red Bishop and his order ~~
-- [ ] 
+- [ ] Defeat the Imposter Queen 
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-Money
+We would earn the Griffin Empire to our Side, gaining an army against the Wastes 
 
 #### Additional Details 

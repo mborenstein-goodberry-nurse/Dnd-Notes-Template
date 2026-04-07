@@ -3,7 +3,7 @@ type: Quest Board
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
 world: <% tp.user.getThisWorld(tp) %>
-banner: z_Assets/Quest Board.png
+banner: z_Assets/System/Quest Board.png
 banner-x: 49
 banner-y: 62
 ---

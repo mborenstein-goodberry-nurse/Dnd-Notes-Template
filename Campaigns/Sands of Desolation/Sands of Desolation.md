@@ -6,7 +6,7 @@ campaign: Sands of Desolation
 status: active
 role: player
 system: D&D 5e
-banner: z_Assets/RPG Group.jpg
+banner: z_Assets/System/RPG Group.jpg
 ---
 # The Story of Sands of Desolation
 
@@ -90,12 +90,15 @@ sort sessionNum DESCENDING
 **Me**: 
 - [[Weary Quest]]
 - [[Diane Aceso Quest]]
+- [[Waffles]]
 **Others**:
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/Da Party"
+TABLE attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Sands of Desolation/Da Party"
 where file.name != "Da Party"
 where file.name != "Weary Quest"
 where file.name != "Diane Aceso Quest"
+where file.name != "Waffles"
 sort file.name ASC
 ```
 

@@ -13,10 +13,10 @@ fc-date:
 fc-category: Sessions
 long_rest: false
 short_rest: false
-summary: 
+summary:
 tags: inbox
 art: ""
-banner: z_Assets/Wizard Reading.jpg
+banner: z_Assets/System/Wizard Reading.jpg
 pixel-banner-flag-color: blue-fade-light
 banner-height: 350
 ---
