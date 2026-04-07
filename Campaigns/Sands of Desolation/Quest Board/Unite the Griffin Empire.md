@@ -2,7 +2,7 @@
 type: Quest
 subtype: Lore
 priority: 2
-questNum: 0
+questNum: 50
 date: 04-03-2026
 campaign: Sands of Desolation
 world: WIley's World
