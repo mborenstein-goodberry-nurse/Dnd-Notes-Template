@@ -44,7 +44,10 @@ tags:
 >
 > > [!todo|brown]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Tangambalanga]] 
+> > - [[Crownsburrow]] 
+> > - [[Griffin Capital]] 
+> > - [[Isabelle's Castle]] <span class="new-tag">new</span>
 > 
 > > [!todo|green] 
 > > ## People 
@@ -63,8 +66,9 @@ We are having breakfast at a large dinner table
 As Weary speaks, he feels a crack in his spine as his CON is lowered by 2, receiving a grievous wound 
 The shattering left a scar on his mortal soul. Weary doesn't know it's from this tho 
 We decide to go to [[Crownsburrow]] to meet with her highness Isabelle of the Griffin Empire and [[Unite the Griffin Empire]]
+## Empty Market at the Crossroads 
 Immediately something is off, there are red banners everywhere, the normally bustling crossroads are empty 
-Local militia is on the rise, new knights with spiky edges and horns march the street, look like Oathbreaker Paladins 
+Local militia is on the rise, new knights with spiky edges and horns march the street, look like [[Oathbreaker|Oathbreaker Paladins]] 
 Gork is still in the shelf 
 We can't see the paladin's eyes, but they aren't immediately interfering 
 ![[Red Templar.jpg|200x200]]
@@ -84,6 +88,7 @@ The Red Queen is probably different from Queen Isabelle
 Veldrin really wants to meet the Queen 
 We're heading South towards the Capitol 
 We roll low on [[Survival]] 
+## Entering the Upper Level 
 Takes us about an hour to take us to the inner wall, also called the Upper Level 
 We turrets, ballista, and the like along the walls, although they don't seem to be armed or even up to date, long overdue for refurbishment. Every corner and tile has great guard towers 
 Guards are a mix of nromal guards and Red Templars, noticable infighting and tensions between them
@@ -103,8 +108,9 @@ There's a Hidden Rune on its chest; it's familiar but Weary can't remember where
 Vander points out Isabelle 
 If we have any trouble, we may reach out to one of the (59:00) people 
 The guards and the manticore move out of the way 
-The Red Banner is everywhere, propoganda galore 
-Other Manticores are perched ont he many spires, wizard spire has many mages, the castle looms over the capital. 
+## Into the Heart
+The Red Banner is everywhere, propaganda galore 
+Other Manticores are perched on the many spires, wizard spire has many mages, the castle looms over the capital. 
 Isabelle recognizes that this is not the rule of a monarch, but that of a tyrant. Tons of fear amongst even the guards 
 Some of the guards have infernal markings across their armor 
 We enter the castle. It's like a ballroom, and on the Podium is a blond gentleman. [[Alarac the Red bishop]], the Red/Grand Bishop (1:17:00) 
@@ -117,6 +123,6 @@ Weary casts [[True Seeing]] on [[Veldrin]]
 Alarac takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how Diane remembers her 
 Veldrin and Weary see her for who she really is 
 ![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
-Jiminey casts Heat Metal, and reveals her for who she is 
-The guard mutate into half devil half people, 2 Irinids descend from the Ceiling 
+Jiminey casts [[Heat Metal]], and reveals her for who she is 
+The guard mutate into half devil half people, 2 Irinids (Erinyes?) descend from the Ceiling 
 Cliff Hanger! 
