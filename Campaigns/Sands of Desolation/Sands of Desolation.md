@@ -1,7 +1,7 @@
 ---
 type: Campaign
 date: 12-01-2025
-world: WIley's World
+world: Wiley's World
 campaign: Sands of Desolation
 status: active
 role: player
@@ -69,12 +69,14 @@ action QuickAdd: Macro - New Note
 
 ## [[Campaigns/Sands of Desolation/Quest Board/Quest Board|Quest Board]] 
 ```dataview
-TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
+TABLE summary as "Summary" 
+from "Campaigns/Sands of Desolation/Quest Board"
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
-sort questNum ASCENDING
+sort questNum DESCENDING 
 sort priority ASCENDING
 ```
+
 ## Journals
 ```dataview
 TABLE sessionNum as "Session", summary as "Summary" 

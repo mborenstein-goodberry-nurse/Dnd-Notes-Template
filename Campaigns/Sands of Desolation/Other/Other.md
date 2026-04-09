@@ -2,10 +2,10 @@
 type: Reference Sheet
 date: 12-01-2025
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 ---
 ```dataview
-TABLE summary as "Other" from "Campaigns/Sands of Desolation/World Almanac/Other"
+TABLE summary as "Other" from "Campaigns/Sands of Desolation/Other"
 where file.name != "Other"
 sort file.name ASC
 ```

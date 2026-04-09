@@ -4,7 +4,7 @@ subtype: Player Character
 date: 03-29-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: z_Scratch Notes
-world:
+world: Wiley's World
 summary:
 status: Still Alive
 aliases:

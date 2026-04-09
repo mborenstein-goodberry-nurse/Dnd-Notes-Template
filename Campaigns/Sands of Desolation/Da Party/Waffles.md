@@ -4,7 +4,7 @@ subtype: Player Character
 date: 03-29-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 summary: Snake boi, nothing secret beneath that
 status: Mostly Trusted
 aliases: []

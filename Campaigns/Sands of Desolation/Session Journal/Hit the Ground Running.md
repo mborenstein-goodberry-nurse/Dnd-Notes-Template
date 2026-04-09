@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: ""
+summary: We rush our way to the Capital against Diane's balking
 tags:
 ---
 <div class="session-hero">
@@ -59,7 +59,7 @@ tags:
 
 **Summary**: `INPUT[text:summary]`
 ## The Sun Rises over Tangambalanga 
-Trees are being brought back, plains recovering, people flooding the citadel and interacting, Weary's parents are back 
+Trees are being brought back, plains recovering, people flooding the citadel and interacting, Weary's parents are back! 
 It's been 4 days since the last fight, things are continuing to return to normal 
 We are having breakfast at a large dinner table 
 [[Jiminey Frickit]] slaps [[Campaigns/Sands of Desolation/Da Party/Weary Quest|Weary]] on the back (friendly) and Weary chokes 

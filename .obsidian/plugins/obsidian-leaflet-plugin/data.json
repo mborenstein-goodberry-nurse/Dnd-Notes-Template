@@ -56,7 +56,7 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1775570006063,
+      "lastAccessed": 1775747839381,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -134,6 +134,23 @@
             231.5892774885535
           ],
           "link": "Griffin Capital",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0978f89a6bdb",
+          "type": "default",
+          "loc": [
+            78.28556059107495,
+            239.99794864250262
+          ],
+          "link": "Tangambalanga",
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,

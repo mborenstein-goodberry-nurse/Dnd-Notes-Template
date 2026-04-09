@@ -22,7 +22,7 @@ tags:
 *`=this.summary`*
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ✦ 
+> 
 > ## Session Overview
 > > [!blank]
 > > |   |   | 
@@ -46,13 +46,17 @@ tags:
 > > - We encounter Wynn's sister [[Tessa]]
 > > - We encounter the leader of [[Ember's Rest]]: [[Chalar-Nali]]
 > > ---
-> > - We gain multiple items in the armory, including a [[Shadow Sword]] 
+> > - We gain multiple items in the armory: 
+> > 	- [[Shadow Sword]] 
+> > 	- [[Shadow Spear]] 
+> > 	- [[Shadow Dagger]] 
+> > 	- [[Spiked Chain]]
 >
-> > [!todo|brown]
+> > [!todo|brown no-title no-icon] 
 > > ## Locations
 > > - [[Ember's Rest]] <span class="new-tag">new</span>
 > 
-> > [!todo|green] 
+> > [!todo|green no-title no-icon] 
 > > ## People 
 > > - [[Chalar-Nali]]
 > > - [[Tessa]]
@@ -102,6 +106,7 @@ Jonx learns the Shadar-Kai in the Elegant Armor's name is [[Chalar-Nali]]. Char 
 Jonx begins spreading rumors about Wynn (1:13:00)
 - Thinks the village is all snooty 
 - Hates the Raven Queen 
+
 Waffles senses a fiend and an undead approaching, He and the Sand Soldier ambush them 
 Oops it's [[Jonks]] and his undead 
 [[Jonks]] tells me and [[Aldren]] his story 
@@ -111,6 +116,7 @@ Oops it's [[Jonks]] and his undead
 [[Chalar-Nali]] reveals that they were attacked by the Fox and Nightwalkers, blamed for the nearby forest fire 
 She recognizes Wynn. Wynn recognizes her as the leader of the encampment 
 "Until you realize the banishment came not from punishment but pain, we will not get along" (1:53:00) - [[Chalar-Nali]] 
+Tasked by [[Chalar-Nali]] to [[Destroy the Spires]]:
 There are 3 great beacons working to converge the planes together. If we can disable 2 of them, we stand a fighting chance to prevent the planes merging. We'll use their light bombs (2 per) at the base of the spires to disable them. We could gain their assistance if we did, and it would prevent the planes merging. She can also provide a way into the City of Brass 
 The bombs are about a sack big, and have a large blast radius
 Each Spire is guarded by 1 or 2 [[Nightwalkers]] 
@@ -125,14 +131,15 @@ To ignite it:
 1. Open the casing 
 2. Pull out the large cylindrical switch, rotate it, and push it back down 
 3. After 1 minute, it will erupt, eradicating anything tainted by the Fox 
-	1. Those cursed by the fox will also be eradicated 
-	2. Nightwalkers will also be eradicated 
+	- Those cursed by the fox will also be eradicated 
+	- Nightwalkers will also be eradicated 
 4. Once the timer starts, they cannot be stopped 
 5. We ***MUST*** set them off on the same turn 
+
 When the creatures take notice of us, they will destroy anything associated with it 
 [[Chalar-Nali]]'s army hasn't been able to do this themselves due to them being under constant attack, and decimated in the most recent attack 
 The Raven Queen is locked away in the Shadowfell somewhere
 The forest was one of the Fox's many hunting grounds, which attracted the nightwalkers on patrol. Not likely to attract one of the assigned spire nightwalkers 
 **[[Shadow Sword]] info**: melee or ranged weapon attack, Dex to hit, reach of 5 ft or throw range 30/60 ft. 7d6+5 necrotic damage 
 [[Chalar-Nali]] shows us the route to the Spires for terrorism 
-As we leave [[Ember's Rest]], we see a reflection in the mountains. We have been marked for the first time in the [[Shadowfell]], presumably by the Fox 
+As we leave [[Ember's Rest]], we see a reflection in the mountains. We have been marked for the first time in the [[Shadowfell]], presumably by [[the Fox]] 

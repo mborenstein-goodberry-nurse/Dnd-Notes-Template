@@ -1,11 +1,15 @@
 ---
 type: Group
-date: 04-03-2026
+date: 04-09-2026
 campaign: Sands of Desolation
 world: Wiley's World
 tags:
+status: Razed
+size: Large Village
+attitude: Indifferent
+summary: "[[Wynn]]'s hometown, a refuge in the Shadowfell"
 ---
-# [[Sparrow]]
+# [[Ember's Rest]]
 *`=this.summary`*
 
 #### Overview 

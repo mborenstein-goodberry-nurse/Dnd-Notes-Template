@@ -4,7 +4,7 @@ subtype: Player Character
 date: 03-31-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 summary: Banished Shadar-Kai putting the pieces back together
 status: Alive
 aliases:

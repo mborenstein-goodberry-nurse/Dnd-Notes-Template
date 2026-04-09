@@ -1,11 +1,15 @@
 ---
 type: Group
-date: 04-03-2026
+date: 04-09-2026
 campaign: Sands of Desolation
 world: Wiley's World
 tags:
+size: Manor/Castle
+status: Restored
+attitude: Helpful
+summary: "[[Weary]]'s Keep that he earned from a [[Deck of Many Things]"
 ---
-# [[Sparrow]]
+# [[Weary's Keep]]
 *`=this.summary`*
 
 #### Overview 

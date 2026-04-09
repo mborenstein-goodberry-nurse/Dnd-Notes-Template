@@ -1,7 +1,7 @@
 ---
 date: 12-01-2025
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 ---
 ```dataview
 TABLE from "Campaigns/Sands of Desolation/Maps"

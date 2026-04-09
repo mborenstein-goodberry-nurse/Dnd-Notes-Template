@@ -35,11 +35,11 @@ tags:
 > > ---
 > > - Gains scene 2
 >
-> > [!todo|brown]
+> > [!todo|brown no-title no-icon]
 > > ## Locations
 > > - Places <span class="new-tag">new</span>
 > 
-> > [!todo|green] 
+> > [!todo|green no-title no-icon] 
 > > ## People 
 > > - Person 
 > 

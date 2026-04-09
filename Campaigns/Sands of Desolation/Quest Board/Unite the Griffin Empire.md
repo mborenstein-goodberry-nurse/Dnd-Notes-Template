@@ -5,7 +5,7 @@ priority: 2
 questNum: 50
 date: 04-03-2026
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 location:
 fc-calendar: WIley's World
 fc-date:

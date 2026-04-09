@@ -4,7 +4,7 @@ subtype: Player Character
 date: 04-07-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 summary: Bird friend from the last campaign
 status: Alive and Well
 aliases: []

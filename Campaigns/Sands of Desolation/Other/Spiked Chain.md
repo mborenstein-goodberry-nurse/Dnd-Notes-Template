@@ -1,9 +1,9 @@
 ---
 type: Magic Item
 subtype: Wondrous Item
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-09-2026
+campaign: Sands of Desolation
+world: Wiley's World
 alignment: Unaligned
 rarity: Common
 summary:
@@ -13,7 +13,7 @@ attunement: false
 ---
 *`=this.summary`*
 
-### [[<% tp.file.title %>]]
+### [[Spiked Chain]]
 
 **Type**: `INPUT[inlineSelect(option(Armor), option(Potion), option(Ring), option(Rod), option(Scroll), option(Staff), option(Wand), option(Weapon), option(Wondrous Item)):subtype]`
 **Rarity**: `INPUT[inlineSelect(option(Common), option(Uncommon), option(Rare), option(Very Rare), option(Legendary), option(Artifact)):rarity]`
