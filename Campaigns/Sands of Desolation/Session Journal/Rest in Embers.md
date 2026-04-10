@@ -33,10 +33,10 @@ tags:
 > > ---
 > > ### Party 
 > > - [[Aldren]] 
-> > - [[Arthur Morgan or Damian or Soren|Damien/Soren]] 
+> > - [[Arthur or Damian or Soren|Damien/Soren]] 
 > > - [[Jonks]] 
 > > - [[Ozzy]]
-> > - [[Thornwick Nightshade|Thornwick]]
+> > - [[Thornwick|Thornwick]]
 > > - [[Waffles]] 
 > > - [[Wynn]] 
 >
@@ -78,7 +78,7 @@ Everyone is stealthing except for us
 [[Wynn]] is witnessing his family's house (16-18 at least)
 [[Wynn]] finds a single limb, and unearthing it. But it detaches 
 [[Ozzy]] stealths her way into [[Wynn|Wynn's]] home. It isn't on fire like the other houses, likely due to the rune work 
-[[Thornwick Nightshade|Thornwick]]  is watching from inside his ring, which Ozzy has 
+[[Thornwick|Thornwick]]  is watching from inside his ring, which Ozzy has 
 [[Ozzy]] deconstructs a family portrait. [[Wynn]] is not a part of the portrait 
 Most of the fire is a darkened necrotic fire, like a pitch black fire. 
 It does not look like a shadow dragon's breath, but something mimicking one. It would have to be a very powerful being to be able to mimic a shadow dragon's breath... 
@@ -91,16 +91,16 @@ It does not look like a shadow dragon's breath, but something mimicking one. It 
 Using some nearby skeletons, [[Jonks]] can finally life the beam. 
 The guy rolls out, revealing his very elegant armor. he thanks [[Jonks]] and the building begins to collapse. Does a very acrobatic move out of the window 
 [[Ozzy]] is sort of wandering, not interested in rejoining the group 
-Most people have died in this extreme attack. [[Arthur Morgan or Damian or Soren|Damien]] finds a handful of survivors 
+Most people have died in this extreme attack. [[Arthur or Damian or Soren|Damien]] finds a handful of survivors 
 This probably happened a long while back. The only reason most of them are alive is due to their ability to [[Shadar-Kai#^d72d30|Trance]]. The fire is constantly burning 
-[[Thornwick Nightshade|Thornwick]] stares into the necrotic flame and loses the ability to speak (wild magic) for **3 long rests** 
+[[Thornwick|Thornwick]] stares into the necrotic flame and loses the ability to speak (wild magic) for **3 long rests** 
 
 > Emily lost another D100.... ***AGAIN...*** 
 
 [[Wynn]] is able to heal his sister 
-[[Arthur Morgan or Damian or Soren|Damien's]] illusion catches up with [[Wynn]] 
+[[Arthur or Damian or Soren|Damien's]] illusion catches up with [[Wynn]] 
 [[Waffles]] and [[Aldren]] sense an undead presence and go after it 
-[[Ozzy]] trips [[Wynn]] as he runs out of the building. [[Thornwick Nightshade|Thornwick]] is crushed by [[Wynn]] and shits himself, [[Wynn]] saves his sister but skids, and [[Ozzy]]  acts innocent. [[Arthur Morgan or Damian or Soren|Damian]] heals her with a **3rd level [[cure wounds]]** 
+[[Ozzy]] trips [[Wynn]] as he runs out of the building. [[Thornwick|Thornwick]] is crushed by [[Wynn]] and shits himself, [[Wynn]] saves his sister but skids, and [[Ozzy]]  acts innocent. [[Arthur or Damian or Soren|Damian]] heals her with a **3rd level [[cure wounds]]** 
 Wynn's sister says that they were attacked by the [[Fox]] (1:12:00) 
 Jonx learns the Shadar-Kai in the Elegant Armor's name is [[Chalar-Nali]]. Char is an ok nickname
 Jonx begins spreading rumors about Wynn (1:13:00)

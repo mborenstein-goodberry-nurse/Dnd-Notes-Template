@@ -11,12 +11,15 @@ aliases:
   - Arthur
   - Damian
   - Soren
+  - Arthur Morgan
+  - Damien Castellanos
+  - Soren Hellborne
 tags:
 attitude: Helpful
 alignment: Unaligned
 ---
 
-# [[Arthur Morgan or Damian or Soren]]
+# [[Arthur or Damian or Soren]]
 *`=this.summary`*
 
 #### Overview 

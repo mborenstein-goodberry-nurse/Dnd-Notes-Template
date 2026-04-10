@@ -8,13 +8,13 @@ world: WIley's World
 summary: Married to an octopus man
 status: Alive
 aliases:
-  - Phoebe
+  - Phoebe Thalasso
 tags:
 attitude: Helpful
 alignment: Chaotic Neutral
 ---
 
-# [[Phoebe Thalasso]]
+# [[Phoebe]]
 *`=this.summary`*
 
 #### Overview 

@@ -29,27 +29,28 @@ tags:
 > > | ✦ Session | *Session 79* |
 > > | ✦ Date| *04-03-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
-> > ---
+> > 
+> > [!blank]
 > > ### Party 
-> > - [[Diane Aceso Quest]] 
-> > - [[Phoebe Thalasso|Phoebe]]
-> > - [[Veldrin|Veldrin]]
+> > - [[Diane]] 
+> > - [[Phoebe]]
+> > - [[Veldrin]]
 > > - [[Weary Quest]] 
-> > - [[Jiminey Frickit]]
+> > - [[Jiminey|Jiminey Frickit]]
 >
 > > [!blank]
 > > - Gains scene 1
 > > ---
 > > - Gains scene 2
 >
-> > [!todo|brown]
+> > [!todo|brown no-icon no-title]
 > > ## Locations
 > > - [[Tangambalanga]] 
 > > - [[Crownsburrow]] 
 > > - [[Griffin Capital]] 
 > > - [[Isabelle's Castle]] <span class="new-tag">new</span>
 > 
-> > [!todo|green] 
+> > [!todo|green no-icon no-title] 
 > > ## People 
 > > - Person 
 > 
@@ -59,17 +60,17 @@ tags:
 
 **Summary**: `INPUT[text:summary]`
 ## The Sun Rises over Tangambalanga 
-Trees are being brought back, plains recovering, people flooding the citadel and interacting, Weary's parents are back! 
+Trees are being brought back, plains recovering, people flooding the citadel and interacting, [[Weary]]'s parents are back! 
 It's been 4 days since the last fight, things are continuing to return to normal 
 We are having breakfast at a large dinner table 
-[[Jiminey Frickit]] slaps [[Campaigns/Sands of Desolation/Da Party/Weary Quest|Weary]] on the back (friendly) and Weary chokes 
-As Weary speaks, he feels a crack in his spine as his CON is lowered by 2, receiving a grievous wound 
+[[Jiminey]] slaps [[Weary|Weary]] on the back (friendly) and Weary chokes 
+As [[Weary]] speaks, he feels a crack in his spine as his [[Constitution|CON]] is lowered by **2**, receiving a **grievous wound** 
 The shattering left a scar on his mortal soul. Weary doesn't know it's from this tho 
 We decide to go to [[Crownsburrow]] to meet with her highness Isabelle of the Griffin Empire and [[Unite the Griffin Empire]]
 ## Empty Market at the Crossroads 
 Immediately something is off, there are red banners everywhere, the normally bustling crossroads are empty 
 Local militia is on the rise, new knights with spiky edges and horns march the street, look like [[Oathbreaker|Oathbreaker Paladins]] 
-Gork is still in the shelf 
+[[Gork]] is still in the shelf 
 We can't see the paladin's eyes, but they aren't immediately interfering 
 ![[Red Templar.jpg|200x200]]
 Weary mentions meeting the Queen, the other guards definitely overheard us 

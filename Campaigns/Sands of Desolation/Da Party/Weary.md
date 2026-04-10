@@ -4,14 +4,16 @@ date: 04-09-2026
 campaign: Sands of Desolation
 world: Wiley's World
 status: Alive
-summary:
+summary: Wild Magic Sorcerer
 attitude: Indifferent
 alignment: Unaligned
 aliases:
+  - Weary Quest
+  - Weary Consistently Chaotic Oddball Quest
 tags:
 ---
 
-# [[Diane Aceso Quest]]
+# [[Weary Quest]]
 *`=this.summary`*
 
 #### Overview 

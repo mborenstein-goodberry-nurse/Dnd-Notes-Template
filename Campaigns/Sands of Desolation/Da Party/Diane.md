@@ -1,20 +1,18 @@
 ---
-type: Creatures
-subtype: Player Character
-date: 03-29-2026
-Art: "![[ImagePlaceholder.png]]"
+type: NPC
+date: 04-09-2026
 campaign: Sands of Desolation
-world: WIley's World
-summary: Fairy King whose kingdom was stolen from him, looking for his son
-status: Alive and Hard AF
+world: Wiley's World
+status: Alive
+summary:
+attitude: Indifferent
+alignment: Unaligned
 aliases:
-  - Thornwick
+  - Diane Aceso Quest
 tags:
-attitude: Helpful
-alignment: Chaotic Good
 ---
 
-# [[Thornwick Nightshade]]
+# [[Diane]]
 *`=this.summary`*
 
 #### Overview 
@@ -22,7 +20,7 @@ alignment: Chaotic Good
 
 **Status**: `INPUT[text:status]`
 **Aliases**: `INPUT[inlineList:aliases]`
-**Attitude**: `INPUT[inlineSelect(option(Mine), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+**Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 **Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
 **Summary**: `INPUT[text:summary]`
 
@@ -32,13 +30,7 @@ alignment: Chaotic Good
 #### Relationships
 
 
-#### Unique Abilities  
-
-
-### Inventory 
-
-
-#### History 
+#### Interactions/Appearances
 
 
 ### Additional Details 

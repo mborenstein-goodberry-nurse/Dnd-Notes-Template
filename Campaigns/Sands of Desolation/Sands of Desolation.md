@@ -91,7 +91,7 @@ sort sessionNum DESCENDING
 ### The Party 
 **Me**: 
 - [[Weary Quest]]
-- [[Diane Aceso Quest]]
+- [[Diane]]
 - [[Waffles]]
 **Others**:
 ```dataview

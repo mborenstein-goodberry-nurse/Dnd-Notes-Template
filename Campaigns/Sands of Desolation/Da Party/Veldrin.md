@@ -1,13 +1,14 @@
 ---
 type: Creatures
 subtype: Player Character
-date: 04-07-2026
+date: 04-03-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: Sands of Desolation
 world: Wiley's World
-summary: Bird friend from the last campaign
-status: Alive and Well
-aliases: []
+summary: Elf who survived the Fey battle, lived in a cave for a while, then returned
+status: Mossy
+aliases:
+  - Veldrin Demos
 tags:
 attitude: Helpful
 alignment: Lawful Good
