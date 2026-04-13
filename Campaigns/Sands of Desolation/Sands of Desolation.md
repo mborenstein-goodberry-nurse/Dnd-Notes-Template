@@ -74,9 +74,9 @@ const campaign = dv.current().campaign;
 
 const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
-    .where(q => String(q.status ?? "").toLowerCase() === "active")
-    .sort(q => Number(q.questNum ?? 999), "asc")
-    .sort(q => Number(q.priority ?? 999), "asc");
+    .where(q => String(q.status ?? "").toLowerCase() === "active")  
+    .sort(q => Number(q.questNum ?? 999), "desc")
+	.sort(q => Number(q.priority ?? 999), "asc");
 
 if (quests.length > 0) {
     dv.paragraph(`![[${quests[0].file.path}]]`);
@@ -84,7 +84,7 @@ if (quests.length > 0) {
     dv.paragraph("*No active quests found.*");
 }
 ```
-
+|${quests[0].file.n}
 ### Active
 ```dataview
 TABLE summary as "Summary" 
