@@ -68,6 +68,24 @@ action QuickAdd: Macro - New Note
 --- end-multi-column
 
 ## [[Campaigns/Sands of Desolation/Quest Board/Quest Board|Quest Board]] 
+### Main Quest 
+```dataviewjs 
+const campaign = dv.current().campaign;
+
+const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+    .where(q => String(q.type ?? "").toLowerCase() === "quest")
+    .where(q => String(q.status ?? "").toLowerCase() === "active")
+    .sort(q => Number(q.questNum ?? 999), "asc")
+    .sort(q => Number(q.priority ?? 999), "asc");
+
+if (quests.length > 0) {
+    dv.paragraph(`![[${quests[0].file.path}]]`);
+} else {
+    dv.paragraph("*No active quests found.*");
+}
+```
+
+### Active
 ```dataview
 TABLE summary as "Summary" 
 from "Campaigns/Sands of Desolation/Quest Board"
