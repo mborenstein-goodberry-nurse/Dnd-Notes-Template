@@ -136,7 +136,8 @@ where file.name != "Maps"
 sort file.name ASC
 ```
 ```dataview
-TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/World Almanac/Places"
+TABLE size as "Size", attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Sands of Desolation/Places"
 where file.name != "Places"
 sort file.name ASC
 ```
