@@ -33,7 +33,7 @@ action QuickAdd: Macro - New Quest
 TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
-sort questNum ASCENDING
+sort questNum DESCENDING
 sort priority ASCENDING
 ```
 
@@ -42,6 +42,6 @@ sort priority ASCENDING
 TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
 where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
-sort questNum ASCENDING
+sort questNum DESCENDING
 ```
 

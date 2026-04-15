@@ -1,15 +1,16 @@
 ---
 type: Group
-date: 04-03-2026
+date: 04-15-2026
 campaign: Sands of Desolation
-world: WIley's World
+world: Wiley's World
 tags:
-status: Restored
-size: Large Town
-attitude: Helpful
-summary: "[[Weary]]'s Hometown"
+size: Manor/Castle
+attitude: Indifferent
+status: Safe and Standing
+summary: Castle of the Raven Queen, with her servants working to save her
+ali:
 ---
-# [[Tangambalanga]]
+# [[Castle Ravenbrook]]
 *`=this.summary`*
 
 #### Overview 

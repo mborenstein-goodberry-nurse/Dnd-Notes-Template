@@ -124,7 +124,7 @@ sort file.name ASC
 
 ### Other Characters 
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/World Almanac/People"
+TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/People"
 where file.name != "People"
 sort file.name ASC
 ```

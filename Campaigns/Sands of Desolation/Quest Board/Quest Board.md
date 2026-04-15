@@ -33,15 +33,16 @@ action QuickAdd: Macro - New Quest
 TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
-sort questNum ASCENDING
-sort priority DESCENDING
+sort questNum DESCENDING
+sort priority ASCENDING
 ```
 
 ### Completed
 ```dataview
-TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
+TABLE summary as "Summary" 
+from "Campaigns/Sands of Desolation/Quest Board"
 where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
-sort questNum ASCENDING
+sort questNum DESCENDING 
 ```
 

@@ -1,36 +1,39 @@
 ---
 type: Quest
-subtype: Other
-priority: 5
-questNum: <% tp.user.getThisQuestNum(tp) %>
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-fc-calendar: <% tp.user.getThisWorld(tp) %>
+subtype: Lore
+priority: 2
+questNum: 47
+date: 04-15-2026
+campaign: Sands of Desolation
+world: Wiley's World
+location:
+fc-calendar: Wiley's World
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Active
+status: Completed
+summary: Find Wynn's home to see if there is a way inside the city of brass
 tags:
 ---
-### [[<% tp.file.title %>]]
+### [[Find Wynn's Home]]
 *`=this.summary`*
 
 #### Overview 
 **Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Other)):subtype]`
 **Priority**: `INPUT[inlineSelect(option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
 
-Placeholder
+Find Wynn's home to see if there is a way inside the city of brass
 
 #### Progression
-- [ ] Task
+- [x] Find Wynn's Home 
+- [x] See if there's a way into the City of Brass 
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-Money
+A way into the city of brass
 
 #### Additional Details 
