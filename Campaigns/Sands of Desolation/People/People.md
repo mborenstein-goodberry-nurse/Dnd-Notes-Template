@@ -5,7 +5,7 @@ campaign: Sands of Desolation
 world: WIley's World
 ---
 ```dataview
-TABLE summary as "People" from "Campaigns/Sands of Desolation/World Almanac/People"
+TABLE summary as "People" from "Campaigns/Sands of Desolation/People"
 where file.name != "People"
 sort file.name ASC
 ```

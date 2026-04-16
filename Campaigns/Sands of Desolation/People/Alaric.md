@@ -5,13 +5,14 @@ campaign: Sands of Desolation
 world: WIley's World
 status: Alive
 summary:
-attitude: Indifferent
+attitude: Hostile
 alignment: Unaligned
 aliases:
+  - Alaric the Red Bishop
 tags:
 ---
 
-# [[Alarac the Red Bishop]]
+# [[Alaric the Red bishop]]
 *`=this.summary`*
 
 #### Overview 
@@ -30,7 +31,7 @@ tags:
 
 
 #### Interactions/Appearances
-
-
+[[Hit the Ground Running#^e34f24|Hit the Ground Running]] 
+[[Omnomicon Question Session|Omnomicon Question Session]] 
 ### Additional Details 
 
