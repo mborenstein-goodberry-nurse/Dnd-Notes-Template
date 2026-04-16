@@ -1,36 +1,31 @@
 ---
-type: NPC
-date: 04-03-2026
+type: Group
+subtype: Government
+date: 04-15-2026
 campaign: Sands of Desolation
-world: WIley's World
-status: Alive
-summary:
-attitude: Indifferent
+world: Wiley's World
+status: Unknown
+summary: "[[Thornwick]]'s kingdom before he was banished from the Feywild"
+attitude: Friendly
 alignment: Unaligned
-aliases:
 tags:
 ---
 
-# [[Alarac the Red Bishop]]
+# [[Fey Fairy Alliance]]
 *`=this.summary`*
 
-#### Overview 
-![Alarac|140x200](Alarac the Red Bishop.jpg) 
+### Overview 
+![Placeholder Iconography|200x140](ImagePlaceholder.png)
 
 **Status**: `INPUT[text:status]`
-**Aliases**: `INPUT[inlineList:aliases]`
 **Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 **Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
 **Summary**: `INPUT[text:summary]`
 
-#### Description
-
+### Involved Persons
+[[Thornwick]] 
 
 #### Relationships
 
 
-#### Interactions/Appearances
-
-
 ### Additional Details 
-

@@ -114,7 +114,7 @@ The Red Banner is everywhere, propaganda galore
 Other Manticores are perched on the many spires, wizard spire has many mages, the castle looms over the capital. 
 Isabelle recognizes that this is not the rule of a monarch, but that of a tyrant. Tons of fear amongst even the guards 
 Some of the guards have infernal markings across their armor 
-We enter the castle. It's like a ballroom, and on the Podium is a blond gentleman. [[Alarac the Red bishop]], the Red/Grand Bishop (1:17:00) 
+We enter the castle. It's like a ballroom, and on the Podium is a blond gentleman. [[Alarac the Red Bishop]], the Red/Grand Bishop (1:17:00) 
 Not letting us see the Queen without some kind of offering 
 ![[Alarac the Red Bishop.jpg|140x200]]
 Isabelle sees that the contract is actually a devil's contract to immediately sell their soul, and inflicts a penace
