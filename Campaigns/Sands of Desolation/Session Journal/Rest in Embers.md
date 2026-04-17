@@ -43,7 +43,7 @@ tags:
 > > [!blank]
 > > - We enter [[Ember's Rest]]
 > > ---
-> > - We encounter Wynn's sister [[Tessa]]
+> > - We encounter [[Wynn]]'s sister [[Tessa]]
 > > - We encounter the leader of [[Ember's Rest]]: [[Chalar-Nali]]
 > > ---
 > > - We gain multiple items in the armory: 
@@ -67,7 +67,7 @@ tags:
 
 **Summary**: `INPUT[text:summary]`
 ## Ember's Rest 
-We are making our way to Wynn's people, at [[Ember's Rest]]
+We are making our way to [[Wynn]]'s people, at [[Ember's Rest]]
 [[Jonks]]  feels a presence against his soul (Review, 10:00)
 People are dead, slaughtered around the streets. Fires burning the buildings
 [[Wynn]] is running towards his family home 
@@ -101,26 +101,26 @@ This probably happened a long while back. The only reason most of them are alive
 [[Arthur or Damien or Soren|Damien's]] illusion catches up with [[Wynn]] 
 [[Waffles]] and [[Aldren]] sense an undead presence and go after it 
 [[Ozzy]] trips [[Wynn]] as he runs out of the building. [[Thornwick|Thornwick]] is crushed by [[Wynn]] and shits himself, [[Wynn]] saves his sister but skids, and [[Ozzy]]  acts innocent. [[Arthur or Damien or Soren|Damian]] heals her with a **3rd level [[cure wounds]]** 
-Wynn's sister says that they were attacked by the [[Fox]] (1:12:00) 
+[[Wynn]]'s sister says that they were attacked by the [[Fox]] (1:12:00) 
 [[Jonks]] learns the Shadar-Kai in the Elegant Armor's name is [[Chalar-Nali]]. Char is an ok nickname
-[[Jonks]] begins spreading rumors about Wynn (1:13:00)
+[[Jonks]] begins spreading rumors about [[Wynn]] (1:13:00)
 - Thinks the village is all snooty 
 - Hates the Raven Queen 
 
-Waffles senses a fiend and an undead approaching, He and the Sand Soldier ambush them 
+[[Waffles]] senses a fiend and an undead approaching, He and the Sand Soldier ambush them 
 Oops it's [[Jonks]] and his undead 
 [[Jonks]] tells me and [[Aldren]] his story 
 [[Nali]] gives me daggers :) 
 [[Thornwick]] cuts a piece of my [[displacer cloak]], and uses it to wipe his ass 
 [[Chalar-Nali]] decides she's done with me (1:44:00)
 [[Chalar-Nali]] reveals that they were attacked by the Fox and Nightwalkers, blamed for the nearby forest fire 
-She recognizes Wynn. Wynn recognizes her as the leader of the encampment 
+She recognizes [[Wynn]]. [[Wynn]] recognizes her as the leader of the encampment 
 "Until you realize the banishment came not from punishment but pain, we will not get along" (1:53:00) - [[Chalar-Nali]] 
 Tasked by [[Chalar-Nali]] to [[Destroy the Spires]]:
 There are 3 great beacons working to converge the planes together. If we can disable 2 of them, we stand a fighting chance to prevent the planes merging. We'll use their light bombs (2 per) at the base of the spires to disable them. We could gain their assistance if we did, and it would prevent the planes merging. She can also provide a way into the City of Brass 
 The bombs are about a sack big, and have a large blast radius
 Each Spire is guarded by 1 or 2 [[Nightwalkers]] 
-Wynn will have to look into himself to negotiate his banishment 
+[[Wynn]] will have to look into himself to negotiate his banishment 
 [[Chalar-Nali]] guides us to the armory to help equip us (2:00:00)
 - 3 shadow swords 
 - 6 light bombs

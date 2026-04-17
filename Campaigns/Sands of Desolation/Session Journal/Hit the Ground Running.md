@@ -94,7 +94,7 @@ Takes us about an hour to take us to the inner wall, also called the Upper Level
 We turrets, ballista, and the like along the walls, although they don't seem to be armed or even up to date, long overdue for refurbishment. Every corner and tile has great guard towers 
 Guards are a mix of nromal guards and Red Templars, noticable infighting and tensions between them
 The Red Templars seem to be much younger than other guards, like early 20s if human, as opposed to the more seasoned veterans who do not wear the Red Insignia 
-Mid afternoon now. Diane starts to look for a town to stay in, Veldrin is *pushing* to get there ASAP. he convinces the horses to push through the night to get into the capital 
+Mid afternoon now. [[Diane]] starts to look for a town to stay in, Veldrin is *pushing* to get there ASAP. he convinces the horses to push through the night to get into the capital 
 We reach the road directly into the Capital. We don't see many travelers on the road, we enter an early dusk as the moon turns blood red 
 We all roll a Wisdom Save, even the horses. The DC was a 15 
 Dusk, Boofy, Veldrin, and Hizzidoux **Fail** the save 
@@ -124,7 +124,7 @@ Isabelle sees that the contract is actually a devil's contract to immediately se
 Too late though, [[Jimminey]] already signed it 
 2 additionally decorative guards flank us and take us to the Red Queen 
 [[Weary]] casts [[True Seeing]] on [[Veldrin]] 
-[[Alaric]] takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how Diane remembers her 
+[[Alaric]] takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how [[Diane]] remembers her 
 Veldrin and [[Weary]] see her for who she really is 
 ![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
 [[Jimminey]] casts [[Heat Metal]], and reveals her for who she is 

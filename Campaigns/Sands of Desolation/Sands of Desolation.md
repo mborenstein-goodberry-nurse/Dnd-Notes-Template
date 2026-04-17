@@ -116,8 +116,8 @@ sort sessionNum DESCENDING
 TABLE attitude as "Attitude", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Da Party"
 where file.name != "Da Party"
-where file.name != "[[Weary|Weary Quest]]"
-where file.name != "Diane Aceso Quest"
+where file.name != "Weary"
+where file.name != "Diane"
 where file.name != "Waffles"
 sort file.name ASC
 ```

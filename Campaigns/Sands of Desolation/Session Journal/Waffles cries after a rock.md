@@ -61,11 +61,11 @@ Oh shit its a bear in a flail shell!
 
 > [!summary] Initiative 
  >- Bear
- >- Waffles 
+ >- [[Waffles]] 
  >- Caspian 
  >- [[Aldren]] 
  >- [[Arthur or Damien or Soren|Damian]] 
 
 And then we killed it 
 We share our stories 
-Waffles ends up revealing that he once was a person, and 
+[[Waffles]] ends up revealing that he once was a person, and 

@@ -7,13 +7,16 @@ campaign: Sands of Desolation
 world: WIley's World
 summary: Awakened bear sent to defeat Thornwick
 status: On the Hunt
-aliases: []
+aliases:
+  - Bear
+  - Wanton Bearcrest
+  - Bear Crest
 tags:
 attitude: Friendly
 alignment: Lawful Good
 ---
 
-# [[Bear Crest]]
+# [[BearCrest]]
 *`=this.summary`*
 
 #### Overview 

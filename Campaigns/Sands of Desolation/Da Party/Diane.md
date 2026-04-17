@@ -9,6 +9,7 @@ attitude: Indifferent
 alignment: Unaligned
 aliases:
   - Diane Aceso Quest
+  - Diane Quest
 tags:
 ---
 
