@@ -41,7 +41,7 @@ There are 3 great beacons working to converge the planes together. If we can dis
 #### Rewards 
 1. Gain the assistance of the remaining armies of [[Ember's Rest]] and the [[Shadar-Kai]] 
 2. Prevent the planes merging 
-3. Find a way into the City of Brass, to save Thornwick's Son  
+3. Find a way into the City of Brass, to save [[Thornwick]]'s Son  
 
 #### Additional Details 
 How to ignite the [[Light Bomb]]s:  ^13b20e
