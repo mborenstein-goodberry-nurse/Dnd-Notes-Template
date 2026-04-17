@@ -51,7 +51,7 @@ tags:
 ## Log
 We are making our way to the castle Ravenbrook 
 Only 2 people in the party have cocks 
-[[Ozzie]] has a metaphorical cock length of 28 inches 
+[[Ozzy]] has a metaphorical cock length of 28 inches 
 I offended Aaldrin by mentioning his dead father 
 "We need a footing in the Shadowfell, so we assistance to get inside, and the occupants could help us get inside the city of brass" 
 We proceed along, the ground weighs against us, pulling us into the earth 
@@ -59,7 +59,7 @@ Various extrusions from the earth, mounds of old bodies. Ruins of old, ancient b
 Looks like the Aceso Aide cart before we repaired the explosion damage 
 It's tipped on its side, the door is half open, a few corpses on and a few more around it
 There is a small tipped chest on its side in the cart, no chains, no runes 
-[[Ozzie]] hides the chest from us as we approach
+[[Ozzy]] hides the chest from us as we approach
 [[Jonks]] casts [[Speak with Dead]], 5 questions! 
 1. How long has this cart been here? For maybe 80 years 
 2. Do you know the safest route to the castle? The castle we were headed to was unsafe 
@@ -67,7 +67,7 @@ There is a small tipped chest on its side in the cart, no chains, no runes
 4. With this parchment and pen, will you please draw a map of what you just said? With what arms? With yo mouth, bitch!   *Draws a pretty decent map*
 5. Does it matter to you or your god if you're buried? I have no god, but I hope my king is alive 
 
-[[Ozzie]] tries to open the chest, and the lock crumbles instantly, she is barely able to open the chest 
+[[Ozzy]] tries to open the chest, and the lock crumbles instantly, she is barely able to open the chest 
 There is a large dull gem the size of a bowling ball-ish 
 The trees push into the trail, tightening it. Blights move through the world, animals get eaten, first watch passes without notice 
 Second watch, goes without major incident 
@@ -82,14 +82,14 @@ Four pairs of eyes, as the creatures lift up, showing their strange appendages, 
 
 > [!summary] Initiative! 
 > 1. Damien 
-> 2. [[Ozzie]] 
+> 2. [[Ozzy]] 
 > 3. [[Jonks]] 
 > 4. Monsters 
 > 5. [[Thornwick]] 
 > 6. Waffles 
 > 7. Aaldrin 
 
-[[Ozzie]] is [[Invisible]] 
+[[Ozzy]] is [[Invisible]] 
 [[Jonks]] is going some crazy work with fireballs 
 We made it to Grobnak Peak
 The dark aura is on [[Thornwick]] too 

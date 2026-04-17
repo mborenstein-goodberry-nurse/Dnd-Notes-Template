@@ -14,7 +14,7 @@ attitude: Mixed
 alignment: Chaotic Evil
 ---
 
-# [[Ozzie]]
+# [[Ozzy]]
 *`=this.summary`*
 
 #### Overview 

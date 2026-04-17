@@ -55,7 +55,7 @@ Wynn is being questioned
 Nvm adhd bit 
 [[Jonks]] is suffering from Amnesia 
 [[Jonks]] is cured from Amnesia 
-[[Ozzie]] locks the door behind us, 31
+[[Ozzy]] locks the door behind us, 31
 Thieves Cant is achieved by flapping your hands from crossed arms to vertical 
 We are trying everything but we can't beat a 31 
 [[Jonks]] fell off a wall and landed on Wynn 
@@ -67,7 +67,7 @@ Wynn lets me shoulder surf as we enter
 Aaldrin tried to decode Kenku language, but cant 
 oops he also has amnesia now 
 Wynn and I follow Bernard up to (presumably) the master's room 
-[[Ozzie]] locks the door before us 
+[[Ozzy]] locks the door before us 
 The master's name is Frail Grim, and she is a Nagpa
 [[Thornwick]] is trying to get back on good terms with Aaldrin 
 We cure Aaldrin and finally make it into the master's room 
@@ -82,10 +82,10 @@ Frail decides Wynn is definitely cursed
 The Fox started taking over the Shadowfell a year ago, around the time when Wynn disappeared 
 She is a curator of the Raven Queen's stuff 
 Magic orb gives you the abilities of those you kill, gives soldiers strength, item of the Raven Queen's so Frail is connected to it 
-[[Ozzie]] is pregonate with twinsss, not sharing how far along she is 
+[[Ozzy]] is pregonate with twinsss, not sharing how far along she is 
 she reveals a large gem in her belly and aborts it???
 [[Jonks]] is permanently branded with the brand of the Raven Queen 
-[[Thornwick]] tries to keep the chest from [[Ozzie]] 
+[[Thornwick]] tries to keep the chest from [[Ozzy]] 
 She manages to pick it somehow, and gets a blue dragon whistle 
 She also finds a large soul gem 
 [[Thornwick]] gets the soul gem and puts it in his [[Bag of Holding]] 
@@ -93,4 +93,4 @@ It contains 20-50 souls
 A dagger was used to try and break the gem, but the dagger warped and was totaled 
 The soul gem contains its max of 50 souls 
 It can only be sanctified by an absolute sanctification by an arch bishop 
-[[Ozzie]] has the whistle. it's a magical whistle... 
+[[Ozzy]] has the whistle. it's a magical whistle... 
