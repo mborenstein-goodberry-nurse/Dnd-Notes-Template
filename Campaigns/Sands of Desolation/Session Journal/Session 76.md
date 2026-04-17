@@ -27,10 +27,10 @@ tags:
 > > | ✦ Session | *Session 76* |
 > > | ✦ Date| *04-17-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
-> > 
+> 
 > > *`=this.summary`*
 >
-> > [!blank]
+> > [!todo|cyan no-title no-icon]
 > > - Gains scene 1
 > > ---
 > > - Gains scene 2
@@ -47,5 +47,4 @@ tags:
 > > ## Previous Session 
 > > [[Campaigns/Sands of Desolation/Session Journal/Hit the Ground Running|Hit the Ground Running]]
 
-**Summary**: `INPUT[text:summary]`
-## Corrupted Castle Calamity
+### Corrupted Castle Calamity

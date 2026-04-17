@@ -10,7 +10,7 @@ fc-date:
   month: <% tp.user.getThisDate(tp)[1] %>
   day: <% tp.user.getThisDate(tp)[2] %>
 fc-category: Sessions
-summary: ""
+summary:
 tags:
 ---
 <div class="session-hero">
@@ -18,7 +18,6 @@ tags:
 </div> 
 <% await tp.file.rename(`Session `+tp.user.getThisGameNum(tp)) %>
 
-*`=this.summary`*
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
 > ✦ 
@@ -29,8 +28,10 @@ tags:
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
 > > | ✦ Game | *`=this.fc-date`* |
+> 
+> > *`=this.summary`*
 >
-> > [!blank]
+> >[!blank]
 > > - Gains scene 1
 > > ---
 > > - Gains scene 2
@@ -47,4 +48,5 @@ tags:
 > > ## Previous Session 
 > > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
 
-**Summary**: `INPUT[text:summary]`
+### Log
+

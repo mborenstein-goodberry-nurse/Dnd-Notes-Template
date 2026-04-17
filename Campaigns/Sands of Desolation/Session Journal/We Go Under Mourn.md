@@ -2,59 +2,53 @@
 type: session
 date: 02-27-2026
 campaign: Sands of Desolation
-world: WIley's World
-sessionNum:
-location:
+world: Wiley's World
+sessionNum: 70
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-long_rest: false
-short_rest: false
-summary: ""
+summary: "We enter the Shadowfell with our new mission, and meet River's Character: Caspian!"
 tags:
-art: ""
-banner: z_Assets/Campfire Night.jpg
-banner-fade: -70
-banner-radius: 38
-banner-x: 53
-banner-y: 37
-pixel-banner-flag-color: blue
 ---
-# [[001. 02-27-2026 We Go Under Mourn]]
-*`=this.summary`*
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
 
-## Session Summary
-> [!fas-infobox]+
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ✦ 
 > ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |
 > 
-> ![[obsidian.png|cover]]
+> > *`=this.summary`*
+>
+> >[!blank]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
 > 
-> ![[aurora.png|icon]]
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
 > 
-> ## Header 2
-> | Table Header | Table Header |
-> | ---- | --- |
-> | Text | Text |
-> | Text | Text |
-> 
-> Nam dignissim dui vitae turpis cursus condimentum. Curabitur lobortis dolor urna, et dapibus elit ornare et
-> 
-> > [!footer]
-> > Sed metus metus, condimentum at vulputate ac, accumsan sed metus. Donec in faucibus sapien.
- > [!tldr] [[001. 02-27-2026 We Go Under Mourn]]
->  ^summary
+> > [!footer] 
+> > ## Previous Session 
+> > [[Campaigns/Sands of Desolation/Session Journal/Session 76|Session 76]]
 
-**Summary**: `INPUT[text:summary]`
-
-## Recap
-
-![[Campaigns/Sands of Desolation/Session Journal/0. 2025-12-01#^summary]]
-
-## Log
+### Log
 We are the Mexican flag 
 Our Mission: to infiltrate the Fox's hideout and sever the connection between the Shadowfell and the Material Plane 
 [[Wynn]] was part of the Shadowfell, until he was banished by the Raven Queen 
@@ -88,19 +82,19 @@ We back off immediately
 Fleeeeeeeee
 We see a cave, with a creature inside. They have a lamp, otherwise don't look hostile, look like a bug creature. She is colored 
 The forest behind us is ablaze, that grove is burning. Predators are running towards the flame, including Nightwalkers 
-INTRODUCING RIVER'S CHARACTER: Caspian 
+INTRODUCING RIVER'S CHARACTER: [[Caspian]] 
 2:34:45 
 > Silvery black bug in armor, pic can follow 
 
 The bug is confused by our antics. Great start 
-Caspian is here to bring light to the darkness of Shadowfell 
+[[Caspian]] is here to bring light to the darkness of Shadowfell 
 [[Thornwick]] is making a good first impression 
-Caspian knows how to get to Castle Ravenbrook 
+[[Caspian]] knows how to get to Castle Ravenbrook 
 [[Arthur or Damien or Soren|Damien]] has 3 imaginary friends :) 
 Gay recognizes Gay 
 [[Wynn]]'s parents didn't know about [[Wynn]]'s banishment, so they could still be allied 
 [[Thornwick]] does Magical Awareness to look for any magical spies. There is a lot of necromancy, concentration of similar vibes on [[Waffles]], others on the party, small amount of divination further in the cave 
-Small illusionary firefly with divination magic. it's not Caspian's 
+Small illusionary firefly with divination magic. it's not [[Caspian]]'s 
 It's Narcai, she's the firefly 
 [[Thornwick]] asks [[Wynn]] about his branding. It's a full Fox Head brand 
-[[Wynn]] and Caspian arm wrestle to determine where we will go. Caspian Nat 20s and wins easily 
+[[Wynn]] and [[Caspian]] arm wrestle to determine where we will go. [[Caspian]] Nat 20s and wins easily 

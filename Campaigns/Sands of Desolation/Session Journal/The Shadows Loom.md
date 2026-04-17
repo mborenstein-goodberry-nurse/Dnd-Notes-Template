@@ -45,7 +45,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Session 76|Session 76]]
+> > [[We Go Under Mourn]]
 
 **Summary**: `INPUT[text:summary]`
 ## Log
