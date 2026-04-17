@@ -3,14 +3,14 @@ type: session
 date: 03-06-2026
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 73
+sessionNum: 71
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary: We traverse through Shadowfell, and learn of the dangers
+summary: We travel through the Shadowfell, learning of the dangers along the way
 tags:
 ---
 <div class="session-hero">
@@ -61,11 +61,11 @@ It's tipped on its side, the door is half open, a few corpses on and a few more 
 There is a small tipped chest on its side in the cart, no chains, no runes 
 [[Ozzy]] hides the chest from us as we approach
 [[Jonks]] casts [[Speak with Dead]], 5 questions! 
-1. How long has this cart been here? For maybe 80 years 
-2. Do you know the safest route to the castle? The castle we were headed to was unsafe 
-3. Can you tell me how to get safely to Ravenbrook? Take the Leechway Path through the Oakshire Woods, then the Mountain of Gorbknack 
-4. With this parchment and pen, will you please draw a map of what you just said? With what arms? With yo mouth, bitch!   *Draws a pretty decent map*
-5. Does it matter to you or your god if you're buried? I have no god, but I hope my king is alive 
+1. How long has this cart been here? *For maybe 80 years* 
+2. Do you know the safest route to the castle? *The castle we were headed to was unsafe* 
+3. Can you tell me how to get safely to Ravenbrook? *Take the Leechway Path through the Oakshire Woods, then the Mountain of Gorbknack* 
+4. With this parchment and pen, will you please draw a map of what you just said? *With what arms?* With yo mouth, bitch!   *Draws a pretty decent map*
+5. Does it matter to you or your god if you're buried? *I have no god, but I hope my king is alive* 
 
 [[Ozzy]] tries to open the chest, and the lock crumbles instantly, she is barely able to open the chest 
 There is a large dull gem the size of a bowling ball-ish 

@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: ""
+summary: We reach and explore [[Castle Ravenbrook]]
 tags:
 ---
 <div class="session-hero">
@@ -27,7 +27,7 @@ tags:
 > > |   |   | 
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *03-13-2026* |
+> > | ✦ Date| *`=this.date`* |
 > > | ✦ Game | *`=this.fc-date`* |
 >
 > > [!blank]
@@ -45,7 +45,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Session 76|Session 76]]
+> > [[The Shadows Loom|The Shadows Loom]]
 
 **Summary**: `INPUT[text:summary]`
 ## Log

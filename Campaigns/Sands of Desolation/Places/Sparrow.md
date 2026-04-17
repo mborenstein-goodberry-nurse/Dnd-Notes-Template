@@ -4,6 +4,10 @@ date: 04-03-2026
 campaign: Sands of Desolation
 world: Wiley's World
 tags:
+status: Still fine I think
+size: Small Village
+attitude: Friendly
+summary: "[[Arthur or Damien or Soren|Arthur/Damien/Soren's]] hometown"
 ---
 # [[Sparrow]]
 *`=this.summary`*
@@ -17,7 +21,7 @@ tags:
 **Summary**: `INPUT[text:summary]`
 
 #### Description
-
+ 
 
 #### Relationships
 

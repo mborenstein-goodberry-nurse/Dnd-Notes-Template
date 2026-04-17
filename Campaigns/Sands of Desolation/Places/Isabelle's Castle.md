@@ -4,6 +4,10 @@ date: 04-03-2026
 campaign: Sands of Desolation
 world: WIley's World
 tags:
+size: Manor/Castle
+attitude: Mixed
+status: Corrupted
+summary: "Capital Castle of the Griffen EmpireBeing ruled by [[Biara]] "
 ---
 # [[Isabelle's Castle]]
 *`=this.summary`*

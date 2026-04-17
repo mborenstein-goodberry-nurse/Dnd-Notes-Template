@@ -1,6 +1,6 @@
 ---
 type: session
-date: 03-20-2026
+date: 03-06-2026
 campaign: Sands of Desolation
 world: Wiley's World
 sessionNum: 73
@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: ""
+summary: We traverse through Shadowfell, and learn of the dangers
 tags:
 ---
 <div class="session-hero">
@@ -27,7 +27,7 @@ tags:
 > > |   |   | 
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *04-17-2026* |
+> > | ✦ Date| *`=this.date`* |
 > > | ✦ Game | *`=this.fc-date`* |
 >
 > > [!blank]
@@ -49,23 +49,47 @@ tags:
 
 **Summary**: `INPUT[text:summary]`
 ## Log
-Refresh our goal: find a way to the Fox's place, ideally one that doesn't alert him
-Sewer entrance is 3 days away, the encampment is 1 day away 
-Caspian doesn't like the sewer entrance from Fell Grim, she'd rather look for an alternative route 
-We see a rock on our way to the encampment 
-It's a distraction 
-It's not a rock, it's a shell 
-The shell of an undead creature, living in a giant snail shell. Specifically a flail snail shell, covered in soot 
-Caspian goes to take a look 
-Oh shit its a bear in a flail shell!
+We are making our way to the [[astle Ravenbrook]] 
+Only 2 people in the party have cocks 
+[[Ozzy]] has a metaphorical cock length of 28 inches 
+I offended [[Aldren]] by mentioning his dead father 
+"We need a footing in the Shadowfell, so we assistance to get inside, and the occupants could help us get inside the city of brass" 
+We proceed along, the ground weighs against us, pulling us into the earth 
+Various extrusions from the earth, mounds of old bodies. Ruins of old, ancient battles 
+Looks like the Aceso Aide cart before we repaired the explosion damage 
+It's tipped on its side, the door is half open, a few corpses on and a few more around it
+There is a small tipped chest on its side in the cart, no chains, no runes 
+[[Ozzy]] hides the chest from us as we approach
+[[Jonks]] casts [[Speak with Dead]], 5 questions! 
+1. How long has this cart been here? For maybe 80 years 
+2. Do you know the safest route to the castle? The castle we were headed to was unsafe 
+3. Can you tell me how to get safely to Ravenbrook? Take the Leechway Path through the Oakshire Woods, then the Mountain of Gorbknack 
+4. With this parchment and pen, will you please draw a map of what you just said? With what arms? With yo mouth, bitch!   *Draws a pretty decent map*
+5. Does it matter to you or your god if you're buried? I have no god, but I hope my king is alive 
 
-> [!summary] Initiative 
- >- Bear
- >- [[Waffles]] 
- >- Caspian 
- >- [[Aldren]] 
- >- [[Arthur or Damien or Soren|Damian]] 
+[[Ozzy]] tries to open the chest, and the lock crumbles instantly, she is barely able to open the chest 
+There is a large dull gem the size of a bowling ball-ish 
+The trees push into the trail, tightening it. Blights move through the world, animals get eaten, first watch passes without notice 
+Second watch, goes without major incident 
+We're all making Wisdom saves during our shifts
+Third watch, [[Arthur or Damien or Soren|Soren]] and [[Jonks]] want to murder 
+LONG REST 
+The path is missing, after we cast our feelings into the void 
+Dim light everywhere 
+We make our way to the Oakshire Woods up on a broken bit of pathway 
+There are some weird things in the distance. Not people, more like grotesque and pale 
+Four pairs of eyes, as the creatures lift up, showing their strange appendages, a herd of them make their way closer 
 
-And then we killed it 
-We share our stories 
-[[Waffles]] ends up revealing that he once was a person, and 
+> [!summary] Initiative! 
+> 1. [[Arthur or Damien or Soren|Damien]] 
+> 2. [[Ozzy]] 
+> 3. [[Jonks]] 
+> 4. Monsters 
+> 5. [[Thornwick]] 
+> 6. [[Waffles]] 
+> 7. [[Aldren]] 
+
+[[Ozzy]] is [[Invisible]] 
+[[Jonks]] is going some crazy work with fireballs 
+We made it to Grobnak Peak
+The dark aura is on [[Thornwick]] too 
