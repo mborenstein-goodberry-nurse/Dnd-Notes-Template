@@ -63,7 +63,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Waffles cries after a rock]]
+> > [[Waffles Cries After a Rock]]
 
 **Summary**: `INPUT[text:summary]`
 ## Ember's Rest 

@@ -1,24 +1,22 @@
 ---
 type: session
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-sessionNum: <% tp.user.getThisGameNum(tp) %>
-fc-calendar: <% tp.user.getThisCampaign(tp) %>
+date: 04-17-2026
+campaign: Sands of Desolation
+world: Wiley's World
+sessionNum: 76
+fc-calendar: Sands of Desolation
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 fc-category: Sessions
-summary: ""
+summary: We fight [[Biara]], the imposter/Red Queen of the Griffen Empire
 tags:
 ---
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
 </div> 
-<% await tp.file.rename(`Session `+tp.user.getThisGameNum(tp)) %>
 
-*`=this.summary`*
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
 > ✦ 
@@ -26,9 +24,11 @@ tags:
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |
-> > | ✦ Session | *Session `=this.sessionNum`* |
-> > | ✦ Date| *`=this.date`* |
+> > | ✦ Session | *Session 76* |
+> > | ✦ Date| *04-17-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
+> > 
+> > *`=this.summary`*
 >
 > > [!blank]
 > > - Gains scene 1
@@ -45,6 +45,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
+> > [[Campaigns/Sands of Desolation/Session Journal/Hit the Ground Running|Hit the Ground Running]]
 
 **Summary**: `INPUT[text:summary]`
+## Corrupted Castle Calamity
