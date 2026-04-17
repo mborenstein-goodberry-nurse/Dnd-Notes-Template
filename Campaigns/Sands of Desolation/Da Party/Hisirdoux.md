@@ -13,7 +13,7 @@ attitude: Indifferent
 alignment: Chaotic Neutral
 ---
 
-# [[Hizzerdoux]]
+# [[Hisirdoux]]
 *`=this.summary`*
 
 #### Overview 
