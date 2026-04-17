@@ -63,8 +63,8 @@ Oh shit its a bear in a flail shell!
  >- Bear
  >- Waffles 
  >- Caspian 
- >- Aaldrin 
- >- Damian 
+ >- [[Aldren]] 
+ >- [[Arthur or Damien or Soren|Damian]] 
 
 And then we killed it 
 We share our stories 

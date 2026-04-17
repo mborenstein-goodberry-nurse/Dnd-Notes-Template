@@ -1,20 +1,27 @@
 ---
 type: Creatures
 subtype: Player Character
-date: 04-07-2026
+date: 03-29-2026
 Art: "![[ImagePlaceholder.png]]"
-campaign: Sands of Desolation
-world: Wiley's World
-summary: Bug man who's helping us out
-status: I don't like you
+campaign: z_Scratch Notes
+world:
+summary: DID with one dead, grown in a test tube, wants revenge on the pirate king
+status: Arthur (Deceased) Damien (Trusted) Soren (Trusted)
 aliases:
-  - Jiminey Frickit
+  - Arthur
+  - Damien
+  - Soren
+  - Arthur Morgan
+  - Damien Castellanos
+  - Soren Hellborne
+  - Arthur/Damien/Soren
+  - Damien/Soren
 tags:
-attitude: Unhelpful
-alignment: Chaotic Neutral
+attitude: Helpful
+alignment: Unaligned
 ---
 
-# [[Jiminey]]
+# [[Arthur or Damien or Soren]]
 *`=this.summary`*
 
 #### Overview 

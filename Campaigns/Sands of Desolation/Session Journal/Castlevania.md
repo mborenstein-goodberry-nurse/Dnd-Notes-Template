@@ -59,18 +59,18 @@ Nvm adhd bit
 Thieves Cant is achieved by flapping your hands from crossed arms to vertical 
 We are trying everything but we can't beat a 31 
 [[Jonks]] fell off a wall and landed on Wynn 
-Aldrin and Thorny went through an open window 
+[[Aldren]] and Thorny went through an open window 
 We reach 100 Mason's Gay Jokes! 
 We hear a voice call to us that the door is open, then call for [[Bernard]]
 Bernard seals the door behind 
 Wynn lets me shoulder surf as we enter 
-Aaldrin tried to decode Kenku language, but cant 
+[[Aldren]] tried to decode Kenku language, but cant 
 oops he also has amnesia now 
 Wynn and I follow Bernard up to (presumably) the master's room 
 [[Ozzy]] locks the door before us 
 The master's name is Frail Grim, and she is a Nagpa
-[[Thornwick]] is trying to get back on good terms with Aaldrin 
-We cure Aaldrin and finally make it into the master's room 
+[[Thornwick]] is trying to get back on good terms with [[Aldren]] 
+We cure [[Aldren]] and finally make it into the master's room 
 We learn about the history of Nagpas (monster manual lore) 
 Tremendous amount of skeletons (none undead) and some kunkus 
 Frail gives us permission to take anything that isn't in this room 

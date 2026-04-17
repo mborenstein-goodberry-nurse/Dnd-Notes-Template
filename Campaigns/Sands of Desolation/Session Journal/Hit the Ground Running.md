@@ -36,7 +36,7 @@ tags:
 > > - [[Phoebe]]
 > > - [[Veldrin]]
 > > - [[Weary Quest]] 
-> > - [[Jiminey|Jiminey Frickit]]
+> > - [[Jimminey|Jiminey Frickit]]
 >
 > > [!blank]
 > > - Gains scene 1
@@ -63,9 +63,9 @@ tags:
 Trees are being brought back, plains recovering, people flooding the citadel and interacting, [[Weary]]'s parents are back! 
 It's been 4 days since the last fight, things are continuing to return to normal 
 We are having breakfast at a large dinner table 
-[[Jiminey]] slaps [[Weary|Weary]] on the back (friendly) and Weary chokes 
+[[Jimminey]] slaps [[Weary|Weary]] on the back (friendly) and [[Weary]] chokes 
 As [[Weary]] speaks, he feels a crack in his spine as his [[Constitution|CON]] is lowered by **2**, receiving a **grievous wound** 
-The shattering left a scar on his mortal soul. Weary doesn't know it's from this tho 
+The shattering left a scar on his mortal soul. [[Weary]] doesn't know it's from this tho 
 We decide to go to [[Crownsburrow]] to meet with her highness Isabelle of the Griffin Empire and [[Unite the Griffin Empire]]
 ## Empty Market at the Crossroads 
 Immediately something is off, there are red banners everywhere, the normally bustling crossroads are empty 
@@ -73,7 +73,7 @@ Local militia is on the rise, new knights with spiky edges and horns march the s
 [[Gork]] is still in the shelf 
 We can't see the paladin's eyes, but they aren't immediately interfering 
 ![[Red Templar.jpg|200x200]]
-Weary mentions meeting the Queen, the other guards definitely overheard us 
+[[Weary]] mentions meeting the Queen, the other guards definitely overheard us 
 Guards (Vindicators) start waving us down to approach us 
 [[Alaric]] (repeating the name of the red bishop) 
 The Vindicator will try to enter, and Hizzirdoux is trying to block him (interpose) 
@@ -81,8 +81,8 @@ Elves aren't here often, often are secluded on the island of Astofen
 The guy asks about Gork and the vial of mysterious resin 
 We lie convincingly 
 Veldrin starts telling this guy our plans, and rolls a 10 for it 
-Vindicator grabs Weary by the collar and starts to pull him away to make an appearance 
-Jiminey casts [[suggestion]] on him 
+Vindicator grabs [[Weary]] by the collar and starts to pull him away to make an appearance 
+[[Jimminey]] casts [[suggestion]] on him 
 The Vindicator's name is [[Vandur Hillcrest]] 
 Says he will make sure that we do not receive any itnerference or interruptions on the way to meet the Red Queen 
 The Red Queen is probably different from Queen Isabelle 
@@ -105,7 +105,7 @@ Those who are hallucinating think it is a Griffin
 Veldrin tells the guards that we are trying to meet the queen, and introduces us 
 He is painfully open about our mission 
 The Runes on the manticore's armor are fiendish, of reinforcement (54:00) 
-There's a Hidden Rune on its chest; it's familiar but Weary can't remember where it came from 
+There's a Hidden Rune on its chest; it's familiar but [[Weary]] can't remember where it came from 
 Vander points out Isabelle 
 If we have any trouble, we may reach out to one of the (59:00) people 
 The guards and the manticore move out of the way 
@@ -121,12 +121,12 @@ We enter the castle. It's like a ballroom, and on the Podium is a blond gentlema
 Not letting us see the Queen without some kind of offering 
 ![[Alarac the Red Bishop.jpg|140x200]]
 Isabelle sees that the contract is actually a devil's contract to immediately sell their soul, and inflicts a penace
-Too late though, Jiminey already signed it 
+Too late though, [[Jimminey]] already signed it 
 2 additionally decorative guards flank us and take us to the Red Queen 
-Weary casts [[True Seeing]] on [[Veldrin]] 
+[[Weary]] casts [[True Seeing]] on [[Veldrin]] 
 [[Alaric]] takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how Diane remembers her 
-Veldrin and Weary see her for who she really is 
+Veldrin and [[Weary]] see her for who she really is 
 ![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
-Jiminey casts [[Heat Metal]], and reveals her for who she is 
+[[Jimminey]] casts [[Heat Metal]], and reveals her for who she is 
 The guard mutate into half devil half people, 2 Irinids (Erinyes?) descend from the Ceiling 
 Cliff Hanger! 
