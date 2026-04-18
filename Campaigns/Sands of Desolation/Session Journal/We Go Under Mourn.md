@@ -46,7 +46,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[Collin Fucks Me In-Game]]
 
 ### Log
 We are the Mexican flag 

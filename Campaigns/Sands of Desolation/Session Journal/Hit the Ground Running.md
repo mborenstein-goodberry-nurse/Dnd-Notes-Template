@@ -80,13 +80,13 @@ The Vindicator will try to enter, and Hizzirdoux is trying to block him (interpo
 Elves aren't here often, often are secluded on the island of Astofen 
 The guy asks about Gork and the vial of mysterious resin 
 We lie convincingly 
-Veldrin starts telling this guy our plans, and rolls a 10 for it 
+[[Veldrin]] starts telling this guy our plans, and rolls a 10 for it 
 Vindicator grabs [[Weary]] by the collar and starts to pull him away to make an appearance 
 [[Jimminey]] casts [[suggestion]] on him 
 The Vindicator's name is [[Vandur Hillcrest]] 
 Says he will make sure that we do not receive any itnerference or interruptions on the way to meet the Red Queen 
 The Red Queen is probably different from Queen Isabelle 
-Veldrin really wants to meet the Queen 
+[[Veldrin]] really wants to meet the Queen 
 We're heading South towards the Capitol 
 We roll low on [[Survival]] 
 ## Entering the Upper Level 
@@ -94,15 +94,15 @@ Takes us about an hour to take us to the inner wall, also called the Upper Level
 We turrets, ballista, and the like along the walls, although they don't seem to be armed or even up to date, long overdue for refurbishment. Every corner and tile has great guard towers 
 Guards are a mix of nromal guards and Red Templars, noticable infighting and tensions between them
 The Red Templars seem to be much younger than other guards, like early 20s if human, as opposed to the more seasoned veterans who do not wear the Red Insignia 
-Mid afternoon now. [[Diane]] starts to look for a town to stay in, Veldrin is *pushing* to get there ASAP. he convinces the horses to push through the night to get into the capital 
+Mid afternoon now. [[Diane]] starts to look for a town to stay in, [[Veldrin]] is *pushing* to get there ASAP. he convinces the horses to push through the night to get into the capital 
 We reach the road directly into the Capital. We don't see many travelers on the road, we enter an early dusk as the moon turns blood red 
 We all roll a Wisdom Save, even the horses. The DC was a 15 
-Dusk, Boofy, Veldrin, and Hizzidoux **Fail** the save 
+Dusk, Boofy, [[Veldrin]], and Hizzidoux **Fail** the save 
 Those who fail have vivid hallucinations and disadvantage on all ability checks (43:00) ish. Those who pass feel fine but a little off, perhaps antsy 
 Takes another hour to make it to the entry guardhouse, Vindicators and guards 
 instead of a Griffin guarding the gates, is a large and grotesque Manticore, clad in warped Griffin Empire Armor 
 Those who are hallucinating think it is a Griffin 
-Veldrin tells the guards that we are trying to meet the queen, and introduces us 
+[[Veldrin]] tells the guards that we are trying to meet the queen, and introduces us 
 He is painfully open about our mission 
 The Runes on the manticore's armor are fiendish, of reinforcement (54:00) 
 There's a Hidden Rune on its chest; it's familiar but [[Weary]] can't remember where it came from 
@@ -125,7 +125,7 @@ Too late though, [[Jimminey]] already signed it
 2 additionally decorative guards flank us and take us to the Red Queen 
 [[Weary]] casts [[True Seeing]] on [[Veldrin]] 
 [[Alaric]] takes us to the Queen and presents us and the contract before the Queen. Pale, beautiful brunette, how [[Diane]] remembers her 
-Veldrin and [[Weary]] see her for who she really is 
+[[Veldrin]] and [[Weary]] see her for who she really is 
 ![The Red Queen Revealed!|200x140](The_Red_Queen.jpg)
 [[Jimminey]] casts [[Heat Metal]], and reveals her for who she is 
 The guard mutate into half devil half people, 2 Irinids (Erinyes?) descend from the Ceiling 
