@@ -27,11 +27,15 @@ tags:
 > > | --- | --- |
 > > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *`=this.date`* |
-> > | ✦ Game | *`=this.fc-date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
 > 
 > > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
 >
-> >[!blank]
+> > [!todo|cyan no-title no-icon]
 > > - Gains scene 1
 > > ---
 > > - Gains scene 2

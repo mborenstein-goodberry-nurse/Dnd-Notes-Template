@@ -1,20 +1,18 @@
 ---
-type: Creatures
-subtype: Player Character
-date: 04-07-2026
-Art: "![[ImagePlaceholder.png]]"
+type: NPC
+date: 04-17-2026
 campaign: Sands of Desolation
 world: Wiley's World
-summary: Bug man who's helping us out
-status: Being Corrupted
+status: Alive
+summary: Queen of the Griffin Empire
+attitude: Indifferent
+alignment: Unaligned
 aliases:
-  - Jiminey Frickit
+  - Queen Isabelle
 tags:
-attitude: Unhelpful
-alignment: Chaotic Neutral
 ---
 
-# [[Jimminey]]
+# [[Isabel]]
 *`=this.summary`*
 
 #### Overview 
@@ -22,7 +20,7 @@ alignment: Chaotic Neutral
 
 **Status**: `INPUT[text:status]`
 **Aliases**: `INPUT[inlineList:aliases]`
-**Attitude**: `INPUT[inlineSelect(option(Mine), option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
+**Attitude**: `INPUT[inlineSelect(option(Helpful), option(Friendly), option(Indifferent), option(Mixed), option(Unhelpful), option(Hostile)):attitude]`
 **Alignment**: `INPUT[inlineSelect(option(Chaotic Evil), option(Chaotic Good), option(Chaotic Neutral), option(Lawful Evil), option(Lawful Good), option(Lawful Neutral), option(Neutral), option(Neutral Evil), option(Neutral Good), option(Unaligned)):alignment]`
 **Summary**: `INPUT[text:summary]`
 
@@ -32,13 +30,7 @@ alignment: Chaotic Neutral
 #### Relationships
 
 
-#### Unique Abilities  
-
-
-### Inventory 
-
-
-#### History 
+#### Interactions/Appearances
 
 
 ### Additional Details 

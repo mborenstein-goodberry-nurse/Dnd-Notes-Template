@@ -79,9 +79,10 @@ sort priority ASCENDING
 
 ## Journals
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.file.title %>/Session Journal"
-where contains(type,"session")
-sort sessionNum ASC
+TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
+from "Campaigns/<% tp.file.title %>/Session Journal"
+where file.name != "Session Journal"
+sort sessionNum DESCENDING
 ```
 
 

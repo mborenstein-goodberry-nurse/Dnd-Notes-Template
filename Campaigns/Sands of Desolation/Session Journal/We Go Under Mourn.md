@@ -46,7 +46,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Session 76|Session 76]]
+> > [[Corrupted Castle Calamity|Corrupted Castle Calamity]]
 
 ### Log
 We are the Mexican flag 

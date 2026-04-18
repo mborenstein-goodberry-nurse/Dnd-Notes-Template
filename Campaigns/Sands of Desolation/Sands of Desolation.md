@@ -26,6 +26,7 @@ name New Incident
 type command
 action QuickAdd: Macro - New Event
 ```
+
 --- end-column ---
 
 ```button
@@ -97,7 +98,7 @@ sort priority ASCENDING
 
 ## Journals
 ```dataview
-TABLE sessionNum as "Session", summary as "Summary" 
+TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Session Journal"
 where file.name != "Session Journal"
 sort sessionNum DESCENDING

@@ -29,7 +29,7 @@ tags:
 > > | ✦ Session | *Session 79* |
 > > | ✦ Date| *04-03-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
-> > 
+> 
 > > [!blank]
 > > ### Party 
 > > - [[Diane]] 
