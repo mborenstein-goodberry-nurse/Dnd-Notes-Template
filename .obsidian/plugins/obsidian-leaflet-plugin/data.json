@@ -56,7 +56,7 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1776477403430,
+      "lastAccessed": 1776547683374,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -151,6 +151,23 @@
             239.99794864250262
           ],
           "link": "Tangambalanga",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79eba8abab49",
+          "type": "default",
+          "loc": [
+            84.66025169514515,
+            219.6829132709966
+          ],
+          "link": "Bloomsburrow",
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,

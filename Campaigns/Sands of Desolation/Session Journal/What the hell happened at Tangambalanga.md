@@ -1,14 +1,59 @@
 ---
+type: session
+date: 02-06-2026
+campaign: Sands of Desolation
+world: Wiley's World
 sessionNum: 67
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary: We enter [[Tangambalanga]] and look into what caused the whole town to decay
+tags:
 ---
-## Recap 
-![[1.31.2025#Summary]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
-## Summary 
 
-Brief session overview.
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ✦ 
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[Diamonds are a Girl's Best Friend]]
 
-## Notes
+### Log
+
 A necrotic hand pushes [[Veldrin]] into the [[BearCrest|bear]]'s shit 
 We make it to Tangambalanga. It's more run down than usual, more weary and afraid as the cart rolls in, small militia forms and they make their way over 
 [[Weary]]'s keep is leaking monsters 

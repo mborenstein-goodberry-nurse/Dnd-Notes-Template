@@ -50,7 +50,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[What the hell happened at Tangambalanga|What the hell happened at Tangambalanga?]]
 
 ### Log
 

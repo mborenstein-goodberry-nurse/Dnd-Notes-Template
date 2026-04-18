@@ -53,4 +53,3 @@ tags:
 > > [[<% tp.user.getLastGameTitleAlias(tp) %>]]
 
 ### Log
-
