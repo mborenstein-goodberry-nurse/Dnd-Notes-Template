@@ -18,15 +18,7 @@ action QuickAdd: Macro - New Campaign
 let totalGames;
 function getNumOfGames(campaign) {
 	let numOfGames = app.plugins.plugins.dataview.api
-        .pages(`"Campaigns/${campaign}"`)
-        .where(page => {
-            if (page.type === 'session') {
-                if (page.campaign === campaign) {
-	                totalGames = totalGames + 1;
-                    return true;
-                }
-            }
-        }).length
+        .pages(`"Campaigns/${campaign}/Session Journal"`).length
 	return numOfGames
 }
 
@@ -35,3 +27,14 @@ dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"
   .sort(b => b.status)
   .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
 ```
+
+Session Filtering Code (Straight Copy Paste): 
+
+        .where(page => {
+            if (page.type === 'session') {
+                if (page.campaign === campaign) {
+	                totalGames = totalGames + 1;
+                    return true;
+                }
+            }
+        })
