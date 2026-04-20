@@ -1,9 +1,9 @@
 ---
 type: Creature
 subtype: Creature
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-20-2026
+campaign: Bestiary
+world:
 summary:
 status:
 tags:
@@ -12,7 +12,7 @@ tags:
 ![Placeholder Iconography|200x140](ImagePlaceholder.png)
 
 ```statblock  
-creature: <% tp.file.title %>
+creature: Griffon
 dice: false
 ```
 
