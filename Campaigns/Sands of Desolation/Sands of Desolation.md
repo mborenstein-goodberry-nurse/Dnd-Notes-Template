@@ -113,7 +113,7 @@ sort sessionNum DESCENDING
 - [[Waffles]]
 **Others**:
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" 
+TABLE attitude as "Attitude", status as "Status", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Da Party"
 where file.name != "Da Party"
 where file.name != "Weary"
