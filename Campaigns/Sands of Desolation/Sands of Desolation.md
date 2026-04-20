@@ -80,12 +80,11 @@ const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
 	.sort(q => Number(q.priority ?? 999), "asc");
 
 if (quests.length > 0) {
-    dv.paragraph(`![[${quests[0].file.path}]]`);
+    dv.paragraph(`[[${quests[0].file.path}|${quests[0].file.name}]]`);
 } else {
     dv.paragraph("*No active quests found.*");
 }
 ```
-|${quests[0].file.n}
 ### Active
 ```dataview
 TABLE summary as "Summary" 
