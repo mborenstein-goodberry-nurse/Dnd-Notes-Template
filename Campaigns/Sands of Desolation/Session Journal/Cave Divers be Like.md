@@ -49,7 +49,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[A Second Session has Hit the Towers]]
 
 ### Log
 Where we left off:

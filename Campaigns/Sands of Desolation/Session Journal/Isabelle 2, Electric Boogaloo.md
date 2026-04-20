@@ -49,7 +49,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[Falatir's Sacrifice]]
 
 ### Log
 Where we left off:

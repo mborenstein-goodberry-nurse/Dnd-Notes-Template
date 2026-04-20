@@ -49,7 +49,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[Cave Divers be Like]]
 
 ### Log
 **Gay boi gone, git gud** 
