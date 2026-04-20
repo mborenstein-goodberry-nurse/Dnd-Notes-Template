@@ -3,7 +3,7 @@ type: Campaign
 date: 12-01-2025
 world: Wiley's World
 campaign: Sands of Desolation
-status: active
+status: Active
 role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg

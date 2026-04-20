@@ -56,7 +56,7 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1776547683374,
+      "lastAccessed": 1776655927383,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -168,6 +168,123 @@
             219.6829132709966
           ],
           "link": "Bloomsburrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19a8198a78bb",
+          "type": "default",
+          "loc": [
+            86.55981370634385,
+            190.65366587742287
+          ],
+          "link": "Tree of Life",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bd98ba9a81b",
+          "type": "default",
+          "loc": [
+            92.41317653763565,
+            185.5902723272694
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e928c86aeabb",
+          "type": "default",
+          "loc": [
+            110.12053115109063,
+            191.1428437353652
+          ],
+          "link": "Gilbert's Guild Gate",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbcb99b86b8b",
+          "type": "default",
+          "loc": [
+            132.5491072052547,
+            176.78569014101822
+          ],
+          "link": "Renline",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59ebf84a58aa",
+          "type": "default",
+          "loc": [
+            100.1640625,
+            132.625
+          ],
+          "link": "City of Rust",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8ea1808e8fa",
+          "type": "default",
+          "loc": [
+            66.49565879017557,
+            75.30687219636731
+          ],
+          "link": "Pirate Kingdom",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a5bba19db68",
+          "type": "default",
+          "loc": [
+            181.251355396333,
+            49.8510280736516
+          ],
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,

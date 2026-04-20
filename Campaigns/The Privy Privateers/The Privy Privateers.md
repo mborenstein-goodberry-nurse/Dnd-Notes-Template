@@ -3,7 +3,7 @@ type: Campaign
 date: 12-02-2025
 world: Andrew's Pirate World
 campaign: The Privy Privateers
-status: active
+status: On Hold
 role: player
 system: D&D 5e
 banner: z_Assets/RPG Group.jpg

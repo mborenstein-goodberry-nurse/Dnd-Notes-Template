@@ -7,7 +7,6 @@ session-hero: false
 ---
 # [[Campaign Index]]
 
-## List of current campaigns
 ```button
 name Add New World
 type command
@@ -24,9 +23,11 @@ function getNumOfGames(campaign) {
 
 dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"')
   .where(b => b.type === "Campaign")
+  .sort(b => b.file.name)
   .sort(b => b.status)
   .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
 ```
+https://docs.google.com/document/d/1lkJysdHSxImZpdhQpgvqhcJ3JtIUSQ4pgPCyfgXv0bQ/edit?tab=t.0#heading=h.d02x49wbjosw
 
 Session Filtering Code (Straight Copy Paste): 
 

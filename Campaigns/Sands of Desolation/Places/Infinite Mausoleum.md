@@ -1,11 +1,12 @@
 ---
 type: Group
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-18-2026
+campaign: Sands of Desolation
+world: Wiley's World
 tags:
+size: Other
 ---
-# [[<% tp.file.title %>]]
+# [[Infinite Mausoleum]]
 *`=this.summary`*
 
 #### Overview 
