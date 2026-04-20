@@ -9,7 +9,7 @@ attitude: Mixed
 status: Corrupted
 summary: "Capital Castle of the Griffen EmpireBeing ruled by [[Biara]] "
 ---
-# [[Isabelle's Castle]]
+# [[Isabel's Castle]]
 *`=this.summary`*
 
 #### Overview 

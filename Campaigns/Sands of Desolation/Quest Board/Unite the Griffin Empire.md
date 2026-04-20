@@ -28,9 +28,9 @@ tags:
 Placeholder
 
 #### Progression
-- [x] Meet with Queen Isabelle (not ours)
+- [x] Meet with [[Queen Isabel]] (not ours)
 - [x] Enter the [[Griffin Capital]] 
-- [ ] ~~Presumably defeat the Red Bishop and his order ~~
+- [ ] Presumably defeat the Red Bishop and his order
 - [ ] Defeat the Imposter Queen 
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`

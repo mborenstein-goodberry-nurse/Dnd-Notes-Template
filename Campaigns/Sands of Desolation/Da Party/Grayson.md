@@ -1,28 +1,21 @@
 ---
 type: Creatures
 subtype: Player Character
-date: 03-29-2026
+date: 04-20-2026
 Art: "![[ImagePlaceholder.png]]"
-campaign: z_Scratch Notes
-world:
-summary: DID with one dead, grown in a test tube, wants revenge on the pirate king
-status: Arthur (Deceased) Damien (Trusted) Soren (Trusted)
+campaign: Sands of Desolation
+world: Wiley's World
+summary: Skeleton Boy infused with Dark Magic
+status: Deceased (Or Trapped in a Sword)
 aliases:
-  - Arthur
-  - Damien
-  - Soren
-  - Arthur Morgan
-  - Damien Castellanos
-  - Soren Hellborne
-  - Arthur/Damien/Soren
-  - Damien/Soren
-  - Damian
+  - Grayson Underwood
+  - Underwood
 tags:
-attitude: Helpful
-alignment: Unaligned
+attitude: Friendly
+alignment: Neutral Evil
 ---
 
-# [[Arthur or Damien or Soren]]
+# [[Grayson]]
 *`=this.summary`*
 
 #### Overview 

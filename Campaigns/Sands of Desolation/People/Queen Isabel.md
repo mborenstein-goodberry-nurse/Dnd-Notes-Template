@@ -4,15 +4,15 @@ date: 04-17-2026
 campaign: Sands of Desolation
 world: Wiley's World
 status: Alive
-summary:
+summary: Queen of the Griffin Empire
 attitude: Indifferent
 alignment: Unaligned
 aliases:
-  - Isabelle Veldrama
+  - Isabel
 tags:
 ---
 
-# [[Isabelle]]
+# [[Queen Isabel]]
 *`=this.summary`*
 
 #### Overview 

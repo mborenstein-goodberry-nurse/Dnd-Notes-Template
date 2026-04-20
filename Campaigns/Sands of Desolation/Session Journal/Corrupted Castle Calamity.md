@@ -45,7 +45,7 @@ tags:
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - [[Isabelle's Castle]] 
+> > - [[Isabel's Castle]] 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
@@ -72,10 +72,10 @@ Wiley stresses that we on the Material Plane do not need to rush it out
 > - [[Isabelle]] 
 > - [[Jimminey]] (Technically) 
 
-[[Biara]] - Red Queen, a Succubus, impostering as Queen Isabelle 
+[[Biara]] - Red Queen, a Succubus, impostering as [[Queen Isabel]]  
 [[Alaric|Alaric's]] mind is shattered because he didn't realize he is serving a devil 
 [[Veldrin]] tries to convince him to join us 
-There is a large pane glass of Isabelle, and large arches. No chandelier 
+There is a large pane glass of Isabel, and large arches. No chandelier 
 **[[Biara|Biara's]] AC is 23 👀** 
 0:6:45 Biara's Chainshot attack increased by bouncing between people by **1d8** 
 **[[Radiant]] does not do nearly as much as we hoped against [[Biara]]** 

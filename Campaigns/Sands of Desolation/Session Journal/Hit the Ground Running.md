@@ -48,7 +48,7 @@ tags:
 > > - [[Tangambalanga]] 
 > > - [[Crownsburrow]] 
 > > - [[Griffin Capital]] 
-> > - [[Isabelle's Castle]] <span class="new-tag">new</span>
+> > - [[Isabel's Castle]] 
 > 
 > > [!todo|green no-icon no-title] 
 > > ## People 
@@ -66,7 +66,7 @@ We are having breakfast at a large dinner table
 [[Jimminey]] slaps [[Weary|Weary]] on the back (friendly) and [[Weary]] chokes 
 As [[Weary]] speaks, he feels a crack in his spine as his [[Constitution|CON]] is lowered by **2**, receiving a **grievous wound** 
 The shattering left a scar on his mortal soul. [[Weary]] doesn't know it's from this tho 
-We decide to go to [[Crownsburrow]] to meet with her highness Isabelle of the Griffin Empire and [[Unite the Griffin Empire]]
+We decide to go to [[Crownsburrow]] to meet with her highness [[Queen Isabel]] of the Griffin Empire and [[Unite the Griffin Empire]]
 ## Empty Market at the Crossroads 
 Immediately something is off, there are red banners everywhere, the normally bustling crossroads are empty 
 Local militia is on the rise, new knights with spiky edges and horns march the street, look like [[Oathbreaker|Oathbreaker Paladins]] 
@@ -85,7 +85,7 @@ Vindicator grabs [[Weary]] by the collar and starts to pull him away to make an 
 [[Jimminey]] casts [[suggestion]] on him 
 The Vindicator's name is [[Vandur Hillcrest]] 
 Says he will make sure that we do not receive any itnerference or interruptions on the way to meet the Red Queen 
-The Red Queen is probably different from Queen Isabelle 
+The Red Queen is probably different from [[Queen Isabel]]  
 [[Veldrin]] really wants to meet the Queen 
 We're heading South towards the Capitol 
 We roll low on [[Survival]] 
@@ -106,7 +106,7 @@ Those who are hallucinating think it is a Griffin
 He is painfully open about our mission 
 The Runes on the manticore's armor are fiendish, of reinforcement (54:00) 
 There's a Hidden Rune on its chest; it's familiar but [[Weary]] can't remember where it came from 
-Vander points out Isabelle 
+Vander points out [[Isabelle]] 
 If we have any trouble, we may reach out to one of the (59:00) people 
 The guards and the manticore move out of the way 
 ## Into the Heart
@@ -115,12 +115,12 @@ The guards and the manticore move out of the way
 
 The Red Banner is everywhere, propaganda galore 
 Other Manticores are perched on the many spires, wizard spire has many mages, the castle looms over the capital. 
-Isabelle recognizes that this is not the rule of a monarch, but that of a tyrant. Tons of fear amongst even the guards 
+[[Isabelle]] recognizes that this is not the rule of a monarch, but that of a tyrant. Tons of fear amongst even the guards 
 Some of the guards have infernal markings across their armor 
 We enter the castle. It's like a ballroom, and on the Podium is a blond gentleman. [[Alaric the Red bishop]], the Red/Grand Bishop (1:17:00) 
 Not letting us see the Queen without some kind of offering 
 ![[Alarac the Red Bishop.jpg|140x200]]
-Isabelle sees that the contract is actually a devil's contract to immediately sell their soul, and inflicts a penace
+[[Isabelle]] sees that the contract is actually a devil's contract to immediately sell their soul, and inflicts a penace
 Too late though, [[Jimminey]] already signed it 
 2 additionally decorative guards flank us and take us to the Red Queen 
 [[Weary]] casts [[True Seeing]] on [[Veldrin]] 
