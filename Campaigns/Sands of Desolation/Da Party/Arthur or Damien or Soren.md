@@ -5,7 +5,7 @@ date: 03-29-2026
 Art: "![[ImagePlaceholder.png]]"
 campaign: z_Scratch Notes
 world:
-summary: DID with one dead, grown in a test tube, wants revenge on the pirate king
+summary: DID changeling, grown in a test tube, wants revenge on the pirate king
 status: Arthur (Deceased) Damien (Trusted) Soren (Trusted)
 aliases:
   - Arthur

@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: We enter the Pirate Kingdom and meet the Pirate King!
 tags:
 ---
 <div class="session-hero">
