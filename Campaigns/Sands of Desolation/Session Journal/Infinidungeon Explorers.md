@@ -1,9 +1,9 @@
 ---
 type: Session Journal
-date: 01-24-2025
+date: 05-02-2025
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 16
+sessionNum: 29
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
@@ -49,27 +49,6 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]
+> > [[Campaigns/Sands of Desolation/Session Journal/To the Infinidungeon!|To the Infinidungeon!]]
 
 ### Log
-Grayson won against Graves in dice 
-- Party pissed at him 
-- Grayson freed, creig is dead 
-- Ate ben's wedding ring 
-
-Party gets ready to leave 
-- as we leave we see the night walkers out in the distance
-- The spire exudes necrotic energy 
-
-Grayson drinks to his newfound freedom with the party 
-- The storm closes in on the party 
-- Ben casts [[Pass Without Trace]] on the cart 
-- ? The storm is attracted to sound ? 
-
-Thrornwick wakes up encounter 
-- Weary deafens the entire party
-- Thornwick uses an immovable rod to trap the pursuing creature in place so we can run away 
-
-We finally manage to make it to the foo fighter territory 
-- Storm hits border and won't go further 
-- Diane receives an ominous message from someone advising they not trespass 

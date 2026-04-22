@@ -1,9 +1,9 @@
 ---
 type: Session Journal
-date: 03-21-2026
+date: 05-09-2025
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 24
+sessionNum: 30
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
@@ -49,6 +49,6 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Free of the Sword|Free of the Sword]]
+> > [[Campaigns/Sands of Desolation/Session Journal/Infinidungeon Explorers|Infinidungeon Explorers]]
 
 ### Log
