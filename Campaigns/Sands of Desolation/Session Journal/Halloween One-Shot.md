@@ -1,14 +1,57 @@
 ---
-sessionNum: 56
+sessionNum: 55
+type: Session Journal
+date: 10-31-2025
+campaign: Sands of Desolation
+world: Wiley's World
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
 ---
-## Recap 
-Placeholder
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
-## Summary 
 
-Brief session overview.
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[The Whole Burrito]] 
 
-## Notes
+### Log
 We're trick or treating in the Griffin Empire
 We see something on a broom. Undead thing. One eye red or something 
 We transform, as mystic energies that it shoots bathes the town in a greenish glow 

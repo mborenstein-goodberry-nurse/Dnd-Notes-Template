@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and set the tone for what [[Isabelle]] is in for
+summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and set the tone for what she's in for
 tags:
 ---
 <div class="session-hero">

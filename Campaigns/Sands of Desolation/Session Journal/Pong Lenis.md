@@ -1,16 +1,16 @@
 ---
+sessionNum: 57
 type: Session Journal
-date: 01-30-2026
+date: 11-14-2025
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 65
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary: As we draw closer to [[Tangambalanga]], we stop in the shop and crossroad town of [[Crownsburrow]] to buy some [[revivify]] diamonds
+summary:
 tags:
 ---
 <div class="session-hero">
@@ -20,7 +20,6 @@ tags:
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ✦ 
 > ## Session Overview
 > > [!blank]
 > > |   |   | 
@@ -50,17 +49,21 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[All the Homies love Garth the Guild Guard]]
+> > [[Code Names for Gay Sex|11.7.2025 Code Names for Gay Sex]]
 
 ### Log
-We make it into [[Crownsburrow]] 
-The people seem well being, living large and well, not a care in the world 
-Find a Loxodon Jeweler named Zonk 
-offers us Diamonds that can revive someone and then some 
-Some of the gems are [[Distort Value]]'d. Gasp 
-The Iron Peninsula is rough territory, 
-There is a casino that gambles with souls and lives 
-There is a preist in Griffin Home named Sir Alabaster, [[Queen Isabel|Isabel]]'s personal aide, who has been imprisoned by sir [[Alaric]]. He knows absolute sanctifications 
-The Red Queen has been strange since the year began, things have began to happen (red paladins, skulls, etc.) 
-We buy the [[Abjuration]] diamonds 
-We find Zarth's Empourium 
+We decide to stay at the Drinky Pad 
+Electrum discount! Otherwise 2 gp per person 
+Schlitterfrog is within driving distance of [[Weary]]'s Keep
+The Packs Jenis is also nearby 
+We pay him 10 gp 
+The orb's not moving. It's famished 
+> [!quote] -WIley
+>  Perhaps eating zombified flesh changed it..... 
+
+[[Weary]] opens itself up to the orb, releasing his raw magic, and it begins orbiting him and avoiding others 
+The orb seems to be more accustomed to eating magic things. It may need to absorb magic to activate for a prolonged period of time 
+The pink resin that Jingle's nose was in.... that was from the Outer Planes/Far Realms? But its from the Fox.... The Fox is from the Outer Planes?
+Lenis convinces me to get an anchor 
+[[Wynn]] is a divine soul sorcerer 
+[[Weary]] grows a second draconic tail 

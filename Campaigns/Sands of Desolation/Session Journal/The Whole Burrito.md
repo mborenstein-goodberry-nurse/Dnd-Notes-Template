@@ -1,14 +1,57 @@
 ---
-sessionNum: 55
+sessionNum: 54
+type: Session Journal
+date: 10-24-2025
+campaign: Sands of Desolation
+world: Wiley's World
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
 ---
-## Recap 
-![[10.17.2025-When you mess with the bean#Summary]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
-## Summary 
 
-Brief session overview.
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[When you mess with the Bean]]
 
-## Notes
+### Log
 Been a few days, we've gone through the [[Templars of Fate]], at the waystation/border control outside of the [[Heralds of Draconia]] 
 All mammals in the tavern, JJ and JK are staying in the cart 
 Tavern is called the Yomen's Rest 

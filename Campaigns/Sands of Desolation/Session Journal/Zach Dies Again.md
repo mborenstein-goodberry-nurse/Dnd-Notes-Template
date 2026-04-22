@@ -1,16 +1,16 @@
 ---
+sessionNum: 52
 type: Session Journal
-date: 01-30-2026
+date: 10-10-2025
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 65
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary: As we draw closer to [[Tangambalanga]], we stop in the shop and crossroad town of [[Crownsburrow]] to buy some [[revivify]] diamonds
+summary:
 tags:
 ---
 <div class="session-hero">
@@ -20,7 +20,6 @@ tags:
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ✦ 
 > ## Session Overview
 > > [!blank]
 > > |   |   | 
@@ -50,17 +49,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[All the Homies love Garth the Guild Guard]]
+> > [[Perserverance]]
 
 ### Log
-We make it into [[Crownsburrow]] 
-The people seem well being, living large and well, not a care in the world 
-Find a Loxodon Jeweler named Zonk 
-offers us Diamonds that can revive someone and then some 
-Some of the gems are [[Distort Value]]'d. Gasp 
-The Iron Peninsula is rough territory, 
-There is a casino that gambles with souls and lives 
-There is a preist in Griffin Home named Sir Alabaster, [[Queen Isabel|Isabel]]'s personal aide, who has been imprisoned by sir [[Alaric]]. He knows absolute sanctifications 
-The Red Queen has been strange since the year began, things have began to happen (red paladins, skulls, etc.) 
-We buy the [[Abjuration]] diamonds 
-We find Zarth's Empourium 
+We levelled up 2 sessions ago! Then Kona died for being a demon worshipper, and [[Arthur or Damien or Soren|Arthur]] died to the pirate king's gun. Other than that Dallas McCreedy, the trusted guard from before, was coming to secure the contract, before we continue with the main quest. [[Jonks]] can't swim. Also 4 people drew cards. [[Jonks]] got the [[Efreeti Bottle]], Pala drew skull, someone drew something else. Finally: Leora joins the party, a blonde elf played by Paola. [[Arthur or Damien or Soren|Damien]] has a peg leg melded to hsi flesh, Thronwick lost all magic item except the [[Belt of Giant Strength]]. The artifact is somewhere else in the world, the rest are disintegrated. 

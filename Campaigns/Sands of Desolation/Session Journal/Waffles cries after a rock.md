@@ -1,9 +1,9 @@
 ---
-type: session
+type: Session Journal
 date: 03-06-2026
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 73
+sessionNum: 72
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0

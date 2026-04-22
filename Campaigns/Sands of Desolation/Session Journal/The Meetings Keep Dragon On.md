@@ -1,9 +1,57 @@
 ---
-sessionNum: 51
+sessionNum: 50
+type: Session Journal
+date: 09-26-2025
+campaign: Sands of Desolation
+world: Wiley's World
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
 ---
-## Recap 
-![[9.19.2025 Touching Kona's Wood#Summary]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
+
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[Touching Kona's Wood]]
+
+### Log
 ## Summary 
 
 We open last session at [[Gavin]]'s Manor in the town of [[Helm]]. He welcomes us inside, but after some brief introductions, or lack thereof, [[Weary]] takes [[Thornwick]] and [[Damien]] to the tavern for some drinks, giving [[Isabelle]] and [[Diane]] some privacy. [[Isabelle]] goes to work refining the pamphlets to align with her vision, while [[Diane]] talks about her past and memories with her father. [[Gavin]] decides that [[Diane]] has been shielded from the trauma long enough, and through an unknown spell heals her memories of the trauma. Through this she sees clearly the Dragon's form, how its attack seems to have been a form of enchantment or inconvenience as opposed to targeted hostility, and her mother who is confirmed as the [[Solar (Angel)]] [[Auriel Tabbris]]. Her father was notably absent from those memories. [[Diane]] now has immunity to being frightened by dragons. With this new strength, we begin the next day with the surprise that all of the other kingdoms caught wind of the meeting and joined. However, thanks to some strong [[Charisma]] checks from [[Thornwick]], [[Weary]], and most notably [[Isabelle]], we were able to convince them of her veracity and leadership. We begin this session with a two headed dragon tearing open the roof with a mighty roar. 

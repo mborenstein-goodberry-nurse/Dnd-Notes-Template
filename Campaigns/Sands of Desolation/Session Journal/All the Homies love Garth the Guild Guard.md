@@ -1,9 +1,9 @@
 ---
-type: session
+type: Session Journal
 date: 01-23-2026
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 65
+sessionNum: 64
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
@@ -50,7 +50,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Corrupted Castle Calamity|Corrupted Castle Calamity]]
+> > [[The Gay Clicker]]
 
 ### Log
 Althrax was the one who told [[Queen Isabel]] about the orb, not the locations 

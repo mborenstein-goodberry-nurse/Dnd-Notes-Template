@@ -1,14 +1,57 @@
 ---
-sessionNum: 64
+sessionNum: 63
+type: Session Journal
+date: 01-16-2026
+campaign: Sands of Desolation
+world: Wiley's World
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
 ---
-## Recap 
-Just battle stuff
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
-## Summary 
 
-Brief session overview.
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[Thornwick Fingered Gideon... TO DEATH!!!]] 
 
-## Notes
+### Log
 Wiley now has a gay clicker. Every time someone makes a joke about me being gay it gets clicked. Meaning will be found later 
 The sovereign is down 
 [[Diane]] and [[Wynn]] loot and inspect Gideon, while [[Weary]] pisses on the Sovereign and [[Thornwick]] and [[Ozzy]] look for his hearts 

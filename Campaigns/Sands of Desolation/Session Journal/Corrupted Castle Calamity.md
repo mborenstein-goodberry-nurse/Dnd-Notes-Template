@@ -1,9 +1,9 @@
 ---
-type: session
+type: Session Journal
 date: 04-17-2026
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 76
+sessionNum: 75
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
@@ -24,7 +24,7 @@ tags:
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |
-> > | ✦ Session | *Session 76* |
+> > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *04-17-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
 > 
@@ -54,7 +54,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Hit the Ground Running|Hit the Ground Running]]
+> > [[Omnomicon Question Session]]
 
 ### Corrupted Castle Calamity
 Wiley stresses that we on the Material Plane do not need to rush it out 

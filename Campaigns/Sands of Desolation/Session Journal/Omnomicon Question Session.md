@@ -1,13 +1,41 @@
 ---
-type: Other
-date: 04-15-2026
+type: Session Journal
+date: 04-16-2026
 campaign: Sands of Desolation
 world: Wiley's World
 status:
 summary: Weary asked some pretty good questions; We learn about some of what we're up against
-sessionNum: 75.5
+sessionNum: 74.5
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+tags:
 ---
-# [[Omnomicon Question Session]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
+
+
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[Hit the Ground Running]] 
+
+### Log
 *`=this.summary`*
 
 **Q:** *[[Weary]] scribbles the infernal symbols he saw into the book* I'm seeing this symbol hidden on the armor of the Red Guard, Vindicators, and those Red Paladin guys. What does it do?

@@ -1,9 +1,9 @@
 ---
-type: session
+type: Session Journal
 date: 03-27-2026
 campaign: Sands of Desolation
 world: WIley's World
-sessionNum: 74
+sessionNum: 73
 location:
 fc-calendar: Sands of Desolation
 fc-date:
@@ -27,7 +27,7 @@ tags:
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |
-> > | ✦ Session | *Session 5* |
+> > | ✦ Session | *Session `=this.sessionNum`* |
 > > | ✦ Date| *03-27-2026* |
 > > | ✦ Game | *`=this.fc-date`* |
 > > ---

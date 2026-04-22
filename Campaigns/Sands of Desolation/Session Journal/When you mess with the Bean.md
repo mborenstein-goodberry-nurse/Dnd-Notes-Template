@@ -1,16 +1,16 @@
 ---
+sessionNum: 53
 type: Session Journal
-date: 01-30-2026
+date: 10-17-2025
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 65
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary: As we draw closer to [[Tangambalanga]], we stop in the shop and crossroad town of [[Crownsburrow]] to buy some [[revivify]] diamonds
+summary:
 tags:
 ---
 <div class="session-hero">
@@ -20,7 +20,6 @@ tags:
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ✦ 
 > ## Session Overview
 > > [!blank]
 > > |   |   | 
@@ -50,17 +49,24 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[All the Homies love Garth the Guild Guard]]
+> > [[Zach Dies Again]]
 
 ### Log
-We make it into [[Crownsburrow]] 
-The people seem well being, living large and well, not a care in the world 
-Find a Loxodon Jeweler named Zonk 
-offers us Diamonds that can revive someone and then some 
-Some of the gems are [[Distort Value]]'d. Gasp 
-The Iron Peninsula is rough territory, 
-There is a casino that gambles with souls and lives 
-There is a preist in Griffin Home named Sir Alabaster, [[Queen Isabel|Isabel]]'s personal aide, who has been imprisoned by sir [[Alaric]]. He knows absolute sanctifications 
-The Red Queen has been strange since the year began, things have began to happen (red paladins, skulls, etc.) 
-We buy the [[Abjuration]] diamonds 
-We find Zarth's Empourium 
+> [!Alert] Initiative! 
+> [[Arthur or Damien or Soren|Damien]] 
+> Leora 
+> [[Weary]] 
+> [[Diane]] 
+> [[Jonks]] 
+> [[Ozzy]]
+> Avatar of Death 
+> 
+
+[[Jonks]] summons an Efreeti using an [[Efreeti Bottle]] 
+```statblock
+monster: Efreeti
+```
+We got up to 5 avatars of death at once. My 2 are on standby 
+Oh also new party member from Joseph: Ehud, a [[War Domain|War Cleric]] 
+9:46 pm: We finally kill the avatars 
+We introduce each other and catch up, and we head out to the Heralds of Draconia!

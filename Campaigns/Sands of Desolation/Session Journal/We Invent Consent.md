@@ -1,6 +1,6 @@
 ---
 type: Session Journal
-date: 04-22-2026
+date: 09-05-2025
 campaign: Sands of Desolation
 world: Wiley's World
 sessionNum: 47
@@ -52,3 +52,21 @@ tags:
 > > [[Campaigns/Sands of Desolation/Session Journal/Highlander Rules|Highlander Rules]]
 
 ### Log
+## Summary 
+
+Brief session overview.
+We kicked ass
+Went to a new town
+[[Weary]] got kicked out of a bar
+Then we found [[Queen Isabel|Isabel]]'s guardsman, who is still loyal
+Crazy... 
+
+## Notes
+
+- New Phyrexia
+- Arbiters of Reason
+- Insurgence
+- Dominion
+
+Enuberath, The sorcerer kingdom, the Equalizer war
+Same people as the mausoleum 

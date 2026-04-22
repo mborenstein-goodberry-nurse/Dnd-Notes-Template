@@ -1,10 +1,57 @@
 ---
-sessionNum: 49
+sessionNum: 48
+type: Session Journal
+date: 09-12-2025
+campaign: Sands of Desolation
+world: Wiley's World
+fc-calendar: Sands of Desolation
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
 ---
-## Recap 
-![[9.5.2025 We Invent Consent#Summary]]
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
 
 
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## Session Overview
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[We Invent Consent]]
+
+### Log
 ## Summary 
 
 The party, including [[Isabelle]], Koda, Gyles McCreedy, Zach, [[Ozzy]], [[Thornwick]], [[Arthur or Damien or Soren|Damien]], and others, is navigating political intrigue and supernatural threats in the region of Sirvana and nearby cities like Helm and Goldsmare. [[Isabelle]] seeks public support to reclaim her rule, with tensions involving powerful factions such as the king’s Templars and the Sun Home. The group performs stealthy rescues, evades surveillance with magical and physical skills, and contends with illusions, mind control, and wild magic surges that alter their abilities. Several party members experience prophetic or disturbing dream states involving divine warnings, arch demons (notably Iferit), and visions hinting at an impending dragon attack and a pivotal meeting with the enigmatic Pirate King. Relationships, mysterious artifacts like pendants, and shadowy allies all play critical roles as they prepare for upcoming events that could shift the balance of power.
