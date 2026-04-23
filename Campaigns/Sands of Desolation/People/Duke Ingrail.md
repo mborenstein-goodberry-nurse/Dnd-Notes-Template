@@ -1,17 +1,19 @@
 ---
 type: Creature
 subtype: NPC
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-status: Alive
-attitude: Indifferent
+date: 04-23-2026
+campaign: Sands of Desolation
+world: Wiley's World
+status: Deceased
+attitude: Hostile
+summary: Bastard who forced us into slavery
 alignment: Unaligned
 aliases:
+  - Duke
 tags:
 ---
 
-# [[<% tp.file.title %>]]
+# [[Duke Ingrail]]
 *`=this.summary`*
 
 #### Overview 

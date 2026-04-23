@@ -32,7 +32,11 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - Charles (One of them)
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
 > > - Gains scene 1
@@ -41,11 +45,12 @@ tags:
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Hallowed Bastion]] <span class="new-tag">new</span>
+> > - [[Grand Exchange]] <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Duke Ingrail]] <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 

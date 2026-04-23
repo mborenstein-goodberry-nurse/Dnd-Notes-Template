@@ -56,7 +56,7 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1776655927383,
+      "lastAccessed": 1776979495066,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -285,6 +285,90 @@
             181.251355396333,
             49.8510280736516
           ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_589ad8d9781a",
+          "type": "default",
+          "loc": [
+            26.748523707072366,
+            150.03922013302054
+          ],
+          "link": "Gilded Lands",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_487a187b2999",
+          "type": "default",
+          "loc": [
+            54.1640625,
+            203.46875
+          ],
+          "link": "Griffin Empire",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d97beab80bbb",
+          "type": "default",
+          "loc": [
+            60.6640625,
+            194.09375
+          ],
+          "link": "Duskhaven",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_595bb95a3a7a",
+          "type": "default",
+          "loc": [
+            4.453125,
+            182.59375
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b91a8b0a796b",
+          "type": "default",
+          "loc": [
+            7.578125,
+            157.09375
+          ],
+          "link": "Grand Exchange",
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,

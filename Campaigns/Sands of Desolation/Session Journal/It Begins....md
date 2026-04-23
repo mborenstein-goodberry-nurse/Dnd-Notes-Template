@@ -20,7 +20,7 @@ tags:
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ## Session Overview
+> ## ✧ Session Overview ✧
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |
@@ -32,7 +32,10 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
 > > - Gains scene 1
@@ -41,11 +44,14 @@ tags:
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Isabel's Castle]] <span class="new-tag">new</span>
+> > - [[Griffin Empire]] <span class="new-tag">new</span>
+> > - [[Gilded Lands]] <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Queen Isabel]] <span class="new-tag">new</span>
+> > - [[Pleasure]] <span class="new-tag">new</span>
 
 ### Log
 Tasked by [[Queen Isabel]] 

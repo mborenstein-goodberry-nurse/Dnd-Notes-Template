@@ -20,7 +20,7 @@ tags:
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview
-> ## Session Overview
+> ## ✧ Session Overview ✧
 > > [!blank]
 > > |   |   | 
 > > | --- | --- |

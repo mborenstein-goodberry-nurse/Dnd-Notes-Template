@@ -764,7 +764,10 @@
                     "insertAtEnd": false,
                     "considerSubsections": false,
                     "createIfNotFound": false,
-                    "createIfNotFoundLocation": "top"
+                    "createIfNotFoundLocation": "top",
+                    "inline": false,
+                    "replaceExisting": false,
+                    "blankLineAfterMatchMode": "auto"
                   },
                   "newLineCapture": {
                     "enabled": false,
@@ -778,7 +781,8 @@
                     "direction": "vertical",
                     "mode": "default",
                     "focus": true
-                  }
+                  },
+                  "activeFileWritePosition": "cursor"
                 }
               },
               {
@@ -947,6 +951,58 @@
                   },
                   "fileExistsMode": "Increment the file name",
                   "setFileExistsBehavior": false
+                }
+              },
+              {
+                "name": "Capture - Quick Summary",
+                "type": "NestedChoice",
+                "id": "44d2bee3-7f7f-4655-aa96-3518f67fd370",
+                "choice": {
+                  "id": "1e9be2dd-04aa-49a5-851a-e4642d54741e",
+                  "name": "Capture - Quick Summary",
+                  "type": "Capture",
+                  "command": false,
+                  "appendLink": false,
+                  "captureTo": "",
+                  "captureToActiveFile": true,
+                  "captureToCanvasNodeId": "",
+                  "activeFileWritePosition": "cursor",
+                  "createFileIfItDoesntExist": {
+                    "enabled": false,
+                    "createWithTemplate": false,
+                    "template": ""
+                  },
+                  "format": {
+                    "enabled": true,
+                    "format": "summary: {{VALUE:Summary}}\n"
+                  },
+                  "insertAfter": {
+                    "enabled": true,
+                    "after": "attitude: Indifferent",
+                    "insertAtEnd": false,
+                    "considerSubsections": false,
+                    "createIfNotFound": false,
+                    "createIfNotFoundLocation": "top",
+                    "inline": false,
+                    "replaceExisting": false,
+                    "blankLineAfterMatchMode": "auto"
+                  },
+                  "newLineCapture": {
+                    "enabled": false,
+                    "direction": "below"
+                  },
+                  "prepend": false,
+                  "task": false,
+                  "openFile": false,
+                  "fileOpening": {
+                    "location": "tab",
+                    "direction": "vertical",
+                    "mode": "default",
+                    "focus": true
+                  },
+                  "templater": {
+                    "afterCapture": "none"
+                  }
                 }
               }
             ]

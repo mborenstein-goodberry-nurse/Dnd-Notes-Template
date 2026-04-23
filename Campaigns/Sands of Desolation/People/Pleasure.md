@@ -1,17 +1,18 @@
 ---
 type: Creature
 subtype: NPC
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-23-2026
+campaign: Sands of Desolation
+world: Wiley's World
 status: Alive
 attitude: Indifferent
+summary: One of the Leader of the Gilded Lands
 alignment: Unaligned
 aliases:
 tags:
 ---
 
-# [[<% tp.file.title %>]]
+# [[Pleasure]]
 *`=this.summary`*
 
 #### Overview 

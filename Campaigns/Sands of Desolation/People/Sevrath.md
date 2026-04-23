@@ -1,17 +1,18 @@
 ---
 type: Creature
 subtype: NPC
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-status: Alive
+date: 04-23-2026
+campaign: Sands of Desolation
+world: Wiley's World
+status: Active
 attitude: Indifferent
+summary: Lich of the [[Hallowed Bastion]]
 alignment: Unaligned
 aliases:
 tags:
 ---
 
-# [[<% tp.file.title %>]]
+# [[Sevrath]]
 *`=this.summary`*
 
 #### Overview 

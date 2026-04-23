@@ -62,6 +62,7 @@ Willing to sing away life for eternal servitude
 Extra Credit Ben Notes:
 - Insinuated that it was a character mentioned at the beginning
 - “Not my fair [[isabelle]]”
+
 “Upon your death, your soul and service will be bound to the lich Sevrath”
 “Should the lich die it goes to the next in line”
 Shard is attracted to the card, important to [[Falatir]]
