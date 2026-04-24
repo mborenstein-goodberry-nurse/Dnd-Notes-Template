@@ -1,12 +1,15 @@
 ---
 type: Group
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-23-2026
+campaign: Sands of Desolation
+world: Wiley's World
 attitude: Indifferent
+summary: Mysterious Ancient Towers
 tags:
+size: Site/Monument
+status: Reduced to 1 tower
 ---
-# [[<% tp.file.title %>]]
+# [[Towers of Icarus]]
 *`=this.summary`*
 
 #### Overview 

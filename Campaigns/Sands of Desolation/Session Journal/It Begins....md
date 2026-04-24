@@ -66,8 +66,9 @@ Tasked by [[Queen Isabel]]
 			Few can make it there and come back
 			Shrouded in Mystery and Magic
 	- Luciferian Caldera
-		Up in the Foo Fighter Territory
-Pit straight to hell, one of the layers
+		- Up in the Foo Fighter Territory
+		- Pit straight to hell, one of the layers
+
 Investigate and claim the powers/magic items at said locations, find out what we can about these features
 Ben’s ([[Falatir]], Shadow Sorcerer) love is missing (Pale, white hair, tall, humanoid)
 [[Arthur or Damien or Soren|Arthur]] (Farmer) (Human Twink)

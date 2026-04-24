@@ -56,7 +56,8 @@
     },
     {
       "id": "Astrodan Map",
-      "lastAccessed": 1776979495066,
+      "locked": false,
+      "lastAccessed": 1776980670587,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -369,6 +370,23 @@
             157.09375
           ],
           "link": "Grand Exchange",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abb928993b69",
+          "type": "default",
+          "loc": [
+            5.453125,
+            132.34375
+          ],
+          "link": "Towers of Icarus",
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,
