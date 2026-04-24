@@ -1,15 +1,15 @@
 ---
 type: Group
-date: 04-23-2026
+date: 04-24-2026
 campaign: Sands of Desolation
 world: Wiley's World
 attitude: Indifferent
-summary: Mysterious Ancient Towers
+summary: Pit in the [[Foo Fighters|Foo Fighter Territory]] going straight into hell, or one of the layers
 tags:
 size: Site/Monument
-status: Reduced to 1 tower
+status: Loosening corruption
 ---
-# [[Towers of Icarus]]
+# [[Luciferian Caldera]]
 *`=this.summary`*
 
 #### Overview 
@@ -21,7 +21,7 @@ status: Reduced to 1 tower
 **Summary**: `INPUT[text:summary]`
 
 #### Description
-Multiple connected towers, reaching into the heavens. Built by Celestials, they are shorouded in mystery and magic, and few make it back from there alive. 
+
 
 #### Relationships
 

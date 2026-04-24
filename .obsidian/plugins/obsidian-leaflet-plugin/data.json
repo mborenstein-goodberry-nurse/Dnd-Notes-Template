@@ -57,7 +57,7 @@
     {
       "id": "Astrodan Map",
       "locked": false,
-      "lastAccessed": 1776999775473,
+      "lastAccessed": 1777039762706,
       "markers": [
         {
           "id": "ID_f9db181969e9",
@@ -455,6 +455,22 @@
             49.59375
           ],
           "link": "Foo Fighters",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c99be86b39ba",
+          "type": "default",
+          "loc": [
+            143.0390625,
+            32.71875
+          ],
           "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
           "mutable": true,
           "command": false,
