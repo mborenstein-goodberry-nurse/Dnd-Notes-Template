@@ -829,7 +829,7 @@
                   "folder": {
                     "enabled": true,
                     "folders": [
-                      "{{VALUE:folderName}}/Quest Board"
+                      "{{VALUE:folderName}}"
                     ],
                     "chooseWhenCreatingNote": false,
                     "createInSameFolderAsActiveFile": false,
