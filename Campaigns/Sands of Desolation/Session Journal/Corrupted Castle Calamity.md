@@ -39,9 +39,10 @@ tags:
 > > - [[Weary Quest]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - We Battle [[Biara]] 
+> > - [[Alaric]] is a third party, can be swayed either way 
 > > ---
-> > - Gains scene 2
+> > - [[Weary]] casts [[Reverse Gravity]]. And it all goes uphill (wait, no, downhill) from there...
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
