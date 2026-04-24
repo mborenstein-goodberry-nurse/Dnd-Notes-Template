@@ -35,9 +35,18 @@ tags:
 > > - Me
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - We're put in a prison somewhere 
+> > - [[Weary]] is collared and bound 
+> > - [[Diane]] is bound 
 > > ---
-> > - Gains scene 2
+> > - [[Diane]] is approached by Duke and Billy 
+> > - Duke scolds her for marrying a tiefling 
+> > - Warns her of what will happen (big fight for their lives in a few days)
+> > - Billy gives warning (seems like [[Arthur or Damien or Soren|Damien]]) 
+> > --- 
+> > - [[Weary]] is being much more sassy 
+> > - Lot less friendly of an exchange 
+> > - Billy slips Weary a lockpick 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
