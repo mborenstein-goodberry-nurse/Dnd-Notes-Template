@@ -32,7 +32,9 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Arthur or Damien or Soren]] 
+> > - [[Diane]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
 > > - We're put in a prison somewhere 

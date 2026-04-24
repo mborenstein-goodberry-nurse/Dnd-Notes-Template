@@ -64,8 +64,8 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > - [[On Death's Door]] 
 > > - [[Prison Scheming]] 
+> > - [[On Death's Door]] 
 
 ### Log
 Captured to be used as slaves

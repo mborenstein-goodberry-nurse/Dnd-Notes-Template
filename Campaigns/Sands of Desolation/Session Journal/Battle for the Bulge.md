@@ -32,20 +32,25 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Arthur or Damien or Soren]] 
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Grayson]] 
+> > - [[Thornwick]]
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
+> > - We reach the top of the [[Towers of Icarus]] 
+> > - [[Gideon]] the Judge is there, a hemisphere embedded in his chest 
+> > - Combat! 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Towers of Icarus]] 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Gideon]] <span class="new-tag">new</span> 
 > 
 > > [!footer] 
 > > ## Previous Session 

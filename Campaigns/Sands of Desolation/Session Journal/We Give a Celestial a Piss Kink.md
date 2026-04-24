@@ -32,6 +32,7 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
+> > - [[Arthur or Damien or Soren]] 
 > > - [[Diane]] 
 > > - [[Falatir]] 
 > > - [[Grayson]] 
