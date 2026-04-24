@@ -32,20 +32,27 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Grayson]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - [[Sevrath]] introduces himself to us 
+> > - Sends [[Grayson]], Cain, and Krieg into the party 
 > > ---
-> > - Gains scene 2
+> > - We arrive at the [[Towers of Icarus]] 
+> > - We see a Radiant Idol [[Inspiring Leader]] 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Hallowed Bastion]] 
+> > - [[Towers of Icarus]] <span class="new-tag">new</span> 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Sevrath]] <span class="new-tag">new</span> 
+> > - Radiant Idol <span class="new-tag">new</span> 
 > 
 > > [!footer] 
 > > ## Previous Session 
