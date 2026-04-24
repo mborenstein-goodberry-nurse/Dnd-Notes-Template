@@ -38,9 +38,13 @@ tags:
 > > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - We meet [[Queen Isabel]] 
+> > - We meet the rest of the Party 
+> > - [[Queen Isabel|Isabel]] assigns us to [[Find the Hidden Relic in the Towers (1 of 2)]] and [[Find the Hidden Relic in the Caldera (2 of 2)]] 
 > > ---
-> > - Gains scene 2
+> > - We pass by [[Sparrow]] and into the [[Gilded Lands]] 
+> > - We immediately get attacked by a group called the Brutus Squad 
+> > - They serve under someone named [[Pleasure]] 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
