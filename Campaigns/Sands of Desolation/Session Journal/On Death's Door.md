@@ -39,9 +39,16 @@ tags:
 > > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - We enter the [[Hallowed Bastion]] 
+> > - We meet Charles 
 > > ---
-> > - Gains scene 2
+> > - Whisps lead us down the road 
+> > - We ignore them once, they warn us 
+> > - [[Falatir]] wants to keep going, we pull him back 
+> > ---
+> > - We enter the [[Grand Exchange]] 
+> > - We meet [[Duke Ingrail]] 
+> > - He ambushes us and captures us
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
@@ -64,6 +71,7 @@ Large pristine Necropolis
 	- Sized as a town
 - Hallowed Bastion scrawled in common across the entrance
 - Undead watching and waiting
+
 [[Thornwick]]: King of Fey
 *We begin moving through the **necropolis***
 Will o Wisps escorting us across
@@ -76,6 +84,7 @@ Crossroads in the road:
 - Nobles
 - Game beasts
 - Lessers
+
 Game beasts is the most direct path
 We go down the noble path
 Elegant tombstones and so on, great quality
@@ -87,9 +96,11 @@ Larger tombs for manicores and basilisks
 - It’s the one we just killed
 - All dead killed within the borders of the place converge here
 - **What is the purpose of the summoning the dead here?**
+
 We leave the necropolis
 We proceed to the villages of the gilded lands
 - People going along their way
+
 The [[Grand Exchange]] is within this city
 Basically a big ‘ol market
 We meet a tea and coffee vendor named Duke Ingrail
