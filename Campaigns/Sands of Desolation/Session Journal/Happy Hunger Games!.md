@@ -32,20 +32,35 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Diane]] 
+> > - [[Arthur or Damien or Soren|Arthur/Damien]] as **Billy**
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - [[Thornwick]] and [[Weary]] do slave work in the mines 
+> > - We're building out more for the [[Hallowed Bastion]] I think 
 > > ---
-> > - Gains scene 2
+> > - [[Diane]] is a waitress for a party 
+> > - Rose woman summons me 
+> > - She knows who I am and something about my past 
+> > - Man named [[Drax]] offers me some assistance 
+> > - Says to meet him at [[Dwarven Forge]] 
+> > --- 
+> > - We are sent into the [[Hallowed Bastion]] for battle 
+> > - We battle and defeat Susie the Desecrator 
+> > - A red Lich tears a hydra apart as chaos erupts
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - Mines or something 
+> > - [[Hallowed Bastion]] 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Duke Ingrail]] 
+> > - [[Pleasure|Rose]] <span class="new-tag">new</span> 
+> > - Susie the Desecrator <span class="new-tag">new</span> 
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -74,7 +89,7 @@ More eyes upon me now as I do too good a job, likely to be punished with more wo
 Masquerade party marked man, rose colored mask
 Summoning me to them. Here we go
 Rose is a lady, extra elegant
-Rose supplied the Basilisk
+Rose supplied the Basilisk to the Brutus Squad
 Rose is also greatly empowered over Ingrail
 Original deal was we stayed enslaved
 Expecting the Dwarven Forge or something on our goals of travel

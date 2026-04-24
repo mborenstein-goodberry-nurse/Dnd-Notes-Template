@@ -88,6 +88,9 @@ Right arm is completely mechanical, has integrated gun
 Mechanical prosthetic right leg
 Named Cain
 See you in the next light the lich says
+> [!success] [[Escape from Ingrail]] quest Complete!
+
+
 Traveling on the outskirts of the Gilded Lands now
 Rolling countryside
 Now on a wooded landscape, everything feels distorted as we reach the border between the Dwarven Forge and the Gilded Lands

@@ -49,7 +49,8 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]
+> > - [[Campaigns/Sands of Desolation/Session Journal/A Nice Chat with the Pirate King|A Nice Chat with the Pirate King]]
+> > - [[The Session of Surge]]
 
 ### Log
 Grayson won against Graves in dice 

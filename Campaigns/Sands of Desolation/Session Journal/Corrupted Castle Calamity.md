@@ -55,7 +55,8 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Omnomicon Question Session]]
+> > - [[Omnomicon Question Session]]
+> > - [[Hit the Ground Running]] 
 
 ### Corrupted Castle Calamity
 Wiley stresses that we on the Material Plane do not need to rush it out 
