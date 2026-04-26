@@ -9,6 +9,15 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Bullets and Broncos Controls
+- [ ] [[Campaigns/Bullets and Broncos/Bullets and Broncos|Bullets and Broncos]]
+- [ ] [[Campaigns/Bullets and Broncos/Bullets and Broncos#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Bullets and Broncos
+	```
+
+
+
 ## The Monster Under Hollow Mountain Controls
 
 - [ ] [[Campaigns/The Monster Under Hollow Mountain/The Monster Under Hollow Mountain|The Monster Under Hollow Mountain]]

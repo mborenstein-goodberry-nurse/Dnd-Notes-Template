@@ -1,0 +1,111 @@
+---
+type: Campaign
+date: 04-25-2026
+world: Andrew's World
+campaign: Bullets and Broncos
+status: active
+role: player
+system: D&D 5e
+banner: z_Assets/System/RPG Group.jpg
+---
+# The Story of Bullets and Broncos
+
+## Controls 
+--- start-multi-column: Control panel p1\
+```column-settings
+number of columns: 4
+```
+
+```button
+name New Session Journal 
+type command
+action QuickAdd: Macro - New Session Journal Entry
+```
+```button
+name New Incident  
+type command
+action QuickAdd: Macro - New Event
+```
+--- end-column ---
+
+```button
+name New Person  
+type command
+action QuickAdd: Macro - New NPC
+```
+```button
+name New Map
+type command
+action QuickAdd: Macro - New Map
+```
+
+--- end-column ---
+
+```button
+name New Place  
+type command
+action QuickAdd: Macro - New Place
+```
+```button
+name New Item  
+type command
+action QuickAdd: Macro - New Item
+```
+
+--- end-column ---
+
+```button
+name New Quest  
+type command
+action QuickAdd: Macro - New Quest
+```
+```button
+name New Note  
+type command
+action QuickAdd: Macro - New Note
+```
+
+--- end-multi-column
+
+
+## [[Campaigns/Bullets and Broncos/Quest Board/Quest Board|Quest Board]] 
+```dataview
+TABLE summary as "Summary" from "Campaigns/Bullets and Broncos/Quest Board"
+where contains(type,"Quest") AND contains(status, "Active")
+where file.name != "Quest Board"
+sort questNum DESCENDING
+sort priority ASCENDING
+```
+
+## Journals
+```dataview
+TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
+from "Campaigns/Bullets and Broncos/Session Journal"
+where file.name != "Session Journal"
+sort sessionNum DESCENDING
+```
+
+
+## People
+
+### The Party 
+**Me**: [[]]
+**Others**:
+- [[]]
+
+### Other Characters 
+```dataview
+TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Bullets and Broncos/World Almanac/People"
+where file.name != "People"
+sort file.name ASC
+```
+
+## Places 
+```dataview
+TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/Bullets and Broncos/World Almanac/Places"
+where file.name != "Places"
+sort file.name ASC
+```
+
+## Custom Rules 
+
