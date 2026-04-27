@@ -6,7 +6,12 @@ campaign: Sands of Desolation
 status: Active
 role: player
 system: D&D 5e
-banner: z_Assets/System/RPG Group.jpg
+banner: z_Assets/Sands of Desolation/Sands of Desolation.png
+banner-height: 580
+content-start: 291
+banner-radius: 17
+banner-x: 50
+banner-y: 70
 ---
 # The Story of Sands of Desolation
 
@@ -95,14 +100,14 @@ sort questNum DESCENDING
 sort priority ASCENDING
 ```
 
-## Journals
+## [[Campaigns/Sands of Desolation/Session Journal/Session Journal|Journals]] 
 ```dataview
 TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Session Journal"
 where file.name != "Session Journal"
 sort sessionNum DESCENDING
+LIMIT 10
 ```
-
 
 ## People
 
@@ -124,7 +129,8 @@ sort file.name ASC
 
 ### Other Characters 
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Sands of Desolation/People"
+TABLE status as "Status", attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Sands of Desolation/People"
 where file.name != "People"
 sort file.name ASC
 ```
