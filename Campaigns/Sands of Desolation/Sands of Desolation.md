@@ -94,7 +94,8 @@ if (quests.length > 0) {
 ```dataview
 TABLE summary as "Summary" 
 from "Campaigns/Sands of Desolation/Quest Board"
-where contains(type,"Quest") AND contains(status, "Active")
+WHERE lower(type) = "quest"
+WHERE lower(status) = "active"
 where file.name != "Quest Board"
 sort questNum DESCENDING 
 sort priority ASCENDING
@@ -124,7 +125,6 @@ where file.name != "Da Party"
 where file.name != "Weary"
 where file.name != "Diane"
 where file.name != "Waffles"
-sort file.name ASC
 ```
 
 ### Other Characters 
@@ -132,18 +132,15 @@ sort file.name ASC
 TABLE status as "Status", attitude as "Attitude", summary as "Summary" 
 from "Campaigns/Sands of Desolation/People"
 where file.name != "People"
-sort file.name ASC
 ```
 
 ## Places 
 ```dataview
 TABLE from "Campaigns/Sands of Desolation/Maps"
 where file.name != "Maps"
-sort file.name ASC
 ```
 ```dataview
 TABLE size as "Size", attitude as "Attitude", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Places"
 where file.name != "Places"
-sort file.name ASC
 ```

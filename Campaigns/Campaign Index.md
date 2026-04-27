@@ -28,14 +28,3 @@ dv.table(["Campaign","System","Sessions", "Role","Status"],dv.pages('"Campaigns"
   .map(b => [dv.fileLink(b.file.path,false,[b.campaign]),b.system,getNumOfGames(b.campaign),b.role,b.status]))
 ```
 https://docs.google.com/document/d/1lkJysdHSxImZpdhQpgvqhcJ3JtIUSQ4pgPCyfgXv0bQ/edit?tab=t.0#heading=h.d02x49wbjosw
-
-Session Filtering Code (Straight Copy Paste): 
-
-        .where(page => {
-            if (page.type === 'session') {
-                if (page.campaign === campaign) {
-	                totalGames = totalGames + 1;
-                    return true;
-                }
-            }
-        })
