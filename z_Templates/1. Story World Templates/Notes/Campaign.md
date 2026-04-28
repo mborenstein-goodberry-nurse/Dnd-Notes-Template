@@ -8,7 +8,7 @@ role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg
 ---
-# The Story of <% tp.file.folder(false) %>
+# The Story of <% tp.file.title %>
 
 ## Controls 
 --- start-multi-column: Control panel p1\
@@ -68,44 +68,70 @@ action QuickAdd: Macro - New Note
 --- end-multi-column
 
 
-## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]] 
+## [[<%tp.file.folder(true)%>/Quest Board/Quest Board|Quest Board]]
+### Main Quest 
+```dataviewjs 
+const campaign = dv.current().campaign;
+
+const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+    .where(q => String(q.type ?? "").toLowerCase() === "quest")
+    .where(q => String(q.status ?? "").toLowerCase() === "active")  
+    .sort(q => Number(q.questNum ?? 999), "desc")
+	.sort(q => Number(q.priority ?? 999), "asc");
+
+if (quests.length > 0) {
+    dv.paragraph(`[[${quests[0].file.path}|${quests[0].file.name}]]`);
+} else {
+    dv.paragraph("*No active quests found.*");
+}
+```
+### Active
 ```dataview
-TABLE summary as "Summary" from "Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"
-where contains(type,"Quest") AND contains(status, "Active")
+TABLE summary as "Summary" 
+from "Campaigns/<% tp.file.title %>/Quest Board"
+WHERE lower(type) = "quest"
+WHERE lower(status) = "active"
 where file.name != "Quest Board"
-sort questNum DESCENDING
+sort questNum DESCENDING 
 sort priority ASCENDING
 ```
-
-## Journals
+## [[<%tp.file.folder(true)%>/Session Journal/Session Journal|Journals]] 
 ```dataview
 TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
 from "Campaigns/<% tp.file.title %>/Session Journal"
 where file.name != "Session Journal"
 sort sessionNum DESCENDING
+LIMIT 10
 ```
 
 
 ## People
 
 ### The Party 
-**Me**: [[]]
+**Me**: [[My Character]]
 **Others**:
-- [[]]
+```dataview
+TABLE attitude as "Attitude", summary as "Summary" 
+from "Campaigns/<% tp.file.title %>/Da Party"
+where file.name != "My Character"
+```
 
 ### Other Characters 
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/People"
+TABLE attitude as "Attitude", summary as "Summary" 
+from "Campaigns/<% tp.file.title %>/People"
 where file.name != "People"
 sort file.name ASC
 ```
 
 ## Places 
 ```dataview
-TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/<% tp.file.title %>/World Almanac/Places"
+TABLE from "Campaigns/<% tp.file.title %>/Maps"
+where file.name != "Maps"
+```
+```dataview
+TABLE size as "Size", attitude as "Attitude", summary as "Summary" 
+from "Campaigns/<% tp.file.title %>/Places"
 where file.name != "Places"
 sort file.name ASC
 ```
-
-## Custom Rules 
-

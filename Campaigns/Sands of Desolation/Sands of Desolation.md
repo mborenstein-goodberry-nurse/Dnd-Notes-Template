@@ -78,7 +78,7 @@ action QuickAdd: Macro - New Note
 ```dataviewjs 
 const campaign = dv.current().campaign;
 
-const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+const quests = dv.pages(`"Campaigns/Sands of Desolation/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
     .where(q => String(q.status ?? "").toLowerCase() === "active")  
     .sort(q => Number(q.questNum ?? 999), "desc")
@@ -100,7 +100,6 @@ where file.name != "Quest Board"
 sort questNum DESCENDING 
 sort priority ASCENDING
 ```
-
 ## [[Campaigns/Sands of Desolation/Session Journal/Session Journal|Journals]] 
 ```dataview
 TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
@@ -119,7 +118,7 @@ LIMIT 10
 - [[Waffles]]
 **Others**:
 ```dataview
-TABLE attitude as "Attitude", status as "Status", summary as "Summary" 
+TABLE attitude as "Attitude", summary as "Summary" 
 from "Campaigns/Sands of Desolation/Da Party"
 where file.name != "Da Party"
 where file.name != "Weary"
