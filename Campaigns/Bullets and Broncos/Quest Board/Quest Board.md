@@ -1,6 +1,6 @@
 ---
 type: Quest Board
-date: 04-25-2026
+date: 04-28-2026
 campaign: Bullets and Broncos
 world: Andrew's World
 banner: z_Assets/System/Quest Board.png

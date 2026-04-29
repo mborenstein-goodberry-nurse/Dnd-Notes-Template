@@ -1,14 +1,14 @@
 ---
 type: Session Journal
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
+date: 04-28-2026
+campaign: Bullets and Broncos
+world: Andrew's World
 sessionNum: 0
-fc-calendar: <% tp.user.getThisCampaign(tp) %>
+fc-calendar: Bullets and Broncos
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 fc-category: Sessions
 summary: The session that sets up initial rules, facts, and backstory
 tags:
@@ -16,7 +16,7 @@ tags:
 <div class="session-hero">
   <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
 </div> 
-<% await tp.file.rename(`Session 0`) %>
+
 
 ## ✧ Session Notes
 > [!fas-infobox|right no-title] Session Overview

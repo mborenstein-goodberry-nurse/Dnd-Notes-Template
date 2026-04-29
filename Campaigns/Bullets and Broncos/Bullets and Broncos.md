@@ -1,9 +1,9 @@
 ---
 type: Campaign
-date: 04-25-2026
+date: 04-28-2026
 world: Andrew's World
 campaign: Bullets and Broncos
-status: Active
+status: active
 role: player
 system: D&D 5e
 banner: z_Assets/System/RPG Group.jpg
@@ -68,44 +68,70 @@ action QuickAdd: Macro - New Note
 --- end-multi-column
 
 
-## [[Campaigns/Bullets and Broncos/Quest Board/Quest Board|Quest Board]] 
+## [[Campaigns/Bullets and Broncos/Quest Board/Quest Board|Quest Board]]
+### Main Quest 
+```dataviewjs 
+const campaign = dv.current().campaign;
+
+const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+    .where(q => String(q.type ?? "").toLowerCase() === "quest")
+    .where(q => String(q.status ?? "").toLowerCase() === "active")  
+    .sort(q => Number(q.questNum ?? 999), "desc")
+	.sort(q => Number(q.priority ?? 999), "asc");
+
+if (quests.length > 0) {
+    dv.paragraph(`[[${quests[0].file.path}|${quests[0].file.name}]]`);
+} else {
+    dv.paragraph("*No active quests found.*");
+}
+```
+### Active
 ```dataview
-TABLE summary as "Summary" from "Campaigns/Bullets and Broncos/Quest Board"
-where contains(type,"Quest") AND contains(status, "Active")
+TABLE summary as "Summary" 
+from "Campaigns/Bullets and Broncos/Quest Board"
+WHERE lower(type) = "quest"
+WHERE lower(status) = "active"
 where file.name != "Quest Board"
-sort questNum DESCENDING
+sort questNum DESCENDING 
 sort priority ASCENDING
 ```
-
-## Journals
+## [[Campaigns/Bullets and Broncos/Session Journal/Session Journal|Journals]] 
 ```dataview
 TABLE date as "Date", sessionNum as "Session", summary as "Summary" 
 from "Campaigns/Bullets and Broncos/Session Journal"
 where file.name != "Session Journal"
 sort sessionNum DESCENDING
+LIMIT 10
 ```
 
 
 ## People
 
 ### The Party 
-**Me**: [[]]
+**Me**: [[My Character]]
 **Others**:
-- [[]]
+```dataview
+TABLE attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Bullets and Broncos/Da Party"
+where file.name != "My Character"
+```
 
 ### Other Characters 
 ```dataview
-TABLE attitude as "Attitude", summary as "Summary" from "Campaigns/Bullets and Broncos/World Almanac/People"
+TABLE attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Bullets and Broncos/People"
 where file.name != "People"
 sort file.name ASC
 ```
 
 ## Places 
 ```dataview
-TABLE size as "Size", attitude as "Attitude", summary as "Summary" from "Campaigns/Bullets and Broncos/World Almanac/Places"
+TABLE from "Campaigns/Bullets and Broncos/Maps"
+where file.name != "Maps"
+```
+```dataview
+TABLE size as "Size", attitude as "Attitude", summary as "Summary" 
+from "Campaigns/Bullets and Broncos/Places"
 where file.name != "Places"
 sort file.name ASC
 ```
-
-## Custom Rules 
-

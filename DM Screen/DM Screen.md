@@ -9,9 +9,45 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
 ## Bullets and Broncos Controls
 - [ ] [[Campaigns/Bullets and Broncos/Bullets and Broncos|Bullets and Broncos]]
 - [ ] [[Campaigns/Bullets and Broncos/Bullets and Broncos#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Bullets and Broncos
+	```
+
+
+
+## Test Controls
+- [ ] [[Campaigns/Test/Test|Test]]
+- [ ] [[Campaigns/Test/Test#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test
+	```
+
+
+
+## Bullets and Broncos Controls
+- [ ] [[Bullets and Broncos pre|Bullets and Broncos pre]]
+- [ ] [[Bullets and Broncos pre#Controls|Controls]]
 - [ ] ```calendarium
         calendar: Bullets and Broncos
 	```

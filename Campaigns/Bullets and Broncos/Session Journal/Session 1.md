@@ -49,7 +49,7 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Bullets and Broncos/Session Journal/0. 2026-04-25|0. 2026-04-25]]
+> > [[Campaigns/Bullets and Broncos/Session Journal/Session 0]]
 
 ### Log
 The Party will be getting 77 gp worth of silver, also known as 7.5 lbs of raw silver, 7 silver, and 8 cp from the Silver Mines 
