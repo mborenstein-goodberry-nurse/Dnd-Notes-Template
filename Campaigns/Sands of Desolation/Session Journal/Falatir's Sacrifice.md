@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: We deal with the consequences of last session, and [[Falatir]] sacrifices himself for [[Isabelle]]
 tags:
 ---
 <div class="session-hero">
@@ -32,20 +32,21 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
->
-> > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
+> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Grayson]] 
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - Cave in [[Dwarven Forge]] 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Queen Isabel]] 
+> > - [[Isabelle]] <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -61,6 +62,7 @@ Where we left off:
 - Everyone but [[Falatir]] revealed their coins, nothing found
 - [[Falatir]] high suspicion
 - But What's his name tripped and now we have to fight an army Wiley didn’t mean for us to fight
+
 We defeat the duergar, stuff picking up again
 [[Falatir]] is concealing the coin with the curse from us
 - Vortex-Warped it away
