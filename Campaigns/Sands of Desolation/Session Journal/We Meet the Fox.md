@@ -57,6 +57,7 @@ Where we left off:
 - We returned it to Mechanical Wonders
 - We got cash
 - We slept and did stuff
+
 Someone stole a ring from the Mechanical Wonders 
 5 rings were stolen
 3 unimportant ones were recovered, 2 important ones unrecovered

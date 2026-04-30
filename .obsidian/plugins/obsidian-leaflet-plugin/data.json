@@ -29,34 +29,6 @@
       ]
     },
     {
-      "id": "Astrodan",
-      "lastAccessed": 1777556813970,
-      "markers": [
-        {
-          "id": "ID_ab09fbf9e96b",
-          "type": "default",
-          "loc": [
-            94.125,
-            185.25
-          ],
-          "link": "Secret World",
-          "layer": "%5B%5BAstrodan_Creeping_Darkness.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "A little safe alcove run by Vigor",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Campaigns/Sands of Desolation/Maps/Astrodan.md"
-      ]
-    },
-    {
       "id": "Astrodan Map",
       "locked": false,
       "lastAccessed": 1777556813970,
@@ -523,6 +495,32 @@
       "files": [
         "Campaigns/Sands of Desolation/Maps/Astrodan Map.md"
       ]
+    },
+    {
+      "id": "Astrodan",
+      "lastAccessed": 1777580940560,
+      "markers": [
+        {
+          "id": "ID_ab09fbf9e96b",
+          "type": "default",
+          "loc": [
+            94.125,
+            185.25
+          ],
+          "link": "Secret World",
+          "layer": "%5B%5BAstrodan_Creeping_Darkness.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A little safe alcove run by Vigor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
     }
   ],
   "defaultMarker": {

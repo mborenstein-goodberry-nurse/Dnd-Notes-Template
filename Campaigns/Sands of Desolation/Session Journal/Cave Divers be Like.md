@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: While [[Diane]] has an episode, we make our way to the [[Mechanical Wonders]] for some aid
 tags:
 ---
 <div class="session-hero">
@@ -32,20 +32,28 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
+> > - We go to [[Anvil's Flame]] 
+> > - Search out the [[Mechanical Wonders]] 
+> > - Meet [[Thrax]] and remeet [[Drax]]
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Dwarven Forge]] 
+> > - [[Anvil's Flame]] <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Mechanical Wonders]] <span class="new-tag">new</span>
+> > - [[Drax]] 
+> > - [[Thrax]] <span class="new-tag">new</span>
+> > - [[Baba Eris Whitewood]] <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -55,13 +63,15 @@ tags:
 Where we left off:
 - Everyone got strange dreams and stuff
 - [[Diane]] is frightened of Dragons and Dragon kin
+
 “She is coming [[Arthur or Damien or Soren|Arthur]]” [[Thornwick|Thorn]] says
 A hag grabbed him and squeezed, [[Thornwick|Thorn]] says
-The dome seems like clockwork, shimmering and changing like its looking for something
+The hemisphere seems like clockwork, shimmering and changing like its looking for something
 Purple light emanating from inside of it
-On the half side it looks like legs trying to grapple onto something like a surface
+On the flat side it looks like legs trying to grapple onto something like a surface
 Seems like its missing a half
-The great forge master
+Looking for The great forge master
+We take the highway to [[Anvil's Flame]]
 Acerwood Drive, 3105, guild will welcome us with open arms
 May not be there, the founders move within the country and surrounding areas a lot
 Mechanical Wonders
