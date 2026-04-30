@@ -1,28 +1,11 @@
 ---
-date: 04-29-2026
+type: Map
+date: 04-30-2026
 campaign: Sands of Desolation
 world: Wiley's World
-map_height_y: 1536
-map_width_x: 2048
-scale_pixels: 48
-scale_pixels_range: 50
-mapCalc1: 1.0416666666666667
 ---
-[[How to Make a Map|For Guidance, see me]] 
-
-> [!NOTE]- Quick Calculator  
-> Map Width in Pixels: `INPUT[number:map_width_x]`  
-> Map Height in Pixels: `INPUT[number:map_height_y]`  
-> lat: `VIEW[{map_height_y} / 2][math]`  
-> long: `VIEW[{map_width_x} / 2][math]`  
-> How Many Pixels In Scale: `INPUT[number:scale_pixels]`  
-> How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
-> Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
-
-![[Astrodan_Updated.jpg]]
-
 ```leaflet  
-id: AMapTemplateExample ### Must be unique with no spaces  
+id: Astrodan ### Must be unique with no spaces  
 image: [[Astrodan_Updated.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [1536, 2048]] ### Size of the map in px Height_y, Width_x. Ignore 0,0    
 height: 500px ### Size of the leaflet embed in px on your screen

@@ -1,5 +1,530 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Khoros",
+      "lastAccessed": 1772845039419,
+      "markers": [
+        {
+          "id": "ID_b8eb9bebe9e8",
+          "type": "default",
+          "loc": [
+            162.47435579279335,
+            132.93607486307093
+          ],
+          "link": "Teawhistle Estate",
+          "layer": "%5B%5Bkhoros_inner_city.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaigns/Adamarte and Adventurers/Maps/Khoros.md"
+      ]
+    },
+    {
+      "id": "Astrodan",
+      "lastAccessed": 1777556813970,
+      "markers": [
+        {
+          "id": "ID_ab09fbf9e96b",
+          "type": "default",
+          "loc": [
+            94.125,
+            185.25
+          ],
+          "link": "Secret World",
+          "layer": "%5B%5BAstrodan_Creeping_Darkness.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A little safe alcove run by Vigor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaigns/Sands of Desolation/Maps/Astrodan.md"
+      ]
+    },
+    {
+      "id": "Astrodan Map",
+      "locked": false,
+      "lastAccessed": 1777556813970,
+      "markers": [
+        {
+          "id": "ID_f9db181969e9",
+          "type": "default",
+          "loc": [
+            86.30469189119313,
+            240.464276714715
+          ],
+          "link": "Tangambalanga",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8d90a5b8a99",
+          "type": "default",
+          "loc": [
+            73.40968172311483,
+            226.7792414836321
+          ],
+          "link": "Crownsburrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1beb89abba5b",
+          "type": "default",
+          "loc": [
+            16.9579405813841,
+            212.10677642138677
+          ],
+          "link": "Sparrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a89d8bb2829",
+          "type": "default",
+          "loc": [
+            40.98214892687079,
+            235.83927711798296
+          ],
+          "link": "Isabelle's Castle",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b94b7a686989",
+          "type": "default",
+          "loc": [
+            44.982148682730184,
+            231.5892774885535
+          ],
+          "link": "Griffin Capital",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0978f89a6bdb",
+          "type": "default",
+          "loc": [
+            78.28556059107495,
+            239.99794864250262
+          ],
+          "link": "Tangambalanga",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79eba8abab49",
+          "type": "default",
+          "loc": [
+            84.66025169514515,
+            219.6829132709966
+          ],
+          "link": "Bloomsburrow",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19a8198a78bb",
+          "type": "default",
+          "loc": [
+            86.55981370634385,
+            190.65366587742287
+          ],
+          "link": "Tree of Life",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bd98ba9a81b",
+          "type": "default",
+          "loc": [
+            92.41317653763565,
+            185.5902723272694
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e928c86aeabb",
+          "type": "default",
+          "loc": [
+            110.375,
+            190.375
+          ],
+          "link": "Gilbert's Guild Gate",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            47.59375,
+            -36.791666666666664
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbcb99b86b8b",
+          "type": "default",
+          "loc": [
+            132.5491072052547,
+            176.78569014101822
+          ],
+          "link": "Renline",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59ebf84a58aa",
+          "type": "default",
+          "loc": [
+            100.1640625,
+            132.625
+          ],
+          "link": "City of Rust",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8ea1808e8fa",
+          "type": "default",
+          "loc": [
+            66.49565879017557,
+            75.30687219636731
+          ],
+          "link": "Pirate Kingdom",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a5bba19db68",
+          "type": "default",
+          "loc": [
+            181.251355396333,
+            49.8510280736516
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_589ad8d9781a",
+          "type": "default",
+          "loc": [
+            26.748523707072366,
+            150.03922013302054
+          ],
+          "link": "Gilded Lands",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_487a187b2999",
+          "type": "default",
+          "loc": [
+            54.1640625,
+            203.46875
+          ],
+          "link": "Griffin Empire",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d97beab80bbb",
+          "type": "default",
+          "loc": [
+            60.6640625,
+            194.09375
+          ],
+          "link": "Duskhaven",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_595bb95a3a7a",
+          "type": "default",
+          "loc": [
+            4.453125,
+            182.59375
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b91a8b0a796b",
+          "type": "default",
+          "loc": [
+            7.578125,
+            157.09375
+          ],
+          "link": "Grand Exchange",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abb928993b69",
+          "type": "default",
+          "loc": [
+            5.453125,
+            132.34375
+          ],
+          "link": "Towers of Icarus",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5848baf81bc9",
+          "type": "default",
+          "loc": [
+            16.114300630634055,
+            113.20337625058383
+          ],
+          "link": "Dwarven Forge",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_684bb98a3a3a",
+          "type": "default",
+          "loc": [
+            87.4140625,
+            22.09375
+          ],
+          "link": "Astofen",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8ba0ad98ba8",
+          "type": "Kingdom",
+          "loc": [
+            128.6640625,
+            140.09375
+          ],
+          "link": "The Wastes",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8f958080aab",
+          "type": "default",
+          "loc": [
+            159.1640625,
+            49.59375
+          ],
+          "link": "Foo Fighters",
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c99be86b39ba",
+          "type": "default",
+          "loc": [
+            143.0390625,
+            32.71875
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6be8a85a882b",
+          "type": "default",
+          "loc": [
+            97.81275521632038,
+            158.52450150725912
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0898db29da0b",
+          "type": "default",
+          "loc": [
+            126.328125,
+            206.4375
+          ],
+          "layer": "%5B%5BAstrodan_Updated.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campaigns/Sands of Desolation/Maps/Astrodan Map.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,7 +535,24 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Kingdom",
+      "iconName": "chess-king",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 1.5,
+      "maxZoom": 3
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -23,13 +565,62 @@
     "patch": 5
   },
   "warnedAboutMapMarker": false,
-  "copyOnClick": false,
+  "copyOnClick": true,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
-  "enableDraw": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 1.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Astrodan_Creeping_Darkness.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Astrodan_Creeping_Darkness.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Astrodan",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        192,
+        256
+      ]
+    ],
+    "unit": "miles",
+    "lat": 96,
+    "long": 128,
+    "filterTag": []
+  },
+  "enableDraw": false,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
