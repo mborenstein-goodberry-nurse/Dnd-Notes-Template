@@ -32,20 +32,29 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Diane]] 
+> > - [[Falatir]] 
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - We Defeat [[Gideon]] 
+> > - We flee the [[Towers of Icarus]] as it unifies into one tower 
 > > ---
-> > - Gains scene 2
+> > - [[The Fox]] is [[Falatir|Falatir's]] patron 
+> > - [[Lunatir]] introduces herself to [[Weary]], likes him 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Towers of Icarus]] 
+> > - [[Dwarven Forge]] <span class="new-tag">new</span>
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Gideon]] 
+> > - [[The Fox]]  <span class="new-tag">new</span>
+> > - [[Lunatir]] <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -54,6 +63,7 @@ tags:
 ### Log
 Where we left off:
 - We’re in tower fighting gideon
+
 [[Thornwick]] rips the hemisphere out of Gideon (uses inspiration)
 Towers are crumbling
 The remaining idol is mending the tower
