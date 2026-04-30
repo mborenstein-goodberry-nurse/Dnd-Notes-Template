@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: Missed Session
 tags:
 ---
 <div class="session-hero">
@@ -32,20 +32,9 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
->
-> > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
->
-> > [!todo|brown no-title no-icon]
-> > ## Locations
-> > - Places <span class="new-tag">new</span>
-> 
-> > [!todo|green no-title no-icon] 
-> > ## People 
-> > - Person 
+> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Falatir]] 
+> > - [[Thornwick]] 
 > 
 > > [!footer] 
 > > ## Previous Session 
