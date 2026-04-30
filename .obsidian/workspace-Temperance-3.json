@@ -1,0 +1,478 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "image",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"z_Assets/image.png\"},\"icon\":\"lucide-image\",\"title\":\"image\"}",
+                  "eState": "{}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Map Creator Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sands of Desolation/Maps/Map Creator Guide.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Map Creator Guide\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":27},\"to\":{\"line\":24,\"ch\":27}},\"scroll\":10.44645978488525}"
+                },
+                {
+                  "title": "Map Creation Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"z_Templates/1. Story World Templates/Notes/Map Creation Guide.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Map Creation Guide\"}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Astrodan Map",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Sands of Desolation/Maps/Astrodan Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Astrodan Map\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}}}"
+                },
+                {
+                  "title": "Campaign Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaigns/Campaign Index.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Campaign Index\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Make a Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Make a Map"
+            }
+          },
+          {
+            "id": "1a91f69c2883dffb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Sands of Desolation/Maps/Map Creator Guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Map Creator Guide"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc8682c660be5b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a3442373624822e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8cdeb27849a60df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "175caa483d96355c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bba64f5c6148a83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae20b48e562d5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c226bbe5d4fdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbaa1c24958fbf36",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "bb41178daa0b3db8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0938cbdbdb48",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 11,
+                    "year": 2025
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_d96bc9db3859"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "a613b60000a42799",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "9fcd09ba1a93c6ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "be6513bba0e2b3c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18641b80b3f46df7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Campaigns/Sands of Desolation/Maps/Map Creator Guide.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Map Creator Guide"
+            }
+          },
+          {
+            "id": "bd2ae1069928ace5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaigns/Campaign Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Campaign Index"
+            }
+          },
+          {
+            "id": "c13b068d74e8f0b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bf05ad95eb22eb4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Screen/DM Screen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DM Screen"
+            }
+          },
+          {
+            "id": "95270a31e6908818",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "calendarium:Open Calendarium": false,
+      "switcher:Open quick switcher": false,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1a91f69c2883dffb",
+  "lastOpenFiles": [
+    "How to Make a Map.md",
+    "z_Assets/System/Map Scale How To.png",
+    "z_Assets/image.png",
+    "Campaigns/Sands of Desolation/Maps/Map Creator Guide.md",
+    "z_Assets/Phandalin Banner.png",
+    "z_Assets/System/Template Map.jpg",
+    "z_Templates/1. Story World Templates/Notes/Map Creation Guide.md",
+    "Campaigns/Sands of Desolation/Maps/Astrodan Map.md",
+    "Campaigns/Campaign Index.md",
+    "Campaigns/Sands of Desolation/Sands of Desolation.md",
+    "Campaigns/Test/Quest Board/Quest Board.md",
+    "Campaigns/Test/Test.md",
+    "Campaigns/Test/Session Journal/desktop.ini",
+    "Campaigns/Test/Other/desktop.ini",
+    "Campaigns/Test/Maps/desktop.ini",
+    "Campaigns/Test/Quest Board/Test Quest.md",
+    "Campaigns/Test/Session Journal/Session 0.md",
+    "Campaigns/Test/Session Journal",
+    "Campaigns/Test/Quest Board/Test Setup Quest.md",
+    "Campaigns/Test/Quest Board",
+    "Campaigns/Test/Da Party/Party Member 3.md",
+    "Campaigns/Test/Da Party/Party Member 2.md",
+    "Campaigns/Test/Da Party/Party Member 1.md",
+    "Campaigns/Test/Da Party/My Character.md",
+    "Campaigns/Test/Da Party",
+    "Campaigns/Test/Maps/Test Map.md",
+    "Campaigns/Test/Maps",
+    "Campaigns/Test/Other/Significant Item.md",
+    "Campaigns/Test/Other",
+    "Campaigns/Test/Places/Hometown.md",
+    "Campaigns/Test/Places",
+    "Campaigns/Test/People/Backstory Person.md",
+    "Campaigns/Test/People",
+    "Campaigns/Test/Calendar.md",
+    "z_Templates/1. Story World Templates/Events/Setup Quest.md",
+    "z_Templates/1. Story World Templates/Events/Quest.md",
+    "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
+    "z_Templates/1. Story World Templates/Notes/Session Journal.md",
+    "Campaigns/Bullets and Broncos/Quest Board/Quest Board.md",
+    "z_Assets/Paper Texture.jpg",
+    "z_Assets/Paper TExture.jpg",
+    "z_Assets/Adamarte and Adventurers/Adamarte_Map.png",
+    "z_Assets/Adamarte and Adventurers/Blackberry Mead.png",
+    "z_Assets/Adamarte and Adventurers/Blue Butterfly.png",
+    "z_Assets/Adamarte and Adventurers/Captain Helga.png",
+    "1. World Almanac/3rd Party Modules/Untitled.canvas"
+  ]
+}
