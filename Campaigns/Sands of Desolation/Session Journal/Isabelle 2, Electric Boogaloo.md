@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and set the tone for what she's in for
+summary: Thanks to [[Falatir|Falatir's]] sacrifice, we now have his wife [[Isabelle]]! We immediately fight a gronulator and a hag and set the tone for what she's in for
 tags:
 ---
 <div class="session-hero">
@@ -32,20 +32,21 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
->
-> > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
+> > - [[Arthur or Damien or Soren|Arthur]]
+> > - [[Diane]] 
+> > - [[Grayson]]
+> > - [[Isabelle]]
+> > - [[Thornwick]] 
+> > - [[Weary]] 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - Cave in [[Dwarven Forge]] 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Baba Eris Whitewood]]
+> > - Gronulator?  <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -59,6 +60,7 @@ Where we left off:
 	- Hag called him a bad role model
 - Krieg has suffered a minor transformation
 	- Krieg is an now actual imp and transformed into a sidekick
+
 Hag is raising his son to hate him and loves him
 Hag is also ugly
 New party member [[Isabelle]]
@@ -66,7 +68,7 @@ New party member [[Isabelle]]
 Oh, wildfire druid, and primordial companion
 Wildfire druid and beast companion druid
 Giving the boar the wrong vibes, something’s off with [[Thornwick]]
-[[Isabelle]] is Queen of Sirvana?! 
+[[Isabelle]] is/was Queen of Sirvana?! 
 [[Thornwick]] charges ahead! Guess we are too
 Mouth of the gronulator beast
 Hag has an AC of 17
