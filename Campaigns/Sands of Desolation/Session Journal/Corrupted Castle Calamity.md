@@ -74,6 +74,8 @@ Wiley stresses that we on the Material Plane do not need to rush it out
 > - [[Isabelle]] 
 > - [[Jimminey]] (Technically) 
 
+^1e9098
+
 [[Biara]] - Red Queen, a Succubus, impostering as [[Queen Isabel]]  
 [[Alaric|Alaric's]] mind is shattered because he didn't realize he is serving a devil 
 [[Veldrin]] tries to convince him to join us 
