@@ -11,14 +11,14 @@ banner-y: 62
 ```dataviewjs 
 const campaign = dv.current().campaign;
 
-const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+const quests = dv.pages(`"Campaigns/Sands of Desolation/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
-    .where(q => String(q.status ?? "").toLowerCase() === "active")
-    .sort(q => Number(q.questNum ?? 999), "asc")
-    .sort(q => Number(q.priority ?? 999), "asc");
+    .where(q => String(q.status ?? "").toLowerCase() === "active")  
+    .sort(q => Number(q.questNum ?? 999), "desc")
+	.sort(q => Number(q.priority ?? 999), "asc");
 
 if (quests.length > 0) {
-    dv.paragraph(`![[${quests[0].file.path}]]`);
+    dv.paragraph(`![[${quests[0].file.path}|${quests[0].file.name}]]`);
 } else {
     dv.paragraph("*No active quests found.*");
 }
@@ -30,10 +30,12 @@ action QuickAdd: Macro - New Quest
 ```
 ### Active
 ```dataview
-TABLE summary as "Summary" from "Campaigns/Sands of Desolation/Quest Board"
-where contains(type,"Quest") AND contains(status, "Active")
+TABLE summary as "Summary" 
+from "Campaigns/Sands of Desolation/Quest Board"
+WHERE lower(type) = "quest"
+WHERE lower(status) = "active"
 where file.name != "Quest Board"
-sort questNum DESCENDING
+sort questNum DESCENDING 
 sort priority ASCENDING
 ```
 

@@ -10,6 +10,7 @@ fc-category: Quests
 status: Active
 summary: Final Setup Information for the Bullets and Broncos Campaign!
 tags:
+priority: 0
 ---
 ### [[Bullets and Broncos Setup Quest]]
 #### Overview 

@@ -1,24 +1,23 @@
 ---
 type: Quest
 subtype: Lore
-priority: 3
-questNum: 50
-date: 04-03-2026
+priority: 2
+questNum: 0
+date: 05-01-2026
 campaign: Sands of Desolation
 world: Wiley's World
-location:
-fc-calendar: WIley's World
+fc-calendar: Wiley's World
 fc-date:
-  year: 2025
-  month: 12
-  day: 8
+  year: 0
+  month: 0
+  day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
-status: Completed
-summary: We are starting with rallying the Griffin Empire against the wastes
+status: Active
+summary: Defeat the Hell pit
 tags:
 ---
-### [[Unite the Griffin Empire]]
+### [[Defeat the Hell Pit]]
 *`=this.summary`*
 
 #### Overview 
@@ -28,15 +27,11 @@ tags:
 Placeholder
 
 #### Progression
-- [x] Meet with [[Queen Isabel]] (not ours)
-- [x] Enter the [[Griffin Capital]] 
-- [x] Presumably defeat the Red Bishop and his order
-- [x] Defeat the Imposter Queen 
-- [x] Restore [[Queen Isabel]] to the throne
+- [ ] Task
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-We would earn the Griffin Empire to our Side, gaining an army against the Wastes 
+Money
 
 #### Additional Details 

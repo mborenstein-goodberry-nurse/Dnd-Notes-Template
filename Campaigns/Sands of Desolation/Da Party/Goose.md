@@ -1,18 +1,18 @@
 ---
 type: Creature
 subtype: NPC
-date: 04-23-2026
+date: 05-01-2026
 campaign: Sands of Desolation
 world: Wiley's World
-status: Active
-attitude: Indifferent
-summary: Lich of the [[Hallowed Bastion]]
+status: Alive
+attitude: Friendly
 alignment: Unaligned
 aliases:
 tags:
+summary: Cute Racoon boi
 ---
 
-# [[Sevrath]]
+# [[Goose]]
 *`=this.summary`*
 
 #### Overview 

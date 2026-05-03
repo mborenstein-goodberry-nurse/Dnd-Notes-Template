@@ -72,6 +72,7 @@ Wiley stresses that we on the Material Plane do not need to rush it out
 > - Duplicate [[Weary]] 
 > - [[Alaric]] 
 > - [[Isabelle]] 
+> - [[Erinyes]] and Black Guard 
 > - [[Jimminey]] (Technically) 
 
 ^1e9098
@@ -84,7 +85,7 @@ There is a large pane glass of Isabel, and large arches. No chandelier
 0:6:45 Biara's Chainshot attack increased by bouncing between people by **1d8** 
 **[[Radiant]] does not do nearly as much as we hoped against [[Biara]]** 
 You will relisten to yourself at minute 37 
-[[Diane]] is [[charmed]], attacks [[Jiminey]] 
+[[Diane]] is [[charmed]], attacks [[Jimminey]] 
 [[Weary]] thinks it's still a dream by Lunatir. he casts [[Reverse Gravity]] on the entire room XD 
 The roof is **65 feet** high 
 Some of us hit the beam at **35 feet** 

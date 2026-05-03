@@ -1,22 +1,23 @@
 ---
 type: Quest
-subtype: Other
+subtype: Errand/Shopping
 priority: 5
-questNum: <% tp.user.getThisQuestNum(tp) %>
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-fc-calendar: <% tp.user.getThisWorld(tp) %>
+questNum: 0
+date: 05-02-2026
+campaign: Bullets and Broncos
+world: Andrew's World
+fc-calendar: Andrew's World
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
+summary: I can upgrade my ankheg armor at [[Raggedy Anne]]'s
 tags:
 ---
-### [[<% tp.file.title %>]]
+### [[Upgrade Ankheg]]
 *`=this.summary`*
 
 #### Overview 
@@ -26,9 +27,11 @@ tags:
 Placeholder
 
 #### Progression
-- [ ] Task
+- [ ] Go to [[Raggedy Anne]]'s
+- [ ] Upgrade Armor 
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-- Money 
+Better damage threshold 
+Possibly Better AC?

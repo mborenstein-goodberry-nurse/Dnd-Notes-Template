@@ -3,7 +3,7 @@ type: Session Journal
 date: 04-25-2026
 campaign: Bullets and Broncos
 world: Andrew's World
-sessionNum: 1
+sessionNum: 88
 fc-calendar: Bullets and Broncos
 fc-date:
   year: 0

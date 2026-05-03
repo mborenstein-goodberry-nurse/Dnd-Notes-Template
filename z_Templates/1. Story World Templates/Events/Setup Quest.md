@@ -1,7 +1,7 @@
 ---
 type: Quest
 subtype: Setup
-priority: 1
+priority: 0
 questNum: 0
 date: <% tp.date.now("MM-DD-YYYY") %>
 campaign: <% tp.user.getThisCampaign(tp) %>
@@ -21,7 +21,7 @@ tags:
 
 #### Overview 
 **Mission Type**: `INPUT[inlineSelect(option(Lore), option(Errand/Shopping), option(Fetch), option(Delivery), option(Infiltration), option(Investigation), option(Survival), option(Setup), option(Other)):subtype]`
-**Priority**: `INPUT[inlineSelect(option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
+**Priority**: `INPUT[inlineSelect(option(0, Setup), option(1, Time-Critical), option(2, Important), option(3, Scheduled), option(4, Side Quest), option(5, Neutral)):priority]`
 
 This is your first quest: to set up the campaign! 
 

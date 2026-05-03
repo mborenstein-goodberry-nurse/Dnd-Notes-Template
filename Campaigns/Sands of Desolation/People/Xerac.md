@@ -1,17 +1,18 @@
 ---
-type: NPC
-date: 04-17-2026
+type: Creature
+subtype: NPC
+date: 04-23-2026
 campaign: Sands of Desolation
 world: Wiley's World
-status: Dead
-summary: Imposter succubus
-attitude: Hostile
-alignment: Lawful Evil
+status: Active
+attitude: Indifferent
+summary: Lich of the [[Hallowed Bastion]]
+alignment: Unaligned
 aliases:
 tags:
 ---
 
-# [[Biara]]
+# [[Xerac]]
 *`=this.summary`*
 
 #### Overview 
@@ -24,7 +25,7 @@ tags:
 **Summary**: `INPUT[text:summary]`
 
 #### Description
-She is a succubus, and she was impersonating [[Queen Isabelle of the Griffen Empire]]
+
 
 #### Relationships
 

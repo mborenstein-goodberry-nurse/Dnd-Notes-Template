@@ -39,7 +39,7 @@ tags:
 > > - [[Weary]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - [[Sevrath]] introduces himself to us 
+> > - [[Xerac]] introduces himself to us 
 > > - Sends [[Grayson]], Cain, and Krieg into the party 
 > > ---
 > > - We arrive at the [[Towers of Icarus]] 
@@ -52,7 +52,7 @@ tags:
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - [[Sevrath]] <span class="new-tag">new</span> 
+> > - [[Xerac]] <span class="new-tag">new</span> 
 > > - Radiant Idol <span class="new-tag">new</span> 
 > 
 > > [!footer] 

@@ -1,7 +1,7 @@
 ---
 type: Quest
 subtype: Delivery
-priority: 2
+priority: 3
 questNum: 49
 date: 04-09-2026
 campaign: Sands of Desolation

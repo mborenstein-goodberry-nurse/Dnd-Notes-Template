@@ -2,21 +2,22 @@
 type: Quest
 subtype: Other
 priority: 5
-questNum: <% tp.user.getThisQuestNum(tp) %>
-date: <% tp.date.now("MM-DD-YYYY") %>
-campaign: <% tp.user.getThisCampaign(tp) %>
-world: <% tp.user.getThisWorld(tp) %>
-fc-calendar: <% tp.user.getThisWorld(tp) %>
+questNum: 1
+date: 05-02-2026
+campaign: Bullets and Broncos
+world: Andrew's World
+fc-calendar: Andrew's World
 fc-date:
-  year: <% tp.user.getThisDate(tp)[0] %>
-  month: <% tp.user.getThisDate(tp)[1] %>
-  day: <% tp.user.getThisDate(tp)[2] %>
+  year: 0
+  month: 0
+  day: 0
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Active
+summary: "Let's learn blacksmith's tools to learn even more makey things"
 tags:
 ---
-### [[<% tp.file.title %>]]
+### [[Learn Blacksmith's Tools]]
 *`=this.summary`*
 
 #### Overview 
@@ -31,4 +32,5 @@ Placeholder
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-- Money 
+- Able to make even more things with spells 
+- Other uses? 

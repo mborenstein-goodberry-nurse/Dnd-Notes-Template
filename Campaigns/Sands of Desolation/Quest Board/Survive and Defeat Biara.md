@@ -1,13 +1,12 @@
 ---
 type: Quest
-subtype: Lore
-priority: 3
-questNum: 50
-date: 04-03-2026
+subtype: Survival
+priority: 1
+questNum: 0
+date: 05-01-2026
 campaign: Sands of Desolation
 world: Wiley's World
-location:
-fc-calendar: WIley's World
+fc-calendar: Wiley's World
 fc-date:
   year: 2025
   month: 12
@@ -15,10 +14,10 @@ fc-date:
 pixel-banner-flag-color: blue
 fc-category: Quests
 status: Completed
-summary: We are starting with rallying the Griffin Empire against the wastes
+summary: "[[Biara]] is impersonating [[Queen Isabel]]! Defeat her and live"
 tags:
 ---
-### [[Unite the Griffin Empire]]
+### [[Survive and Defeat Biara]]
 *`=this.summary`*
 
 #### Overview 
@@ -28,15 +27,11 @@ tags:
 Placeholder
 
 #### Progression
-- [x] Meet with [[Queen Isabel]] (not ours)
-- [x] Enter the [[Griffin Capital]] 
-- [x] Presumably defeat the Red Bishop and his order
-- [x] Defeat the Imposter Queen 
-- [x] Restore [[Queen Isabel]] to the throne
+- [x] Survive 
+- [x] Kill [[Biara]] 
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
 #### Rewards 
-We would earn the Griffin Empire to our Side, gaining an army against the Wastes 
-
-#### Additional Details 
+[[Biara]] is dead
+Necessary step before we [[Return Queen Isabel]] to the throne
