@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary: We finish the battle against Biara
+summary: We finish the battle against [[Biara]]
 tags:
 ---
 <div class="session-hero">
