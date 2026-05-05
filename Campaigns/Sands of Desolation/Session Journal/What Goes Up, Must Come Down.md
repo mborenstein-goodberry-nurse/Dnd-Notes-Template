@@ -34,7 +34,7 @@ tags:
 > > ### Party 
 > > - [[BearCrest]] 
 > > - [[Diane]] 
-> > - Goose? 
+> > - [[Goose]]? 
 > > - [[Hisirdoux]]?
 > > - [[Jimminey|Jiminey Frickit]] 
 > > - [[Phoebe]]
@@ -43,8 +43,18 @@ tags:
 >
 > > [!todo|cyan no-title no-icon]
 > > - We resume the battle with a bunch of us on the ceiling
+> > - [[Biara]] is dead. Long Live [[Biara]]!  
 > > ---
-> > - Gains scene 2
+> > - We manage to track down [[Queen Isabel]] 
+> > 	- She was hidden in an anti-magic cage 
+> > 	- Trapped by [[Pleasure|Rose]] 
+> > - We use that cage to kill the duplicate [[Weary]] 
+> > - We call out and promote our boi [[Garth]] 
+> > ---
+> > - We gain our next quests 
+> > 	- [[Defeat the Necropolis]] 
+> > 	- [[Defeat the Hell Pit]] 
+> > 	- [[Save Astrofen]] 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
@@ -73,7 +83,7 @@ Everyone realizes that [[Weary]] is about to lose [[Concentration]]
 That was the **Lair Action**
 [[Weary]] loses [[Concentration]] 
 Diane's held action [[Divine Word]] banishes 4 black guard permanently, the erines and [[Biara]] remain 
-[[Hisirdoux]] and Goose enter, confused 
+[[Hisirdoux]] and [[Goose]] enter, confused 
 ooh and [[Biara]] is [[Prone]] 
 Duplicate [[Weary]] fails to banish and surges 
 - A gust of wind blows around within 40 feet of [[Weary]] 
@@ -140,3 +150,7 @@ Some loot with lore significance at 2:45:00
 We let her out of the cage, completing [[Return Queen Isabel]] 
 A hellish pit was opened in [[Dwarven Forge]], sometime after our party visited 
 We [[long rest]] at [[Isabel's Castle]] 
+#### New Quests 
+1. [[Defeat the Necropolis]] 
+2. [[Defeat the Hell Pit]] 
+3. [[Save Astrofen]] 
