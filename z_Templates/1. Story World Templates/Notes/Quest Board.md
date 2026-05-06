@@ -9,9 +9,7 @@ banner-y: 62
 ---
 ### Main Quest 
 ```dataviewjs 
-const campaign = dv.current().campaign;
-
-const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+const quests = dv.pages(`"Campaigns/<% tp.user.getThisCampaign(tp) %>/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
     .where(q => String(q.status ?? "").toLowerCase() === "active")
     .where(q => q.questNum != null)

@@ -6,11 +6,11 @@ world: WIley's World
 banner: z_Assets/System/Quest Board.png
 banner-x: 49
 banner-y: 62
+banner-height: 500
+banner-fade: -25
 ---
 ### Main Quest 
 ```dataviewjs 
-const campaign = dv.current().campaign;
-
 const quests = dv.pages(`"Campaigns/Sands of Desolation/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
     .where(q => String(q.status ?? "").toLowerCase() === "active")  

@@ -71,9 +71,7 @@ action QuickAdd: Macro - New Note
 ## [[Campaigns/Bullets and Broncos/Quest Board/Quest Board|Quest Board]]
 ### Main Quest 
 ```dataviewjs 
-const campaign = dv.current().campaign;
-
-const quests = dv.pages(`"Campaigns/${campaign}/Quest Board"`)
+const quests = dv.pages(`"Campaigns/Bullets and Broncos/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
     .where(q => String(q.status ?? "").toLowerCase() === "active")  
     .sort(q => Number(q.questNum ?? 999), "desc")

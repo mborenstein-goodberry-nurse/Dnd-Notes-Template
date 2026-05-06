@@ -1,15 +1,26 @@
 ---
 type: Quest Board
-date: 11-29-2025
+date: 05-06-2026
 campaign: Adamarte and Adventurers
 world: Lily's World
-banner: z_Assets/Quest Board.png
+banner: z_Assets/System/Quest Board.png
 banner-x: 49
 banner-y: 62
 ---
 ### Main Quest 
-![[Campaigns/Adamarte and Adventurers/Quest Board/Adamarte and Adventurers Setup Quest]]
+```dataviewjs 
+const quests = dv.pages(`"Campaigns/Adamarte and Adventurers/Quest Board"`)
+    .where(q => String(q.type ?? "").toLowerCase() === "quest")
+    .where(q => String(q.status ?? "").toLowerCase() === "active")
+    .where(q => q.questNum != null)
+    .sort(q => Number(q.questNum), "asc");
 
+if (quests.length > 0) {
+    dv.paragraph(`![[${quests[0].file.path}]]`);
+} else {
+    dv.paragraph("*No active quests found.*");
+}
+```
 ```button
 name New Quest  
 type command
@@ -20,6 +31,8 @@ action QuickAdd: Macro - New Quest
 TABLE summary as "Summary" from "Campaigns/Adamarte and Adventurers/Quest Board"
 where contains(type,"Quest") AND contains(status, "Active")
 where file.name != "Quest Board"
+sort questNum DESCENDING
+sort priority ASCENDING
 ```
 
 ### Completed
@@ -27,5 +40,6 @@ where file.name != "Quest Board"
 TABLE summary as "Summary" from "Campaigns/Adamarte and Adventurers/Quest Board"
 where contains(type,"Quest") AND contains(status, "Completed")
 where file.name != "Quest Board"
+sort questNum DESCENDING
 ```
 

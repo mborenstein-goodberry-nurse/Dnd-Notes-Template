@@ -76,8 +76,6 @@ action QuickAdd: Macro - New Note
 ## [[Campaigns/Sands of Desolation/Quest Board/Quest Board|Quest Board]] 
 ### Main Quest 
 ```dataviewjs 
-const campaign = dv.current().campaign;
-
 const quests = dv.pages(`"Campaigns/Sands of Desolation/Quest Board"`)
     .where(q => String(q.type ?? "").toLowerCase() === "quest")
     .where(q => String(q.status ?? "").toLowerCase() === "active")  

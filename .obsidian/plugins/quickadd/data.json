@@ -32,7 +32,145 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Template - Da Party",
+            "type": "NestedChoice",
+            "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
+            "choice": {
+              "id": "04c80f1b-09e8-4d7b-9212-b4cd490bf17c",
+              "name": "Template - Da Party",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/My Character"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
               "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "57658d22-ed17-4920-9dee-0e9f1132ae4f",
+            "commandId": "file-explorer:reveal-active-file"
+          },
+          {
+            "name": "Party Member 1",
+            "type": "NestedChoice",
+            "id": "8aa210d3-afb0-434a-ac5d-d94bad07d8de",
+            "choice": {
+              "id": "9444fd45-638f-4311-867e-197c4f8937ae",
+              "name": "Party Member 1",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 1"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Party Member 2",
+            "type": "NestedChoice",
+            "id": "cd29263a-516e-439e-ade7-a2c54f952f62",
+            "choice": {
+              "id": "d9a065a2-18d8-4c2b-bbd7-17d7c26b6415",
+              "name": "Party Member 2",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 2"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": false
+            }
+          },
+          {
+            "name": "Party Member 3",
+            "type": "NestedChoice",
+            "id": "9f671fa7-11f4-4852-b3b7-3975a7ce7831",
+            "choice": {
+              "id": "4865da2f-e607-467b-9f1c-b20dd5ea6046",
+              "name": "Party Member 3",
+              "type": "Template",
+              "command": false,
+              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 3"
+              },
+              "folder": {
+                "enabled": false,
+                "folders": [],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": false,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -176,39 +314,6 @@
             }
           },
           {
-            "name": "Map Creator Guide",
-            "type": "NestedChoice",
-            "id": "a190309c-c433-4095-9109-9616894359a6",
-            "choice": {
-              "id": "3260dc4b-a172-4dc2-950e-058c1ec4ad3f",
-              "name": "Map Creator Guide",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Map Creation Guide.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Maps/Map Creation Guide"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          },
-          {
             "name": "Template - New Maps",
             "type": "NestedChoice",
             "id": "8e3b20f5-86b3-46de-8a36-2bfa93330fe2",
@@ -242,18 +347,18 @@
             }
           },
           {
-            "name": "Template - Da Party",
+            "name": "Map Creator Guide",
             "type": "NestedChoice",
-            "id": "e8435838-a72a-498b-bf50-4b7d64488ddb",
+            "id": "a190309c-c433-4095-9109-9616894359a6",
             "choice": {
-              "id": "04c80f1b-09e8-4d7b-9212-b4cd490bf17c",
-              "name": "Template - Da Party",
+              "id": "3260dc4b-a172-4dc2-950e-058c1ec4ad3f",
+              "name": "Map Creator Guide",
               "type": "Template",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Map Creation Guide.md",
               "fileNameFormat": {
                 "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/My Character"
+                "format": "Campaigns/{{VALUE:Campaign}}/Maps/Map Creation Guide"
               },
               "folder": {
                 "enabled": false,
@@ -263,7 +368,7 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
-              "openFile": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -275,51 +380,24 @@
             }
           },
           {
-            "name": "Party Member 1",
-            "type": "NestedChoice",
-            "id": "8aa210d3-afb0-434a-ac5d-d94bad07d8de",
-            "choice": {
-              "id": "9444fd45-638f-4311-867e-197c4f8937ae",
-              "name": "Party Member 1",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 1"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "ecf5b6d7-27fd-4434-85ab-37bd42de4e7f",
+            "commandId": "file-explorer:reveal-active-file"
           },
           {
-            "name": "Party Member 2",
+            "name": "Template - Session 0",
             "type": "NestedChoice",
-            "id": "cd29263a-516e-439e-ade7-a2c54f952f62",
+            "id": "bf2b3d1d-ea82-4610-ab79-e7a76a8fdf89",
             "choice": {
-              "id": "d9a065a2-18d8-4c2b-bbd7-17d7c26b6415",
-              "name": "Party Member 2",
+              "id": "d6aa51cf-944a-4e86-9598-d8a866b90803",
+              "name": "Template - Session 0",
               "type": "Template",
               "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
+              "templatePath": "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
               "fileNameFormat": {
                 "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 2"
+                "format": "Campaigns/{{VALUE:Campaign}}/Session Journal/0. {{DATE}}"
               },
               "folder": {
                 "enabled": false,
@@ -329,40 +407,7 @@
                 "chooseFromSubfolders": false
               },
               "appendLink": false,
-              "openFile": false,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
-          },
-          {
-            "name": "Party Member 3",
-            "type": "NestedChoice",
-            "id": "9f671fa7-11f4-4852-b3b7-3975a7ce7831",
-            "choice": {
-              "id": "4865da2f-e607-467b-9f1c-b20dd5ea6046",
-              "name": "Party Member 3",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Creatures/NPC.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Da Party/Party Member 3"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": false,
+              "openFile": true,
               "fileOpening": {
                 "location": "tab",
                 "direction": "vertical",
@@ -456,6 +501,12 @@
             }
           },
           {
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "a4978a1a-5e62-4c48-8e32-0e9897395a1f",
+            "commandId": "file-explorer:reveal-active-file"
+          },
+          {
             "name": "Template - New Quest Board",
             "type": "NestedChoice",
             "id": "1a54aebf-aee5-4a8f-a7c5-d5ac5ebf4f77",
@@ -489,37 +540,19 @@
             }
           },
           {
-            "name": "Template - Session 0",
-            "type": "NestedChoice",
-            "id": "bf2b3d1d-ea82-4610-ab79-e7a76a8fdf89",
-            "choice": {
-              "id": "d6aa51cf-944a-4e86-9598-d8a866b90803",
-              "name": "Template - Session 0",
-              "type": "Template",
-              "command": false,
-              "templatePath": "z_Templates/1. Story World Templates/Notes/Session 0 Journal.md",
-              "fileNameFormat": {
-                "enabled": true,
-                "format": "Campaigns/{{VALUE:Campaign}}/Session Journal/0. {{DATE}}"
-              },
-              "folder": {
-                "enabled": false,
-                "folders": [],
-                "chooseWhenCreatingNote": false,
-                "createInSameFolderAsActiveFile": false,
-                "chooseFromSubfolders": false
-              },
-              "appendLink": false,
-              "openFile": true,
-              "fileOpening": {
-                "location": "tab",
-                "direction": "vertical",
-                "mode": "default",
-                "focus": true
-              },
-              "fileExistsMode": "Increment the file name",
-              "setFileExistsBehavior": false
-            }
+            "filePath": "Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md",
+            "type": "OpenFile",
+            "id": "upvOt9rx5kNR67sG5BQp7",
+            "openInNewTab": false,
+            "location": "tab",
+            "focus": true,
+            "name": "Open file: Campaigns/{{VALUE:Campaign}}/{{VALUE:Campaign}}.md"
+          },
+          {
+            "name": "Files: Reveal current file in navigation",
+            "type": "Obsidian",
+            "id": "6a80f3bb-313a-4378-88ab-d39543ce2ab2",
+            "commandId": "file-explorer:reveal-active-file"
           },
           {
             "name": "Capture - Insert Controls",
@@ -569,12 +602,6 @@
               "captureToCanvasNodeId": "",
               "activeFileWritePosition": "cursor"
             }
-          },
-          {
-            "name": "Files: Reveal current file in navigation",
-            "type": "Obsidian",
-            "id": "57658d22-ed17-4920-9dee-0e9f1132ae4f",
-            "commandId": "file-explorer:reveal-active-file"
           }
         ]
       }

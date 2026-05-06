@@ -9,6 +9,96 @@ kanban-plugin: board
 - [ ] [[Campaigns/Campaign Index|Campaign Index]]
 
 
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Adamarte and Adventurers Controls
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Adamarte and Adventurers
+	```
+
+
+
+## Adamarte and Adventurers Controls
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Adamarte and Adventurers
+	```
+
+
+
+## Test World Controls
+- [ ] [[Campaigns/Test World/Test World|Test World]]
+- [ ] [[Campaigns/Test World/Test World#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Test World
+	```
+
+
+
+## Adamarte and Adventurers Controls
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers|Adamarte and Adventurers]]
+- [ ] [[Campaigns/Adamarte and Adventurers/Adamarte and Adventurers#Controls|Controls]]
+- [ ] ```calendarium
+        calendar: Adamarte and Adventurers
+	```
+
+
+
 ## Test Controls
 - [ ] [[Campaigns/Test/Test|Test]]
 - [ ] [[Campaigns/Test/Test#Controls|Controls]]
