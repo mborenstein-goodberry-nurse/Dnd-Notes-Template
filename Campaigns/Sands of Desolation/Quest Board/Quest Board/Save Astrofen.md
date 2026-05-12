@@ -1,7 +1,7 @@
 ---
 type: Quest
 subtype: Lore
-priority: 2
+priority: 4
 questNum: 0
 date: 05-01-2026
 campaign: Sands of Desolation

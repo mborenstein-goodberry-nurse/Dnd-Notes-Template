@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: So the party helps officially free the [[Griffin Empire]] and [[Bearcrest]] fucking dies
 tags:
 ---
 <div class="session-hero">
@@ -33,24 +33,32 @@ tags:
 > > [!blank]
 > > ### Party 
 > > - [[BearCrest]] 
-> > - [[Goose]] 
 > > - [[Hisirdoux]]
 > > - [[Jimminey|Jiminey Frickit]] 
 > > - [[Phoebe]]
+> > - [[Wisabi Meowbi]] <span class="new-tag">new</span>
 > > - [[Veldrin]]
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
+> > - [[Isabelle]] and [[Queen Isabel]] go to do lore stuff 
+> > 	- Hand wave Diane and Weary were with her 
+> > - [[Phoebe]] jumps onto [[Manticore]] outside
 > > ---
-> > - Gains scene 2
+> > - We meet Daniel's new character: [[Wisabi Meowbi]] 
+> > ---
+> > - Evil Owlbear reveals himself
+> > - [[BearCrest]] fucking dies 
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - [[Isabel's Castle]] 
+> > - City surrounding the castle
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[Queen Isabel]] 
+> > - [[Wisabi Meowbi]] <span class="new-tag">new</span>
+> > - Evil Owlbear 
 > 
 > > [!footer] 
 > > ## Previous Session 
