@@ -9,7 +9,7 @@ status:
 tags:
 ---
 
-![Placeholder Iconography|200x140](ImagePlaceholder.png)
+![<% tp.file.title %>|200x140](<% tp.file.title %>.png)
 
 ```statblock  
 creature: <% tp.file.title %>

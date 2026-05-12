@@ -9,13 +9,13 @@ tags:
 dice: false 
 image: <% tp.file.title %>.png
 name: <% tp.file.title %>
-size: 
-type:  
-alignment: 
+size: Medium
+type: Beast
+alignment: unaligned
 ac: Number
 hp: Number
-hit_dice: 
-speed: 
+hit_dice: Dice
+speed: 30 ft.
 stats: [10, 10, 10, 10, 10, 10]
 saves:
   - strength: 
@@ -27,10 +27,10 @@ saves:
 skillsaves:
   - perception: 
   - stealth: 
-damage_vulnerabilities: 
-damage_resistances: 
-damage_immunities: 
-condition_immunities: 
+damage_vulnerabilities: String
+damage_resistances: String
+damage_immunities: String
+condition_immunities: String
 senses: darkvision 60 ft., Passive Perception 10
 languages: -
 cr: number
@@ -63,4 +63,5 @@ reactions:
     desc: ""
   - name: ""
     desc: ""
+source: 5e SRD
 ```
