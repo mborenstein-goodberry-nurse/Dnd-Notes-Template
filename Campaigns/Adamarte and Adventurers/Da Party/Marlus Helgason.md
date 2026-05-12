@@ -11,7 +11,7 @@ aliases:
 tags:
 ---
 
-# [[Marlus]]
+# [[Marlus Helgason]]
 *`=this.summary`*
 
 #### Overview 

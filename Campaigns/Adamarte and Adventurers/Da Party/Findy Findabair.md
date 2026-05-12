@@ -8,6 +8,7 @@ summary: Roguish Warlock, woman (blech)
 attitude: Friendly
 alignment: Chaotic Evil
 aliases:
+  - Findy
 tags:
 ---
 
