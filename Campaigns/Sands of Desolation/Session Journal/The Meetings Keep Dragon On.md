@@ -70,7 +70,7 @@ The [[Templars]] and the [[Sun Home]] often join forces against the [[Resurgence
 [[Weary]] is bringing [[Joseph Caldwell]] to the meeting 
 This will be fine :)
 	As WIley uses the restroom we dragon for a while about Gen Alpha brainrot and I play the [Australian Brainrot Video](https://youtu.be/tJi0QwGlTTk?si=ysexfKUraegXTwU4)
-[[Diane]] and [[Gavin]] talk about not finding [[Weary's]] parents, then her past. 
+[[Diane]] and [[Gavin]] talk about not finding [[Weary|Weary's]] parents, then her past. 
 [[Gavin]] locks the door for no interruptions
 He did seal my memories away through [[Modify Memory]] (rat bastard dm.... XD)
 > [!quote] [[Gavin Aceso]]
@@ -121,7 +121,7 @@ Wiley adds this: [[Diane]] now has immunity to being feared/[[Frightened]] by Dr
 [[Thornwick]] mimes sex as Ratatouille
 > [!alert] [[Omnomicon/Gameplay/Long Rest|Long Rest]] zzzzzz
 
-[[Arthur]]/[[Damien]]/[[Soren]] is [[Damien]] again today
+[[Arthur or Damien or Soren]] is [[Damien]] again today
 We don't just have delegates from the [[Templars of Fate]], everyone was alerted to the meeting 
 The [[Pirate King]] is standing around, [[Joseph Caldwells]] there, introducing himself to [[Gavin]] 
 All of the sub kingdoms are here 
