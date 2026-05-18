@@ -265,6 +265,13 @@ Alias: `error`
 
 Alias: `cite`
 
+---
+
+> [!clue] Clue 
+> Clue text here 
+> 
+
+---
 ## Add code block
 
 > ```python
