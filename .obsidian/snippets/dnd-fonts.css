@@ -47,13 +47,13 @@
 
 /* Reading view */
 .markdown-preview-view, .markdown-source-view {
-  font-family: "Louis George Café", sans-serif;
+  font-family: "Eczar", sans-serif;
   line-height: 1.6;
 }
 
 /* Live Preview / Edit mode */
 .markdown-source-view.mod-cm6 .cm-content {
-  font-family: "Louis George Café", sans-serif;
+  font-family: "Eczar", sans-serif;
   line-height: 1.6;
 }
 

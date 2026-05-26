@@ -32,3 +32,6 @@ D&W: https://docs.google.com/document/d/1lkJysdHSxImZpdhQpgvqhcJ3JtIUSQ4pgPCyfgX
 Kiara: https://docs.google.com/document/d/1_XNtXABEJVCN4C6Clhqakd0FEW9uuiRkr0mtx0j9YvU/edit?tab=t.0
 
 New Beasts: 
+- https://5e.tools/bestiary/nightwalker-mtf.html
+- https://www.dndbeyond.com/monsters/16837-darkmantle?srsltid=AfmBOoqTdXeOkZJTpesJLoy4EPgFS82cIG2HYdqXS3HHjTp_RHNAyh46
+- 

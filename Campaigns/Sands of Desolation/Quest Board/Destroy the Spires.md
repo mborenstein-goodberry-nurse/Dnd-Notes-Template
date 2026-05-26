@@ -1,7 +1,7 @@
 ---
 type: Quest
 subtype: Delivery
-priority: 3
+priority: 2
 questNum: 49
 date: 04-09-2026
 campaign: Sands of Desolation
@@ -29,12 +29,12 @@ There are 3 great beacons working to converge the planes together. If we can dis
 
 #### Progression
 - [x] Procure means of Destruction (Light Bombs)
-- [ ] Find our way to the First Beacon 
+- [x] Find our way to the First Beacon 
 - [ ] Plant Bombs
-- [ ] Detonate Bombs ([[#^13b20e|See below]])
+- [ ] Detonate Bombs ([[#Additional Details|See below]])
 - [ ] Find our way to the Second Beacon 
 - [ ] Plant Bombs
-- [ ] Detonate Bombs ([[#^13b20e|See below]])
+- [ ] Detonate Bombs ([[#Additional Details|See below]])
 
 **Completed**: `INPUT[toggle(offValue(Active), onValue(Completed)):status]`
 
@@ -45,11 +45,11 @@ There are 3 great beacons working to converge the planes together. If we can dis
 
 #### Additional Details 
 How to ignite the [[Light Bomb]]s:  ^13b20e
-1. Open the casing 
+1. Open the casing  ^441d5b
 2. Pull out the large cylindrical switch, rotate it, and push it back down 
 3. After 1 minute, it will erupt, eradicating anything tainted by the [[Fox]] 
 	1. Those cursed by the fox will also be eradicated 
-	2. [[Nightwalkers]] will also be eradicated 
+	2. [[Nightwalker]]s will also be eradicated 
 4. Once the timer starts, they ***cannot*** be stopped 
 5. We ***MUST*** set both of them off on the **same turn** 
 
