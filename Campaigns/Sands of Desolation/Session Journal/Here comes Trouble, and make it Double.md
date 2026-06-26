@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: We rejoin the Shadowfell party. [[The Fox]] breaks my legs and some wings and we find the [[Nightwalkers]] guarding our first spire
 tags:
 ---
 <div class="session-hero">
@@ -32,20 +32,26 @@ tags:
 > 
 > > [!blank]
 > > ### Party 
-> > - Me
+> > - [[Aldren]] 
+> > - [[Caspian]] 
+> > - [[Arthur or Damien or Soren|Damien]] 
+> > - [[Thornwick]] 
+> > - [[Waffles]] 
 >
 > > [!todo|cyan no-title no-icon]
-> > - Gains scene 1
-> > ---
-> > - Gains scene 2
+> > - We are being suckled on by vampire slugs 
+> > - We encounter [[The Fox]] in a cave
+> > - He taunts us then breaks our wings and legs
+> > - We see our first spire in the distance
 >
 > > [!todo|brown no-title no-icon]
 > > ## Locations
-> > - Places <span class="new-tag">new</span>
+> > - Shadowfell :) 
 > 
 > > [!todo|green no-title no-icon] 
 > > ## People 
-> > - Person 
+> > - [[The Fox]] 
+> > - Helm ([[Caspian|Caspian's]] God of Protection) <span class="new-tag">new</span>
 > 
 > > [!footer] 
 > > ## Previous Session 
@@ -71,7 +77,7 @@ Thornwick dips a toe in. It feels refreshing
 As some of us touch the pillar, we all fall [[Unconscious]] 
 The pillar turns into the Fox 
 He starts taunting us 
-Thornwick's son was watching?! 
+Thornwick's son was watching?! (Maybe a joke)
 Is going to let us live because wants us to live for a bit longer 
 He breaks Caspian and [[Thornwick]]'s wings, and breaks Waffles legs 
 A bit of our soul breaks off as well, our connection to them 
@@ -111,5 +117,5 @@ Now Waffles and [[Arthur or Damien or Soren|Damien]]
 Nightwalker passes by, and an undead column 
 [[Thornwick]] and [[Arthur or Damien or Soren|Damien]]'s shift 
 The spires seem close to them, a day's travel 
-Rest passes without issue 
+Watch passes without issue 
 Damien makes Waffles some braces for his legs, 1 min don and doff, move at half speed
