@@ -30,8 +30,8 @@ There are 3 great beacons working to converge the planes together. If we can dis
 #### Progression
 - [x] Procure means of Destruction (Light Bombs)
 - [x] Find our way to the First Beacon 
-- [ ] Plant Bombs
-- [ ] Detonate Bombs ([[#Additional Details|See below]])
+- [x] Plant Bombs
+- [x] Detonate Bombs ([[#Additional Details|See below]])
 - [ ] Find our way to the Second Beacon 
 - [ ] Plant Bombs
 - [ ] Detonate Bombs ([[#Additional Details|See below]])
@@ -47,7 +47,7 @@ There are 3 great beacons working to converge the planes together. If we can dis
 How to ignite the [[Light Bomb]]s:  ^13b20e
 1. Open the casing  ^441d5b
 2. Pull out the large cylindrical switch, rotate it, and push it back down 
-3. After 1 minute, it will erupt, eradicating anything tainted by the [[Fox]] 
+3. After 3 rounds, it will erupt, eradicating anything tainted by the [[Fox]] 
 	1. Those cursed by the fox will also be eradicated 
 	2. [[Nightwalker]]s will also be eradicated 
 4. Once the timer starts, they ***cannot*** be stopped 

@@ -34,4 +34,6 @@ Kiara: https://docs.google.com/document/d/1_XNtXABEJVCN4C6Clhqakd0FEW9uuiRkr0mtx
 New Beasts: 
 - https://5e.tools/bestiary/nightwalker-mtf.html
 - https://www.dndbeyond.com/monsters/16837-darkmantle?srsltid=AfmBOoqTdXeOkZJTpesJLoy4EPgFS82cIG2HYdqXS3HHjTp_RHNAyh46
+- http://dndroll.wikidot.com/creatures:bodak
+- https://www.dndbeyond.com/monsters/17010-shadow?srsltid=AfmBOopZn_TsNVacW7WZLljauTQjH_mOS_rJgPzDWHLcZ5GhBLmPCm7r
 - 
