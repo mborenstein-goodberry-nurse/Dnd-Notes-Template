@@ -1,0 +1,63 @@
+---
+type: Session Journal
+date: 07-11-2026
+campaign: Adamarte and Adventurers
+world: Lily's World
+sessionNum: 20
+fc-calendar: Adamarte and Adventurers
+fc-date:
+  year: 0
+  month: 0
+  day: 0
+fc-category: Sessions
+summary:
+tags:
+---
+<div class="session-hero">
+  <img class="session-hero-frame" src="z_Assets/System/Medieval-Banner.png" alt="">
+</div> 
+
+
+## ✧ Session Notes
+> [!fas-infobox|right no-title] Session Overview
+> ## ✧ Session Overview ✧
+> > [!blank]
+> > |   |   | 
+> > | --- | --- |
+> > | ✦ Session | *Session `=this.sessionNum`* |
+> > | ✦ Date| *`=this.date`* |
+> > | ✦ Game | *`=this.fc-date`* |`*
+> 
+> > *`=this.summary`*
+> 
+> > [!blank]
+> > ### Party 
+> > - Me
+>
+> > [!todo|cyan no-title no-icon]
+> > - Gains scene 1
+> > ---
+> > - Gains scene 2
+>
+> > [!todo|brown no-title no-icon]
+> > ## Locations
+> > - Places <span class="new-tag">new</span>
+> 
+> > [!todo|green no-title no-icon] 
+> > ## People 
+> > - Person 
+> 
+> > [!footer] 
+> > ## Previous Session 
+> > [[Campaigns/Adamarte and Adventurers/Session Journal/Session 19|Session 19]]
+
+### Log
+We take that long rest 
+Findy still doesn't sleep because she's quirky and dead-pilled 
+Adrian talks to Ignis 
+- Doesn't get any information but HEY! he had a conversation on his own! 
+
+We do a bunch of carnival games 
+- Save the Whales! 
+
+Findy breaks some honey sticks by mistake (Nat 1) 
