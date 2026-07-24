@@ -10,7 +10,7 @@ fc-date:
   month: 0
   day: 0
 fc-category: Sessions
-summary:
+summary: We fight a legion of Shadow-creatures and Destroy the Spire!
 tags:
 ---
 <div class="session-hero">

@@ -1,16 +1,16 @@
 ---
 type: Session Journal
-date: 07-09-2026
+date: 07-17-2026
 campaign: Sands of Desolation
 world: Wiley's World
-sessionNum: 80
+sessionNum: 81
 fc-calendar: Sands of Desolation
 fc-date:
   year: 0
   month: 0
   day: 0
 fc-category: Sessions
-summary: I missed this session.
+summary: Missed this one too
 tags:
 ---
 <div class="session-hero">
@@ -49,6 +49,6 @@ tags:
 > 
 > > [!footer] 
 > > ## Previous Session 
-> > [[Campaigns/Sands of Desolation/Session Journal/Back from the Break!|Back from the Break!]]
+> > [[Campaigns/Sands of Desolation/Session Journal/Session 80|Session 80]]
 
 ### Log
