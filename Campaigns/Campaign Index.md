@@ -34,4 +34,5 @@ Kiara: https://docs.google.com/document/d/1_XNtXABEJVCN4C6Clhqakd0FEW9uuiRkr0mtx
 New Beasts: 
 - https://5e.tools/bestiary/nightwalker-mtf.html
 - http://dndroll.wikidot.com/creatures:bodak
+- https://www.aidedd.org/dnd/monstres.php?vo=death-knight 
 - 
