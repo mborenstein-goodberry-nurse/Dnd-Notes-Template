@@ -47,7 +47,7 @@ tags:
 > > ## Locations
 > > - [[Tangambalanga]] 
 > > - [[Crownsburrow]] 
-> > - [[Griffin Capital]] 
+> > - [[Griffin Home]] 
 > > - [[Isabel's Castle]] 
 > 
 > > [!todo|green no-icon no-title] 

@@ -29,7 +29,7 @@ Placeholder
 
 #### Progression
 - [x] Meet with [[Queen Isabel]] (not ours)
-- [x] Enter the [[Griffin Capital]] 
+- [x] Enter the [[Griffin Home]] 
 - [x] Presumably defeat the Red Bishop and his order
 - [x] Defeat the Imposter Queen 
 - [x] Restore [[Queen Isabel]] to the throne

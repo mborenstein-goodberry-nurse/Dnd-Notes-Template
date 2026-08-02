@@ -9,7 +9,7 @@ size: City
 attitude: Mixed
 summary: The Capital of the Griffin Empire
 ---
-# [[Griffin Capital]]
+# [[Griffin Home]]
 *`=this.summary`*
 
 #### Overview 
